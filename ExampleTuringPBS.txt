@@ -1,0 +1,53 @@
+#!/bin/bash
+### Job name for homonym bias evaluation
+#PBS -N Homonym_Bias_MinimalPair
+### Specify the queue (use gpu if models require GPU)
+#PBS -q workq
+### Request computational resources
+#PBS -l nodes=1:ppn=8
+### Maximum runtime - adjust based on model size and number of examples
+#PBS -l walltime=48:00:00
+### Memory allocation - increase if using large models
+#PBS -l mem=32gb
+### Console output log
+#PBS -o localhost:$HOME/nlp_logs/homonym_bias_output.log
+### Console error log
+#PBS -e localhost:$HOME/nlp_logs/homonym_bias_error.log
+### Email notifications for job status
+#PBS -m bae
+### Email address for notifications
+#PBS -M jkenna@colgate.edu
+### Use submission environment
+#PBS -V
+
+###
+### Job Description:
+### Evaluating homonym bias in language models using minimal pair experiments
+### - 50 homonym word types (homonymic vs monosemic synonyms)
+### - 30,000 total examples (600 examples per homonym)
+### - Each homonym has 2 conditions: original vs homonymic, original vs monosemic
+###
+
+### Change to working directory
+cd $PBS_O_WORKDIR
+
+### Activate conda environment
+source /local/JupyterHub/bin/activate && conda activate nlp
+
+### Create output directories if they don't exist
+mkdir -p $HOME/nlp_results/homonym_bias
+mkdir -p $HOME/nlp_logs
+
+### Run evaluation for homonymic pairs
+echo "Starting homonymic pairs evaluation at $(date)"
+python /home/$(whoami)/NLPScholar/main.py configs/homonym_bias_homonymic.yaml
+
+### Run evaluation for monosemic pairs (control)
+echo "Starting monosemic pairs evaluation at $(date)"
+python /home/$(whoami)/NLPScholar/main.py configs/homonym_bias_monosemic.yaml
+
+### Run analysis on results
+echo "Starting analysis at $(date)"
+python /home/$(whoami)/NLPScholar/main.py configs/homonym_bias_analysis.yaml
+
+echo "Job completed at $(date)"
