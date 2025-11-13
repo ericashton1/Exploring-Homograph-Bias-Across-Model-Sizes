@@ -1,0 +1,636 @@
+5. Order ([command: 4722, instruction: 3009] vs [arrangement: 2328, sequence: 2635])
+Meaning 1: Directive or command (command/instruction)
+
+The captain gave an order to fire the engines.
+The captain gave a command to fire the engines.
+The captain gave an instruction to fire the engines.
+
+He followed the order without hesitation.
+He followed the command without hesitation.
+He followed the instruction without hesitation.
+
+The general issued an order to move forward.
+The general issued a command to move forward.
+The general issued an instruction to move forward.
+
+She refused to obey the order.
+She refused to obey the command.
+She refused to obey the instruction.
+
+The manager gave an order to stop production.
+The manager gave a command to stop production.
+The manager gave an instruction to stop production.
+
+Meaning 2: Arrangement or sequence (arrangement/sequence)
+
+The files were organized in alphabetical order.
+The files were organized in alphabetical arrangement.
+The files were organized in alphabetical sequence.
+
+Please keep the documents in the right order.
+Please keep the documents in the right arrangement.
+Please keep the documents in the right sequence.
+
+The books were lined up in a neat order.
+The books were lined up in a neat arrangement.
+The books were lined up in a neat sequence.
+
+He listed the steps in the correct order.
+He listed the steps in the correct arrangement.
+He listed the steps in the correct sequence.
+
+The teacher asked us to number the items in order.
+The teacher asked us to number the items in arrangement.
+The teacher asked us to number the items in sequence.
+
+6. Capital ([metropolis: 367, city: 48281] and [assets: 5141, wealth: 5396])
+Meaning 1: Main city of a country or region (metropolis/city)
+
+Paris is the capital of France.
+Paris is the metropolis of France.
+Paris is the city of France.
+
+The capital is home to the country’s government.
+The metropolis is home to the country’s government.
+The city is home to the country’s government.
+
+We spent two days exploring the capital.
+We spent two days exploring the metropolis.
+We spent two days exploring the city.
+
+London is the most well known capital in the United Kingdom.
+London is the most well known metropolis in the United Kingdom.
+London is the most well known city in the United Kingdom.
+
+The capital attracts millions of tourists each year.
+The metropolis attracts millions of tourists each year.
+The city attracts millions of tourists each year.
+
+Meaning 2: Financial assets or wealth (asset/wealth)
+
+He invested all his capital in the new company.
+He invested all his assets in the new company.
+He invested all his wealth in the new company.
+
+The firm raised capital to expand its operations.
+The firm raised assets to expand its operations.
+The firm raised wealth to expand its operations.
+
+They lost a large amount of capital during the crisis.
+They lost a large amount of assets during the crisis.
+They lost a large amount of wealth during the crisis.
+
+The entrepreneur used his capital to start the business.
+The entrepreneur used his assets to start the business.
+The entrepreneur used his wealth to start the business.
+
+Foreign capital plays a major role in local growth.
+Foreign assets play a major role in local growth.
+Foreign wealth plays a major role in local growth.
+
+7. Sentence ([judgment: 179, decision: 12107] vs [clause: 722, phrase: 2772])
+Meaning 1: Judicial punishment (judgment/decision)
+
+The judge delivered a harsh sentence after the trial.
+The judge delivered a harsh judgment after the trial.
+The judge delivered a harsh decision after the trial.
+
+He appealed the sentence given by the court.
+He appealed the judgment given by the court.
+He appealed the decision given by the court.
+
+The sentence was reduced due to good behavior.
+The judgment was reduced due to good behavior.
+The decision was reduced due to good behavior.
+
+The jury’s verdict influenced the final sentence.
+The jury’s verdict influenced the final judgment.
+The jury’s verdict influenced the final decision.
+
+The sentence reflected the seriousness of the crime.
+The judgment reflected the seriousness of the crime.
+The decision reflected the seriousness of the crime.
+
+Meaning 2: Group of words expressing a thought (clause/phrase)
+
+Each student had to write a complete sentence on the board.
+Each student had to write a complete clause on the board.
+Each student had to write a complete phrase on the board.
+
+That sentence doesn’t have a subject or a verb.
+That clause doesn’t have a subject or a verb.
+That phrase doesn’t have a subject or a verb.
+
+Please correct the grammar in this sentence.
+Please correct the grammar in this clause.
+Please correct the grammar in this phrase.
+
+The sentence ended with an exclamation mark.
+The clause ended with an exclamation mark.
+The phrase ended with an exclamation mark.
+
+She wrote a long sentence full of descriptive words.
+She wrote a long clause full of descriptive words.
+She wrote a long phrase full of descriptive words.
+
+
+8. Fit ([healthy: 13340, athletic: 2329] and [appropriate: 5421, suited: 1886])
+Meaning 1: Physically healthy or strong (healthy/athletic)
+
+She goes to the gym every day to stay fit.
+She goes to the gym every day to stay healthy.
+She goes to the gym every day to stay athletic.
+
+After months of training, he finally felt fit again.
+After months of training, he finally felt healthy again.
+After months of training, he finally felt athletic again.
+
+The coach said she was fit enough to compete.
+The coach said she was healthy enough to compete.
+The coach said she was athletic enough to compete.
+
+He eats well to keep his body fit.
+He eats well to keep his body healthy.
+He eats well to keep his body athletic.
+
+They admire people who are strong and fit.
+They admire people who are strong and healthy.
+They admire people who are strong and athletic.
+
+Meaning 2: Suitable or appropriate (appropriate/suited)
+
+That dress is not fit for a formal dinner.
+That dress is not appropriate for a formal dinner.
+That dress is not suited for a formal dinner.
+
+The movie is not fit for young children.
+The movie is not appropriate for young children.
+The movie is not suited for young children.
+
+This tool is fit for heavy construction work.
+This tool is appropriate for heavy construction work.
+This tool is suited for heavy construction work.
+
+Her remarks were not fit for a public event.
+Her remarks were not appropriate for a public event.
+Her remarks were not suited for a public event.
+
+Only candidates fit for leadership will be considered.
+Only candidates appropriate for leadership will be considered.
+Only candidates suited for leadership will be considered.
+
+9. Dust ([sweep: 1571, wipe: 1499] and [sprinkle: 3969, spray: 4567])
+Meaning 1: To clean by removing dust (sweep/wipe)
+
+I like to dust the shelves before guests arrive.
+I like to sweep the shelves before guests arrive.
+I like to wipe the shelves before guests arrive.
+
+They always dust the furniture on weekends.
+They always sweep the furniture on weekends.
+They always wipe the furniture on weekends.
+
+We need to dust the old books before putting them back.
+We need to sweep the old books before putting them back.
+We need to wipe the old books before putting them back.
+
+She prefers to dust the windowsills every morning.
+She prefers to sweep the windowsills every morning.
+She prefers to wipe the windowsills every morning.
+
+He likes to dust the table before dinner.
+He likes to sweep the table before dinner.
+He likes to wipe the table before dinner.
+
+Meaning 2: To sprinkle lightly (sprinkle/spray)
+
+I like to dust the cake with powdered sugar.
+I like to sprinkle the cake with powdered sugar.
+I like to spray the cake with powdered sugar.
+
+She likes to dust the cookies with cocoa before serving them.
+She likes to sprinkle the cookies with cocoa before serving them.
+She likes to spray the cookies with cocoa before serving them.
+
+The chef likes to dust the plate with herbs for decoration.
+The chef likes to sprinkle the plate with herbs for decoration.
+The chef likes to spray the plate with herbs for decoration.
+
+We often dust the brownies with sugar before packaging them.
+We often sprinkle the brownies with sugar before packaging them.
+We often spray the brownies with sugar before packaging them.
+
+She loves to dust her clothes with perfume before going out.
+She loves to sprinkle her clothes with perfume before going out.
+She loves to spray her clothes with perfume before going out.
+
+10. Fan ([ventilator: 166, blower: 225] and [supporter: 784, enthusiast: 424])
+Meaning 1: Device for moving air (ventilator/blower)
+
+The fan kept the room cool during the summer.
+The ventilator kept the room cool during the summer.
+The blower kept the room cool during the summer.
+
+He switched on the fan to circulate the air.
+He switched on the ventilator to circulate the air.
+He switched on the blower to circulate the air.
+
+The fan made a quiet humming sound.
+The ventilator made a quiet humming sound.
+The blower made a quiet humming sound.
+
+They installed a new fan in the ceiling.
+They installed a new ventilator in the ceiling.
+They installed a new blower in the ceiling.
+
+She cleaned the fan blades to improve airflow.
+She cleaned the ventilator blades to improve airflow.
+She cleaned the blower blades to improve airflow.
+
+Meaning 2: Admirer or supporter (supporter/enthusiast)
+
+She’s a huge fan of classical music.
+She’s a huge supporter of classical music.
+She’s a huge enthusiast of classical music.
+
+He’s a loyal fan of the local football team.
+He’s a loyal supporter of the local football team.
+He’s a loyal enthusiast of the local football team.
+
+The fan cheered loudly during the concert.
+The supporter cheered loudly during the concert.
+The enthusiast cheered loudly during the concert.
+
+Every fan in the stadium wore team colors.
+Every supporter in the stadium wore team colors.
+Every enthusiast in the stadium wore team colors.
+
+She’s been a fan of that artist for years.
+She’s been a supporter of that artist for years.
+She’s been an enthusiast of that artist for years.
+
+11. Hard: 37982 ([solid: 7280, dense: 2526] and [difficult: 17469, strenuous: 366])
+Meaning 1: Firm or solid (solid/dense)
+
+The rock was too hard to break with a hammer.
+The rock was too solid to break with a hammer.
+The rock was too dense to break with a hammer.
+
+The ground was hard after the long drought.
+The ground was solid after the long drought.
+The ground was dense after the long drought.
+
+The frozen soil felt hard underfoot.
+The frozen soil felt solid underfoot.
+The frozen soil felt dense underfoot.
+
+The wood was hard and difficult to cut.
+The wood was solid and difficult to cut.
+The wood was dense and difficult to cut.
+
+Diamond is a really hard material.
+Diamond is a really solid material.
+Diamond is a really dense material.
+
+Meaning 2: Requiring effort or difficulty (difficult/strenuous)
+
+The exam was much harder than anyone expected.
+The exam was much more difficult than anyone expected.
+The exam was much more strenuous than anyone expected.
+
+It’s hard to learn a new language as an adult.
+It’s difficult to learn a new language as an adult.
+It’s strenuous to learn a new language as an adult.
+
+The hike was hard but rewarding.
+The hike was difficult but rewarding.
+The hike was strenuous but rewarding.
+
+Finishing the project on time was hard.
+Finishing the project on time was difficult.
+Finishing the project on time was strenuous.
+
+Solving that problem was really hard for me.
+Solving that problem was really difficult for me.
+Solving that problem was really strenuous for me.
+
+
+
+12. Cover: 9186 ([protect: 11197, shelter: 2957] vs [report: 20845, detail: 5552])
+Meaning 1: To protect or shield (protect/shelter)
+
+She used an umbrella to cover herself from the rain.
+She used an umbrella to protect herself from the rain.
+She used an umbrella to shelter herself from the rain.
+
+The stone canopy covered the entrance from the rain.
+The stone canopy protected the entrance from the rain.
+The stone canopy sheltered the entrance from the rain.
+
+He covered the plants before the frost came.
+He protected the plants before the frost came.
+He sheltered the plants before the frost came.
+
+The wall was built to cover the garden from the wind.
+The wall was built to protect the garden from the wind.
+The wall was built to shelter the garden from the wind.
+
+She covered her head with her hands during the storm.
+She protected her head with her hands during the storm.
+She sheltered her head with her hands during the storm.
+
+Meaning 2: To report or describe an event (report/detail)
+
+The journalist was sent to cover the election results.
+The journalist was sent to report the election results.
+The journalist was sent to detail the election results.
+
+He covered the story for the local newspaper.
+He reported the story for the local newspaper.
+He detailed the story for the local newspaper.
+
+The documentary covers the history of the region.
+The documentary reports the history of the region.
+The documentary details the history of the region.
+
+She was asked to cover the conference for the magazine.
+She was asked to report the conference for the magazine.
+She was asked to detail the conference for the magazine.
+
+The news team covered the accident live from the scene.
+The news team reported the accident live from the scene.
+The news team detailed the accident live from the scene
+
+
+2. Hack ([chop: 1475, slash: 742] vs [infiltrate: 178, invade: 593])
+Meaning 1: To cut roughly (hack/chop/slash)
+
+I hack through the thick vines with a machete.
+I chop through the thick vines with a machete.
+I slash through the thick vines with a machete.
+
+The butchers hack the meat into smaller pieces.
+The butchers chop the meat into smaller pieces.
+The butchers slash the meat into smaller pieces.
+
+They hack away at the branches until the path is clear.
+They chop away at the branches until the path is clear.
+They slash away at the branches until the path is clear.
+
+They hack a rough trail through the forest.
+They chop a rough trail through the forest.
+They slash a rough trail through the forest.
+
+He and his family hack the wood to make kindling for the fire.
+He and his family chop the wood to make kindling for the fire.
+He and his family slash the wood to make kindling for the fire.
+
+Meaning 2: To gain unauthorized access (hack/infiltrate/invade)
+
+They hack the company’s server.
+They infiltrate the company’s server.
+They invade the company’s server.
+
+Some evil people hack his email account.
+Some evil people infiltrate his email account.
+Some evil people invade his email account.
+
+The group named Anonymous hack the system to expose security flaws.
+The group named Anonymous infiltrate the system to expose security flaws.
+The group named Anonymous invade the system to expose security flaws.
+
+Hackers hack the government database.
+Hackers infiltrate the government database.
+Hackers invade the government database.
+
+They hack the network to steal sensitive data.
+They infiltrate the network to steal sensitive data.
+They invade the network to steal sensitive data.
+
+10. Cool ([chilly: 728, freezing: 1548] and [stylish: 1269, fashionable: 992])
+Meaning 1: Moderately cold (chilly/freezing)
+
+The morning air felt cool after the rain.
+The morning air felt chilly after the rain.
+The morning air felt freezing after the rain.
+
+It’s getting cool now that the sun has gone down.
+It’s getting chilly now that the sun has gone down.
+It’s getting freezing now that the sun has gone down.
+
+The breeze from the ocean was cool and refreshing.
+The breeze from the ocean was chilly and refreshing.
+The breeze from the ocean was freezing and refreshing.
+
+She put on a jacket to stay warm in the cool evening.
+She put on a jacket to stay warm in the chilly evening.
+She put on a jacket to stay warm in the freezing evening.
+
+The water in the pool was cool to the touch.
+The water in the pool was chilly to the touch.
+The water in the pool was freezing to the touch.
+
+Meaning 2: Fashionable or impressive (stylish/fashionable)
+
+That jacket looks really cool on you.
+That jacket looks really stylish on you.
+That jacket looks really fashionable on you.
+
+He always wears cool sunglasses wherever he goes.
+He always wears stylish sunglasses wherever he goes.
+He always wears fashionable sunglasses wherever he goes.
+
+Her haircut is so cool and modern.
+Her haircut is so stylish and modern.
+Her haircut is so fashionable and modern.
+
+The new phone design looks sleek and cool.
+The new phone design looks sleek and stylish.
+The new phone design looks sleek and fashionable.
+
+Everyone thought his dance moves were super cool.
+Everyone thought his dance moves were super stylish.
+Everyone thought his dance moves were super fashionable.
+
+
+6. Race: 13451 ([contest: 2556, competition: 539] vs [ethnicity: 442, descent: 1279])
+Meaning 1: A speed contest (contest/competition)
+
+He trained for months to win the race.
+He trained for months to win the contest.
+He trained for months to win the competition.
+
+The runners lined up for the start of the race.
+The runners lined up for the start of the contest.
+The runners lined up for the start of the competition.
+
+She finished the race just a second behind the winner.
+She finished the contest just a second behind the winner.
+She finished the competition just a second behind the winner.
+
+The annual charity race raised thousands of dollars.
+The annual charity contest raised thousands of dollars.
+The annual charity competition raised thousands of dollars.
+
+He entered the race hoping to beat his personal best.
+He entered the contest hoping to beat his personal best.
+He entered the competition hoping to beat his personal best.
+
+Meaning 2: A group of people sharing ancestry (ethnicity/descent)
+
+The census asked respondents to identify their race.
+The census asked respondents to identify their ethnicity.
+The census asked respondents to identify their descent.
+
+Discussions about race are important for social understanding.
+Discussions about ethnicity are important for social understanding.
+Discussions about descent are important for social understanding.
+
+The country is home to people of many different races.
+The country is home to people of many different ethnicities.
+The country is home to people of many different descents.
+
+The study examined how race influences access to education.
+The study examined how ethnicity influences access to education.
+The study examined how descent influences access to education.
+
+He spoke about his pride in his race and cultural heritage.
+He spoke about his pride in his ethnicity and cultural heritage.
+He spoke about his pride in his descent and cultural heritage.
+
+7. Party: 23048 ([alliance: 2960, affiliation: 7530] vs [carnival: 574, event: 12288])
+Meaning 1: Political group (alliance/affiliation)
+
+She has been a loyal member of the Democratic party for years.
+She has been a loyal member of the Democratic alliance for years.
+She has been a loyal member of the Democratic affiliation for years.
+
+The new party gained several seats in parliament.
+The new alliance gained several seats in parliament.
+The new affiliation gained several seats in parliament.
+
+Political debates were held between the two major parties.
+Political debates were held between the two major alliances.
+Political debates were held between the two major affiliations.
+
+The party announced its new platform on climate change.
+The alliance announced its new platform on climate change.
+The affiliation announced its new platform on climate change.
+
+He decided to leave his old party and join another one.
+He decided to leave his old alliance and join another one.
+He decided to leave his old affiliation and join another one.
+
+Meaning 2: Social gathering (carnival/event)
+
+They threw a huge party to celebrate the end of exams.
+They threw a huge carnival to celebrate the end of exams.
+They threw a huge event to celebrate the end of exams.
+
+She hosted a surprise party for her best friend.
+She hosted a surprise carnival for her best friend.
+She hosted a surprise event for her best friend.
+
+The party lasted late into the night with music and dancing.
+The carnival lasted late into the night with music and dancing.
+The event lasted late into the night with music and dancing.
+
+We decorated the house for the birthday party.
+We decorated the house for the birthday carnival.
+We decorated the house for the birthday event.
+
+Everyone dressed up for the holiday party.
+Everyone dressed up for the holiday carnival.
+Everyone dressed up for the holiday event.
+
+8. Sweet: 10054 ([loving: 2715, caring: 1990] and [sugary: 401, candied: 221])
+Meaning 1: Kind or affectionate (loving/caring)
+
+That was such a sweet thing to say to your friend.
+That was such a loving thing to say to your friend.
+That was such a caring thing to say to your friend.
+
+He gave her a sweet smile when she walked in.
+He gave her a loving smile when she walked in.
+He gave her a caring smile when she walked in.
+
+She wrote a sweet note to thank her teacher.
+She wrote a loving note to thank her teacher.
+She wrote a caring note to thank her teacher.
+
+Their sweet gesture made everyone in the room smile.
+Their loving gesture made everyone in the room smile.
+Their caring gesture made everyone in the room smile.
+
+It was sweet of you to help carry the groceries.
+It was loving of you to help carry the groceries.
+It was caring of you to help carry the groceries.
+
+Meaning 2: Sugary in taste (sugary/candied)
+
+The dessert was too sweet for my taste.
+The dessert was too sugary for my taste.
+The dessert was too candied for my taste.
+
+She prefers sweet coffee over bitter tea.
+She prefers sugary coffee over bitter tea.
+She prefers candied coffee over bitter tea.
+
+The sweet aroma of chocolate filled the kitchen.
+The sugary aroma of chocolate filled the kitchen.
+The candied aroma of chocolate filled the kitchen.
+
+He made a sweet sauce to drizzle over the pancakes.
+He made a sugary sauce to drizzle over the pancakes.
+He made a candied sauce to drizzle over the pancakes.
+
+The fruit was perfectly ripe and sweet.
+The fruit was perfectly ripe and sugary.
+The fruit was perfectly ripe and candied.
+
+
+4. Note: 6012 ([tone: 4020, sound: 16529] and [memo: 1330, message: 10991])
+Meaning 1: Musical sound (tone/sound)
+
+The pianist hit a beautiful note that lingered in the hall.
+The pianist hit a beautiful tone that lingered in the hall.
+The pianist hit a beautiful sound that lingered in the hall.
+
+She played every note of the song perfectly.
+She played every tone of the song perfectly.
+She played every sound of the song perfectly.
+
+The violinist held the final note for several seconds.
+The violinist held the final tone for several seconds.
+The violinist held the final sound for several seconds.
+
+He missed one note during his solo performance.
+He missed one tone during his solo performance.
+He missed one sound during his solo performance.
+
+The singer struggled to reach the highest note in the piece.
+The singer struggled to reach the highest tone in the piece.
+The singer struggled to reach the highest sound in the piece.
+
+Meaning 2: Written message (memo/message)
+
+She left a note on the table to remind him about the meeting.
+She left a memo on the table to remind him about the meeting.
+She left a message on the table to remind him about the meeting.
+
+He wrote a short note to apologize for being late.
+He wrote a short memo to apologize for being late.
+He wrote a short message to apologize for being late.
+
+There was a handwritten note waiting for her at the door.
+There was a handwritten memo waiting for her at the door.
+There was a handwritten message waiting for her at the door.
+
+She slipped a note under his office door before leaving.
+She slipped a memo under his office door before leaving.
+She slipped a message under his office door before leaving.
+
+He received a note from his teacher about the homework.
+He received a memo from his teacher about the homework.
+He received a message from his teacher about the homework.
+

@@ -1,0 +1,1189 @@
+	sentid	pairid	sentence	roi
+0	1	1	"
+"	0
+1	2	2	"The captain gave an order to fire the engines.
+"	0
+2	3	3	"The captain gave a command to fire the engines.
+"	0
+3	4	4	"The captain gave an instruction to fire the engines.
+"	0
+4	5	5	"
+"	0
+5	6	6	"He followed the order without hesitation.
+"	0
+6	7	7	"He followed the command without hesitation.
+"	0
+7	8	8	"He followed the instruction without hesitation.
+"	0
+8	9	9	"
+"	0
+9	10	10	"The general issued an order to move forward.
+"	0
+10	11	11	"The general issued a command to move forward.
+"	0
+11	12	12	"The general issued an instruction to move forward.
+"	0
+12	13	13	"
+"	0
+13	14	14	"She refused to obey the order.
+"	0
+14	15	15	"She refused to obey the command.
+"	0
+15	16	16	"She refused to obey the instruction.
+"	0
+16	17	17	"
+"	0
+17	18	18	"The manager gave an order to stop production.
+"	0
+18	19	19	"The manager gave a command to stop production.
+"	0
+19	20	20	"The manager gave an instruction to stop production.
+"	0
+20	21	21	"
+"	0
+21	22	22	"
+"	0
+22	23	23	"The files were organized in alphabetical order.
+"	0
+23	24	24	"The files were organized in alphabetical arrangement.
+"	0
+24	25	25	"The files were organized in alphabetical sequence.
+"	0
+25	26	26	"
+"	0
+26	27	27	"Please keep the documents in the right order.
+"	0
+27	28	28	"Please keep the documents in the right arrangement.
+"	0
+28	29	29	"Please keep the documents in the right sequence.
+"	0
+29	30	30	"
+"	0
+30	31	31	"The books were lined up in a neat order.
+"	0
+31	32	32	"The books were lined up in a neat arrangement.
+"	0
+32	33	33	"The books were lined up in a neat sequence.
+"	0
+33	34	34	"
+"	0
+34	35	35	"He listed the steps in the correct order.
+"	0
+35	36	36	"He listed the steps in the correct arrangement.
+"	0
+36	37	37	"He listed the steps in the correct sequence.
+"	0
+37	38	38	"
+"	0
+38	39	39	"The teacher asked us to number the items in order.
+"	0
+39	40	40	"The teacher asked us to number the items in arrangement.
+"	0
+40	41	41	"The teacher asked us to number the items in sequence.
+"	0
+41	42	42	"
+"	0
+42	43	43	"
+"	0
+43	44	44	"Paris is the capital of France.
+"	0
+44	45	45	"Paris is the metropolis of France.
+"	0
+45	46	46	"Paris is the city of France.
+"	0
+46	47	47	"
+"	0
+47	48	48	"The capital is home to the country’s government.
+"	0
+48	49	49	"The metropolis is home to the country’s government.
+"	0
+49	50	50	"The city is home to the country’s government.
+"	0
+50	51	51	"
+"	0
+51	52	52	"We spent two days exploring the capital.
+"	0
+52	53	53	"We spent two days exploring the metropolis.
+"	0
+53	54	54	"We spent two days exploring the city.
+"	0
+54	55	55	"
+"	0
+55	56	56	"London is the most well known capital in the United Kingdom.
+"	0
+56	57	57	"London is the most well known metropolis in the United Kingdom.
+"	0
+57	58	58	"London is the most well known city in the United Kingdom.
+"	0
+58	59	59	"
+"	0
+59	60	60	"The capital attracts millions of tourists each year.
+"	0
+60	61	61	"The metropolis attracts millions of tourists each year.
+"	0
+61	62	62	"The city attracts millions of tourists each year.
+"	0
+62	63	63	"
+"	0
+63	64	64	"
+"	0
+64	65	65	"He invested all his capital in the new company.
+"	0
+65	66	66	"He invested all his assets in the new company.
+"	0
+66	67	67	"He invested all his wealth in the new company.
+"	0
+67	68	68	"
+"	0
+68	69	69	"The firm raised capital to expand its operations.
+"	0
+69	70	70	"The firm raised assets to expand its operations.
+"	0
+70	71	71	"The firm raised wealth to expand its operations.
+"	0
+71	72	72	"
+"	0
+72	73	73	"They lost a large amount of capital during the crisis.
+"	0
+73	74	74	"They lost a large amount of assets during the crisis.
+"	0
+74	75	75	"They lost a large amount of wealth during the crisis.
+"	0
+75	76	76	"
+"	0
+76	77	77	"The entrepreneur used his capital to start the business.
+"	0
+77	78	78	"The entrepreneur used his assets to start the business.
+"	0
+78	79	79	"The entrepreneur used his wealth to start the business.
+"	0
+79	80	80	"
+"	0
+80	81	81	"Foreign capital plays a major role in local growth.
+"	0
+81	82	82	"Foreign assets play a major role in local growth.
+"	0
+82	83	83	"Foreign wealth plays a major role in local growth.
+"	0
+83	84	84	"
+"	0
+84	85	85	"
+"	0
+85	86	86	"The judge delivered a harsh sentence after the trial.
+"	0
+86	87	87	"The judge delivered a harsh judgment after the trial.
+"	0
+87	88	88	"The judge delivered a harsh decision after the trial.
+"	0
+88	89	89	"
+"	0
+89	90	90	"He appealed the sentence given by the court.
+"	0
+90	91	91	"He appealed the judgment given by the court.
+"	0
+91	92	92	"He appealed the decision given by the court.
+"	0
+92	93	93	"
+"	0
+93	94	94	"The sentence was reduced due to good behavior.
+"	0
+94	95	95	"The judgment was reduced due to good behavior.
+"	0
+95	96	96	"The decision was reduced due to good behavior.
+"	0
+96	97	97	"
+"	0
+97	98	98	"The jury’s verdict influenced the final sentence.
+"	0
+98	99	99	"The jury’s verdict influenced the final judgment.
+"	0
+99	100	100	"The jury’s verdict influenced the final decision.
+"	0
+100	101	101	"
+"	0
+101	102	102	"The sentence reflected the seriousness of the crime.
+"	0
+102	103	103	"The judgment reflected the seriousness of the crime.
+"	0
+103	104	104	"The decision reflected the seriousness of the crime.
+"	0
+104	105	105	"
+"	0
+105	106	106	"
+"	0
+106	107	107	"Each student had to write a complete sentence on the board.
+"	0
+107	108	108	"Each student had to write a complete clause on the board.
+"	0
+108	109	109	"Each student had to write a complete phrase on the board.
+"	0
+109	110	110	"
+"	0
+110	111	111	"That sentence doesn’t have a subject or a verb.
+"	0
+111	112	112	"That clause doesn’t have a subject or a verb.
+"	0
+112	113	113	"That phrase doesn’t have a subject or a verb.
+"	0
+113	114	114	"
+"	0
+114	115	115	"Please correct the grammar in this sentence.
+"	0
+115	116	116	"Please correct the grammar in this clause.
+"	0
+116	117	117	"Please correct the grammar in this phrase.
+"	0
+117	118	118	"
+"	0
+118	119	119	"The sentence ended with an exclamation mark.
+"	0
+119	120	120	"The clause ended with an exclamation mark.
+"	0
+120	121	121	"The phrase ended with an exclamation mark.
+"	0
+121	122	122	"
+"	0
+122	123	123	"She wrote a long sentence full of descriptive words.
+"	0
+123	124	124	"She wrote a long clause full of descriptive words.
+"	0
+124	125	125	"She wrote a long phrase full of descriptive words.
+"	0
+125	126	126	"
+"	0
+126	127	127	"
+"	0
+127	128	128	"
+"	0
+128	129	129	"She goes to the gym every day to stay fit.
+"	0
+129	130	130	"She goes to the gym every day to stay healthy.
+"	0
+130	131	131	"She goes to the gym every day to stay athletic.
+"	0
+131	132	132	"
+"	0
+132	133	133	"After months of training, he finally felt fit again.
+"	0
+133	134	134	"After months of training, he finally felt healthy again.
+"	0
+134	135	135	"After months of training, he finally felt athletic again.
+"	0
+135	136	136	"
+"	0
+136	137	137	"The coach said she was fit enough to compete.
+"	0
+137	138	138	"The coach said she was healthy enough to compete.
+"	0
+138	139	139	"The coach said she was athletic enough to compete.
+"	0
+139	140	140	"
+"	0
+140	141	141	"He eats well to keep his body fit.
+"	0
+141	142	142	"He eats well to keep his body healthy.
+"	0
+142	143	143	"He eats well to keep his body athletic.
+"	0
+143	144	144	"
+"	0
+144	145	145	"They admire people who are strong and fit.
+"	0
+145	146	146	"They admire people who are strong and healthy.
+"	0
+146	147	147	"They admire people who are strong and athletic.
+"	0
+147	148	148	"
+"	0
+148	149	149	"
+"	0
+149	150	150	"That dress is not fit for a formal dinner.
+"	0
+150	151	151	"That dress is not appropriate for a formal dinner.
+"	0
+151	152	152	"That dress is not suited for a formal dinner.
+"	0
+152	153	153	"
+"	0
+153	154	154	"The movie is not fit for young children.
+"	0
+154	155	155	"The movie is not appropriate for young children.
+"	0
+155	156	156	"The movie is not suited for young children.
+"	0
+156	157	157	"
+"	0
+157	158	158	"This tool is fit for heavy construction work.
+"	0
+158	159	159	"This tool is appropriate for heavy construction work.
+"	0
+159	160	160	"This tool is suited for heavy construction work.
+"	0
+160	161	161	"
+"	0
+161	162	162	"Her remarks were not fit for a public event.
+"	0
+162	163	163	"Her remarks were not appropriate for a public event.
+"	0
+163	164	164	"Her remarks were not suited for a public event.
+"	0
+164	165	165	"
+"	0
+165	166	166	"Only candidates fit for leadership will be considered.
+"	0
+166	167	167	"Only candidates appropriate for leadership will be considered.
+"	0
+167	168	168	"Only candidates suited for leadership will be considered.
+"	0
+168	169	169	"
+"	0
+169	170	170	"
+"	0
+170	171	171	"I like to dust the shelves before guests arrive.
+"	0
+171	172	172	"I like to sweep the shelves before guests arrive.
+"	0
+172	173	173	"I like to wipe the shelves before guests arrive.
+"	0
+173	174	174	"
+"	0
+174	175	175	"They always dust the furniture on weekends.
+"	0
+175	176	176	"They always sweep the furniture on weekends.
+"	0
+176	177	177	"They always wipe the furniture on weekends.
+"	0
+177	178	178	"
+"	0
+178	179	179	"We need to dust the old books before putting them back.
+"	0
+179	180	180	"We need to sweep the old books before putting them back.
+"	0
+180	181	181	"We need to wipe the old books before putting them back.
+"	0
+181	182	182	"
+"	0
+182	183	183	"She prefers to dust the windowsills every morning.
+"	0
+183	184	184	"She prefers to sweep the windowsills every morning.
+"	0
+184	185	185	"She prefers to wipe the windowsills every morning.
+"	0
+185	186	186	"
+"	0
+186	187	187	"He likes to dust the table before dinner.
+"	0
+187	188	188	"He likes to sweep the table before dinner.
+"	0
+188	189	189	"He likes to wipe the table before dinner.
+"	0
+189	190	190	"
+"	0
+190	191	191	"
+"	0
+191	192	192	"I like to dust the cake with powdered sugar.
+"	0
+192	193	193	"I like to sprinkle the cake with powdered sugar.
+"	0
+193	194	194	"I like to spray the cake with powdered sugar.
+"	0
+194	195	195	"
+"	0
+195	196	196	"She likes to dust the cookies with cocoa before serving them.
+"	0
+196	197	197	"She likes to sprinkle the cookies with cocoa before serving them.
+"	0
+197	198	198	"She likes to spray the cookies with cocoa before serving them.
+"	0
+198	199	199	"
+"	0
+199	200	200	"The chef likes to dust the plate with herbs for decoration.
+"	0
+200	201	201	"The chef likes to sprinkle the plate with herbs for decoration.
+"	0
+201	202	202	"The chef likes to spray the plate with herbs for decoration.
+"	0
+202	203	203	"
+"	0
+203	204	204	"We often dust the brownies with sugar before packaging them.
+"	0
+204	205	205	"We often sprinkle the brownies with sugar before packaging them.
+"	0
+205	206	206	"We often spray the brownies with sugar before packaging them.
+"	0
+206	207	207	"
+"	0
+207	208	208	"She loves to dust her clothes with perfume before going out.
+"	0
+208	209	209	"She loves to sprinkle her clothes with perfume before going out.
+"	0
+209	210	210	"She loves to spray her clothes with perfume before going out.
+"	0
+210	211	211	"
+"	0
+211	212	212	"
+"	0
+212	213	213	"The fan kept the room cool during the summer.
+"	0
+213	214	214	"The ventilator kept the room cool during the summer.
+"	0
+214	215	215	"The blower kept the room cool during the summer.
+"	0
+215	216	216	"
+"	0
+216	217	217	"He switched on the fan to circulate the air.
+"	0
+217	218	218	"He switched on the ventilator to circulate the air.
+"	0
+218	219	219	"He switched on the blower to circulate the air.
+"	0
+219	220	220	"
+"	0
+220	221	221	"The fan made a quiet humming sound.
+"	0
+221	222	222	"The ventilator made a quiet humming sound.
+"	0
+222	223	223	"The blower made a quiet humming sound.
+"	0
+223	224	224	"
+"	0
+224	225	225	"They installed a new fan in the ceiling.
+"	0
+225	226	226	"They installed a new ventilator in the ceiling.
+"	0
+226	227	227	"They installed a new blower in the ceiling.
+"	0
+227	228	228	"
+"	0
+228	229	229	"She cleaned the fan blades to improve airflow.
+"	0
+229	230	230	"She cleaned the ventilator blades to improve airflow.
+"	0
+230	231	231	"She cleaned the blower blades to improve airflow.
+"	0
+231	232	232	"
+"	0
+232	233	233	"
+"	0
+233	234	234	"She’s a huge fan of classical music.
+"	0
+234	235	235	"She’s a huge supporter of classical music.
+"	0
+235	236	236	"She’s a huge enthusiast of classical music.
+"	0
+236	237	237	"
+"	0
+237	238	238	"He’s a loyal fan of the local football team.
+"	0
+238	239	239	"He’s a loyal supporter of the local football team.
+"	0
+239	240	240	"He’s a loyal enthusiast of the local football team.
+"	0
+240	241	241	"
+"	0
+241	242	242	"The fan cheered loudly during the concert.
+"	0
+242	243	243	"The supporter cheered loudly during the concert.
+"	0
+243	244	244	"The enthusiast cheered loudly during the concert.
+"	0
+244	245	245	"
+"	0
+245	246	246	"Every fan in the stadium wore team colors.
+"	0
+246	247	247	"Every supporter in the stadium wore team colors.
+"	0
+247	248	248	"Every enthusiast in the stadium wore team colors.
+"	0
+248	249	249	"
+"	0
+249	250	250	"She’s been a fan of that artist for years.
+"	0
+250	251	251	"She’s been a supporter of that artist for years.
+"	0
+251	252	252	"She’s been an enthusiast of that artist for years.
+"	0
+252	253	253	"
+"	0
+253	254	254	"
+"	0
+254	255	255	"The rock was too hard to break with a hammer.
+"	0
+255	256	256	"The rock was too solid to break with a hammer.
+"	0
+256	257	257	"The rock was too dense to break with a hammer.
+"	0
+257	258	258	"
+"	0
+258	259	259	"The ground was hard after the long drought.
+"	0
+259	260	260	"The ground was solid after the long drought.
+"	0
+260	261	261	"The ground was dense after the long drought.
+"	0
+261	262	262	"
+"	0
+262	263	263	"The frozen soil felt hard underfoot.
+"	0
+263	264	264	"The frozen soil felt solid underfoot.
+"	0
+264	265	265	"The frozen soil felt dense underfoot.
+"	0
+265	266	266	"
+"	0
+266	267	267	"The wood was hard and difficult to cut.
+"	0
+267	268	268	"The wood was solid and difficult to cut.
+"	0
+268	269	269	"The wood was dense and difficult to cut.
+"	0
+269	270	270	"
+"	0
+270	271	271	"Diamond is a really hard material.
+"	0
+271	272	272	"Diamond is a really solid material.
+"	0
+272	273	273	"Diamond is a really dense material.
+"	0
+273	274	274	"
+"	0
+274	275	275	"
+"	0
+275	276	276	"The exam was much harder than anyone expected.
+"	0
+276	277	277	"The exam was much more difficult than anyone expected.
+"	0
+277	278	278	"The exam was much more strenuous than anyone expected.
+"	0
+278	279	279	"
+"	0
+279	280	280	"It’s hard to learn a new language as an adult.
+"	0
+280	281	281	"It’s difficult to learn a new language as an adult.
+"	0
+281	282	282	"It’s strenuous to learn a new language as an adult.
+"	0
+282	283	283	"
+"	0
+283	284	284	"The hike was hard but rewarding.
+"	0
+284	285	285	"The hike was difficult but rewarding.
+"	0
+285	286	286	"The hike was strenuous but rewarding.
+"	0
+286	287	287	"
+"	0
+287	288	288	"Finishing the project on time was hard.
+"	0
+288	289	289	"Finishing the project on time was difficult.
+"	0
+289	290	290	"Finishing the project on time was strenuous.
+"	0
+290	291	291	"
+"	0
+291	292	292	"Solving that problem was really hard for me.
+"	0
+292	293	293	"Solving that problem was really difficult for me.
+"	0
+293	294	294	"Solving that problem was really strenuous for me.
+"	0
+294	295	295	"
+"	0
+295	296	296	"
+"	0
+296	297	297	"
+"	0
+297	298	298	"
+"	0
+298	299	299	"She used an umbrella to cover herself from the rain.
+"	0
+299	300	300	"She used an umbrella to protect herself from the rain.
+"	0
+300	301	301	"She used an umbrella to shelter herself from the rain.
+"	0
+301	302	302	"
+"	0
+302	303	303	"The stone canopy covered the entrance from the rain.
+"	0
+303	304	304	"The stone canopy protected the entrance from the rain.
+"	0
+304	305	305	"The stone canopy sheltered the entrance from the rain.
+"	0
+305	306	306	"
+"	0
+306	307	307	"He covered the plants before the frost came.
+"	0
+307	308	308	"He protected the plants before the frost came.
+"	0
+308	309	309	"He sheltered the plants before the frost came.
+"	0
+309	310	310	"
+"	0
+310	311	311	"The wall was built to cover the garden from the wind.
+"	0
+311	312	312	"The wall was built to protect the garden from the wind.
+"	0
+312	313	313	"The wall was built to shelter the garden from the wind.
+"	0
+313	314	314	"
+"	0
+314	315	315	"She covered her head with her hands during the storm.
+"	0
+315	316	316	"She protected her head with her hands during the storm.
+"	0
+316	317	317	"She sheltered her head with her hands during the storm.
+"	0
+317	318	318	"
+"	0
+318	319	319	"
+"	0
+319	320	320	"The journalist was sent to cover the election results.
+"	0
+320	321	321	"The journalist was sent to report the election results.
+"	0
+321	322	322	"The journalist was sent to detail the election results.
+"	0
+322	323	323	"
+"	0
+323	324	324	"He covered the story for the local newspaper.
+"	0
+324	325	325	"He reported the story for the local newspaper.
+"	0
+325	326	326	"He detailed the story for the local newspaper.
+"	0
+326	327	327	"
+"	0
+327	328	328	"The documentary covers the history of the region.
+"	0
+328	329	329	"The documentary reports the history of the region.
+"	0
+329	330	330	"The documentary details the history of the region.
+"	0
+330	331	331	"
+"	0
+331	332	332	"She was asked to cover the conference for the magazine.
+"	0
+332	333	333	"She was asked to report the conference for the magazine.
+"	0
+333	334	334	"She was asked to detail the conference for the magazine.
+"	0
+334	335	335	"
+"	0
+335	336	336	"The news team covered the accident live from the scene.
+"	0
+336	337	337	"The news team reported the accident live from the scene.
+"	0
+337	338	338	"The news team detailed the accident live from the scene
+"	0
+338	339	339	"
+"	0
+339	340	340	"
+"	0
+340	341	341	"
+"	0
+341	342	342	"I hack through the thick vines with a machete.
+"	0
+342	343	343	"I chop through the thick vines with a machete.
+"	0
+343	344	344	"I slash through the thick vines with a machete.
+"	0
+344	345	345	"
+"	0
+345	346	346	"The butchers hack the meat into smaller pieces.
+"	0
+346	347	347	"The butchers chop the meat into smaller pieces.
+"	0
+347	348	348	"The butchers slash the meat into smaller pieces.
+"	0
+348	349	349	"
+"	0
+349	350	350	"They hack away at the branches until the path is clear.
+"	0
+350	351	351	"They chop away at the branches until the path is clear.
+"	0
+351	352	352	"They slash away at the branches until the path is clear.
+"	0
+352	353	353	"
+"	0
+353	354	354	"They hack a rough trail through the forest.
+"	0
+354	355	355	"They chop a rough trail through the forest.
+"	0
+355	356	356	"They slash a rough trail through the forest.
+"	0
+356	357	357	"
+"	0
+357	358	358	"He and his family hack the wood to make kindling for the fire.
+"	0
+358	359	359	"He and his family chop the wood to make kindling for the fire.
+"	0
+359	360	360	"He and his family slash the wood to make kindling for the fire.
+"	0
+360	361	361	"
+"	0
+361	362	362	"
+"	0
+362	363	363	"They hack the company’s server.
+"	0
+363	364	364	"They infiltrate the company’s server.
+"	0
+364	365	365	"They invade the company’s server.
+"	0
+365	366	366	"
+"	0
+366	367	367	"Some evil people hack his email account.
+"	0
+367	368	368	"Some evil people infiltrate his email account.
+"	0
+368	369	369	"Some evil people invade his email account.
+"	0
+369	370	370	"
+"	0
+370	371	371	"The group named Anonymous hack the system to expose security flaws.
+"	0
+371	372	372	"The group named Anonymous infiltrate the system to expose security flaws.
+"	0
+372	373	373	"The group named Anonymous invade the system to expose security flaws.
+"	0
+373	374	374	"
+"	0
+374	375	375	"Hackers hack the government database.
+"	0
+375	376	376	"Hackers infiltrate the government database.
+"	0
+376	377	377	"Hackers invade the government database.
+"	0
+377	378	378	"
+"	0
+378	379	379	"They hack the network to steal sensitive data.
+"	0
+379	380	380	"They infiltrate the network to steal sensitive data.
+"	0
+380	381	381	"They invade the network to steal sensitive data.
+"	0
+381	382	382	"
+"	0
+382	383	383	"
+"	0
+383	384	384	"The morning air felt cool after the rain.
+"	0
+384	385	385	"The morning air felt chilly after the rain.
+"	0
+385	386	386	"The morning air felt freezing after the rain.
+"	0
+386	387	387	"
+"	0
+387	388	388	"It’s getting cool now that the sun has gone down.
+"	0
+388	389	389	"It’s getting chilly now that the sun has gone down.
+"	0
+389	390	390	"It’s getting freezing now that the sun has gone down.
+"	0
+390	391	391	"
+"	0
+391	392	392	"The breeze from the ocean was cool and refreshing.
+"	0
+392	393	393	"The breeze from the ocean was chilly and refreshing.
+"	0
+393	394	394	"The breeze from the ocean was freezing and refreshing.
+"	0
+394	395	395	"
+"	0
+395	396	396	"She put on a jacket to stay warm in the cool evening.
+"	0
+396	397	397	"She put on a jacket to stay warm in the chilly evening.
+"	0
+397	398	398	"She put on a jacket to stay warm in the freezing evening.
+"	0
+398	399	399	"
+"	0
+399	400	400	"The water in the pool was cool to the touch.
+"	0
+400	401	401	"The water in the pool was chilly to the touch.
+"	0
+401	402	402	"The water in the pool was freezing to the touch.
+"	0
+402	403	403	"
+"	0
+403	404	404	"
+"	0
+404	405	405	"That jacket looks really cool on you.
+"	0
+405	406	406	"That jacket looks really stylish on you.
+"	0
+406	407	407	"That jacket looks really fashionable on you.
+"	0
+407	408	408	"
+"	0
+408	409	409	"He always wears cool sunglasses wherever he goes.
+"	0
+409	410	410	"He always wears stylish sunglasses wherever he goes.
+"	0
+410	411	411	"He always wears fashionable sunglasses wherever he goes.
+"	0
+411	412	412	"
+"	0
+412	413	413	"Her haircut is so cool and modern.
+"	0
+413	414	414	"Her haircut is so stylish and modern.
+"	0
+414	415	415	"Her haircut is so fashionable and modern.
+"	0
+415	416	416	"
+"	0
+416	417	417	"The new phone design looks sleek and cool.
+"	0
+417	418	418	"The new phone design looks sleek and stylish.
+"	0
+418	419	419	"The new phone design looks sleek and fashionable.
+"	0
+419	420	420	"
+"	0
+420	421	421	"Everyone thought his dance moves were super cool.
+"	0
+421	422	422	"Everyone thought his dance moves were super stylish.
+"	0
+422	423	423	"Everyone thought his dance moves were super fashionable.
+"	0
+423	424	424	"
+"	0
+424	425	425	"
+"	0
+425	426	426	"
+"	0
+426	427	427	"He trained for months to win the race.
+"	0
+427	428	428	"He trained for months to win the contest.
+"	0
+428	429	429	"He trained for months to win the competition.
+"	0
+429	430	430	"
+"	0
+430	431	431	"The runners lined up for the start of the race.
+"	0
+431	432	432	"The runners lined up for the start of the contest.
+"	0
+432	433	433	"The runners lined up for the start of the competition.
+"	0
+433	434	434	"
+"	0
+434	435	435	"She finished the race just a second behind the winner.
+"	0
+435	436	436	"She finished the contest just a second behind the winner.
+"	0
+436	437	437	"She finished the competition just a second behind the winner.
+"	0
+437	438	438	"
+"	0
+438	439	439	"The annual charity race raised thousands of dollars.
+"	0
+439	440	440	"The annual charity contest raised thousands of dollars.
+"	0
+440	441	441	"The annual charity competition raised thousands of dollars.
+"	0
+441	442	442	"
+"	0
+442	443	443	"He entered the race hoping to beat his personal best.
+"	0
+443	444	444	"He entered the contest hoping to beat his personal best.
+"	0
+444	445	445	"He entered the competition hoping to beat his personal best.
+"	0
+445	446	446	"
+"	0
+446	447	447	"
+"	0
+447	448	448	"The census asked respondents to identify their race.
+"	0
+448	449	449	"The census asked respondents to identify their ethnicity.
+"	0
+449	450	450	"The census asked respondents to identify their descent.
+"	0
+450	451	451	"
+"	0
+451	452	452	"Discussions about race are important for social understanding.
+"	0
+452	453	453	"Discussions about ethnicity are important for social understanding.
+"	0
+453	454	454	"Discussions about descent are important for social understanding.
+"	0
+454	455	455	"
+"	0
+455	456	456	"The country is home to people of many different races.
+"	0
+456	457	457	"The country is home to people of many different ethnicities.
+"	0
+457	458	458	"The country is home to people of many different descents.
+"	0
+458	459	459	"
+"	0
+459	460	460	"The study examined how race influences access to education.
+"	0
+460	461	461	"The study examined how ethnicity influences access to education.
+"	0
+461	462	462	"The study examined how descent influences access to education.
+"	0
+462	463	463	"
+"	0
+463	464	464	"He spoke about his pride in his race and cultural heritage.
+"	0
+464	465	465	"He spoke about his pride in his ethnicity and cultural heritage.
+"	0
+465	466	466	"He spoke about his pride in his descent and cultural heritage.
+"	0
+466	467	467	"
+"	0
+467	468	468	"
+"	0
+468	469	469	"She has been a loyal member of the Democratic party for years.
+"	0
+469	470	470	"She has been a loyal member of the Democratic alliance for years.
+"	0
+470	471	471	"She has been a loyal member of the Democratic affiliation for years.
+"	0
+471	472	472	"
+"	0
+472	473	473	"The new party gained several seats in parliament.
+"	0
+473	474	474	"The new alliance gained several seats in parliament.
+"	0
+474	475	475	"The new affiliation gained several seats in parliament.
+"	0
+475	476	476	"
+"	0
+476	477	477	"Political debates were held between the two major parties.
+"	0
+477	478	478	"Political debates were held between the two major alliances.
+"	0
+478	479	479	"Political debates were held between the two major affiliations.
+"	0
+479	480	480	"
+"	0
+480	481	481	"The party announced its new platform on climate change.
+"	0
+481	482	482	"The alliance announced its new platform on climate change.
+"	0
+482	483	483	"The affiliation announced its new platform on climate change.
+"	0
+483	484	484	"
+"	0
+484	485	485	"He decided to leave his old party and join another one.
+"	0
+485	486	486	"He decided to leave his old alliance and join another one.
+"	0
+486	487	487	"He decided to leave his old affiliation and join another one.
+"	0
+487	488	488	"
+"	0
+488	489	489	"
+"	0
+489	490	490	"They threw a huge party to celebrate the end of exams.
+"	0
+490	491	491	"They threw a huge carnival to celebrate the end of exams.
+"	0
+491	492	492	"They threw a huge event to celebrate the end of exams.
+"	0
+492	493	493	"
+"	0
+493	494	494	"She hosted a surprise party for her best friend.
+"	0
+494	495	495	"She hosted a surprise carnival for her best friend.
+"	0
+495	496	496	"She hosted a surprise event for her best friend.
+"	0
+496	497	497	"
+"	0
+497	498	498	"The party lasted late into the night with music and dancing.
+"	0
+498	499	499	"The carnival lasted late into the night with music and dancing.
+"	0
+499	500	500	"The event lasted late into the night with music and dancing.
+"	0
+500	501	501	"
+"	0
+501	502	502	"We decorated the house for the birthday party.
+"	0
+502	503	503	"We decorated the house for the birthday carnival.
+"	0
+503	504	504	"We decorated the house for the birthday event.
+"	0
+504	505	505	"
+"	0
+505	506	506	"Everyone dressed up for the holiday party.
+"	0
+506	507	507	"Everyone dressed up for the holiday carnival.
+"	0
+507	508	508	"Everyone dressed up for the holiday event.
+"	0
+508	509	509	"
+"	0
+509	510	510	"
+"	0
+510	511	511	"That was such a sweet thing to say to your friend.
+"	0
+511	512	512	"That was such a loving thing to say to your friend.
+"	0
+512	513	513	"That was such a caring thing to say to your friend.
+"	0
+513	514	514	"
+"	0
+514	515	515	"He gave her a sweet smile when she walked in.
+"	0
+515	516	516	"He gave her a loving smile when she walked in.
+"	0
+516	517	517	"He gave her a caring smile when she walked in.
+"	0
+517	518	518	"
+"	0
+518	519	519	"She wrote a sweet note to thank her teacher.
+"	0
+519	520	520	"She wrote a loving note to thank her teacher.
+"	0
+520	521	521	"She wrote a caring note to thank her teacher.
+"	0
+521	522	522	"
+"	0
+522	523	523	"Their sweet gesture made everyone in the room smile.
+"	0
+523	524	524	"Their loving gesture made everyone in the room smile.
+"	0
+524	525	525	"Their caring gesture made everyone in the room smile.
+"	0
+525	526	526	"
+"	0
+526	527	527	"It was sweet of you to help carry the groceries.
+"	0
+527	528	528	"It was loving of you to help carry the groceries.
+"	0
+528	529	529	"It was caring of you to help carry the groceries.
+"	0
+529	530	530	"
+"	0
+530	531	531	"
+"	0
+531	532	532	"The dessert was too sweet for my taste.
+"	0
+532	533	533	"The dessert was too sugary for my taste.
+"	0
+533	534	534	"The dessert was too candied for my taste.
+"	0
+534	535	535	"
+"	0
+535	536	536	"She prefers sweet coffee over bitter tea.
+"	0
+536	537	537	"She prefers sugary coffee over bitter tea.
+"	0
+537	538	538	"She prefers candied coffee over bitter tea.
+"	0
+538	539	539	"
+"	0
+539	540	540	"The sweet aroma of chocolate filled the kitchen.
+"	0
+540	541	541	"The sugary aroma of chocolate filled the kitchen.
+"	0
+541	542	542	"The candied aroma of chocolate filled the kitchen.
+"	0
+542	543	543	"
+"	0
+543	544	544	"He made a sweet sauce to drizzle over the pancakes.
+"	0
+544	545	545	"He made a sugary sauce to drizzle over the pancakes.
+"	0
+545	546	546	"He made a candied sauce to drizzle over the pancakes.
+"	0
+546	547	547	"
+"	0
+547	548	548	"The fruit was perfectly ripe and sweet.
+"	0
+548	549	549	"The fruit was perfectly ripe and sugary.
+"	0
+549	550	550	"The fruit was perfectly ripe and candied.
+"	0
+550	551	551	"
+"	0
+551	552	552	"
+"	0
+552	553	553	"
+"	0
+553	554	554	"The pianist hit a beautiful note that lingered in the hall.
+"	0
+554	555	555	"The pianist hit a beautiful tone that lingered in the hall.
+"	0
+555	556	556	"The pianist hit a beautiful sound that lingered in the hall.
+"	0
+556	557	557	"
+"	0
+557	558	558	"She played every note of the song perfectly.
+"	0
+558	559	559	"She played every tone of the song perfectly.
+"	0
+559	560	560	"She played every sound of the song perfectly.
+"	0
+560	561	561	"
+"	0
+561	562	562	"The violinist held the final note for several seconds.
+"	0
+562	563	563	"The violinist held the final tone for several seconds.
+"	0
+563	564	564	"The violinist held the final sound for several seconds.
+"	0
+564	565	565	"
+"	0
+565	566	566	"He missed one note during his solo performance.
+"	0
+566	567	567	"He missed one tone during his solo performance.
+"	0
+567	568	568	"He missed one sound during his solo performance.
+"	0
+568	569	569	"
+"	0
+569	570	570	"The singer struggled to reach the highest note in the piece.
+"	0
+570	571	571	"The singer struggled to reach the highest tone in the piece.
+"	0
+571	572	572	"The singer struggled to reach the highest sound in the piece.
+"	0
+572	573	573	"
+"	0
+573	574	574	"
+"	0
+574	575	575	"She left a note on the table to remind him about the meeting.
+"	0
+575	576	576	"She left a memo on the table to remind him about the meeting.
+"	0
+576	577	577	"She left a message on the table to remind him about the meeting.
+"	0
+577	578	578	"
+"	0
+578	579	579	"He wrote a short note to apologize for being late.
+"	0
+579	580	580	"He wrote a short memo to apologize for being late.
+"	0
+580	581	581	"He wrote a short message to apologize for being late.
+"	0
+581	582	582	"
+"	0
+582	583	583	"There was a handwritten note waiting for her at the door.
+"	0
+583	584	584	"There was a handwritten memo waiting for her at the door.
+"	0
+584	585	585	"There was a handwritten message waiting for her at the door.
+"	0
+585	586	586	"
+"	0
+586	587	587	"She slipped a note under his office door before leaving.
+"	0
+587	588	588	"She slipped a memo under his office door before leaving.
+"	0
+588	589	589	"She slipped a message under his office door before leaving.
+"	0
+589	590	590	"
+"	0
+590	591	591	"He received a note from his teacher about the homework.
+"	0
+591	592	592	"He received a memo from his teacher about the homework.
+"	0
+592	593	593	"He received a message from his teacher about the homework.
+"	0
+593	594	594	"
+"	0
