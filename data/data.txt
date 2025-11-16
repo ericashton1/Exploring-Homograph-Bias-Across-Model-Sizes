@@ -1,4 +1,4 @@
-5. Order ([command: 4722, instruction: 3009] vs [arrangement: 2328, sequence: 2635])
+1. Order: 24691 ([command: 4722, instruction: 3009] vs [arrangement: 2328, sequence: 2635])
 Meaning 1: Directive or command (command/instruction)
 
 The captain gave an order to fire the engines.
@@ -43,7 +43,7 @@ The teacher asked us to number the items in order.
 The teacher asked us to number the items in arrangement.
 The teacher asked us to number the items in sequence.
 
-6. Capital ([metropolis: 367, city: 48281] and [assets: 5141, wealth: 5396])
+2. Capital: 11048 ([metropolis: 367, city: 48281] and [assets: 5141, wealth: 5396])
 Meaning 1: Main city of a country or region (metropolis/city)
 
 Paris is the capital of France.
@@ -88,7 +88,7 @@ Foreign capital plays a major role in local growth.
 Foreign assets play a major role in local growth.
 Foreign wealth plays a major role in local growth.
 
-7. Sentence ([judgment: 179, decision: 12107] vs [clause: 722, phrase: 2772])
+3. Sentence: 2385 ([judgment: 179, decision: 12107] vs [clause: 722, phrase: 2772])
 Meaning 1: Judicial punishment (judgment/decision)
 
 The judge delivered a harsh sentence after the trial.
@@ -134,7 +134,7 @@ She wrote a long clause full of descriptive words.
 She wrote a long phrase full of descriptive words.
 
 
-8. Fit ([healthy: 13340, athletic: 2329] and [appropriate: 5421, suited: 1886])
+4. Fit: 12829 ([healthy: 13340, athletic: 2329] and [appropriate: 5421, suited: 1886])
 Meaning 1: Physically healthy or strong (healthy/athletic)
 
 She goes to the gym every day to stay fit.
@@ -179,7 +179,7 @@ Only candidates fit for leadership will be considered.
 Only candidates appropriate for leadership will be considered.
 Only candidates suited for leadership will be considered.
 
-9. Dust ([sweep: 1571, wipe: 1499] and [sprinkle: 3969, spray: 4567])
+5. Dust: 6427 ([sweep: 1571, wipe: 1499] and [sprinkle: 3969, spray: 4567])
 Meaning 1: To clean by removing dust (sweep/wipe)
 
 I like to dust the shelves before guests arrive.
@@ -224,7 +224,7 @@ She loves to dust her clothes with perfume before going out.
 She loves to sprinkle her clothes with perfume before going out.
 She loves to spray her clothes with perfume before going out.
 
-10. Fan ([ventilator: 166, blower: 225] and [supporter: 784, enthusiast: 424])
+6. Fan: 5668 ([ventilator: 166, blower: 225] and [supporter: 784, enthusiast: 424])
 Meaning 1: Device for moving air (ventilator/blower)
 
 The fan kept the room cool during the summer.
@@ -269,7 +269,7 @@ She’s been a fan of that artist for years.
 She’s been a supporter of that artist for years.
 She’s been an enthusiast of that artist for years.
 
-11. Hard: 37982 ([solid: 7280, dense: 2526] and [difficult: 17469, strenuous: 366])
+7. Hard: 37982 ([solid: 7280, dense: 2526] and [difficult: 17469, strenuous: 366])
 Meaning 1: Firm or solid (solid/dense)
 
 The rock was too hard to break with a hammer.
@@ -316,7 +316,7 @@ Solving that problem was really strenuous for me.
 
 
 
-12. Cover: 9186 ([protect: 11197, shelter: 2957] vs [report: 20845, detail: 5552])
+8. Cover: 9186 ([protect: 11197, shelter: 2957] vs [report: 20845, detail: 5552])
 Meaning 1: To protect or shield (protect/shelter)
 
 She used an umbrella to cover herself from the rain.
@@ -362,7 +362,7 @@ The news team reported the accident live from the scene.
 The news team detailed the accident live from the scene
 
 
-2. Hack ([chop: 1475, slash: 742] vs [infiltrate: 178, invade: 593])
+9. Hack: 757 ([chop: 1475, slash: 742] vs [infiltrate: 178, invade: 593])
 Meaning 1: To cut roughly (hack/chop/slash)
 
 I hack through the thick vines with a machete.
@@ -407,7 +407,7 @@ They hack the network to steal sensitive data.
 They infiltrate the network to steal sensitive data.
 They invade the network to steal sensitive data.
 
-10. Cool ([chilly: 728, freezing: 1548] and [stylish: 1269, fashionable: 992])
+10. Cool: 15828 ([chilly: 728, freezing: 1548] and [stylish: 1269, fashionable: 992])
 Meaning 1: Moderately cold (chilly/freezing)
 
 The morning air felt cool after the rain.
@@ -453,7 +453,7 @@ Everyone thought his dance moves were super stylish.
 Everyone thought his dance moves were super fashionable.
 
 
-6. Race: 13451 ([contest: 2556, competition: 539] vs [ethnicity: 442, descent: 1279])
+11. Race: 13451 ([contest: 2556, competition: 539] vs [ethnicity: 442, descent: 1279])
 Meaning 1: A speed contest (contest/competition)
 
 He trained for months to win the race.
@@ -498,7 +498,7 @@ He spoke about his pride in his race and cultural heritage.
 He spoke about his pride in his ethnicity and cultural heritage.
 He spoke about his pride in his descent and cultural heritage.
 
-7. Party: 23048 ([alliance: 2960, affiliation: 7530] vs [carnival: 574, event: 12288])
+12. Party: 23048 ([alliance: 2960, affiliation: 7530] vs [carnival: 574, event: 12288])
 Meaning 1: Political group (alliance/affiliation)
 
 She has been a loyal member of the Democratic party for years.
@@ -543,7 +543,7 @@ Everyone dressed up for the holiday party.
 Everyone dressed up for the holiday carnival.
 Everyone dressed up for the holiday event.
 
-8. Sweet: 10054 ([loving: 2715, caring: 1990] and [sugary: 401, candied: 221])
+13. Sweet: 10054 ([loving: 2715, caring: 1990] and [sugary: 401, candied: 221])
 Meaning 1: Kind or affectionate (loving/caring)
 
 That was such a sweet thing to say to your friend.
@@ -589,7 +589,7 @@ The fruit was perfectly ripe and sugary.
 The fruit was perfectly ripe and candied.
 
 
-4. Note: 6012 ([tone: 4020, sound: 16529] and [memo: 1330, message: 10991])
+14. Note: 6012 ([tone: 4020, sound: 16529] and [memo: 1330, message: 10991])
 Meaning 1: Musical sound (tone/sound)
 
 The pianist hit a beautiful note that lingered in the hall.
