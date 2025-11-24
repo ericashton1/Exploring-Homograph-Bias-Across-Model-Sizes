@@ -1,4 +1,4 @@
-1. Order: 24691 ([command: 4722, instruction: 3009] vs [arrangement: 2328, sequence: 2635])
+5. Order ([command: 4722, instruction: 3009] vs [arrangement: 2328, sequence: 2635])
 Meaning 1: Directive or command (command/instruction)
 
 The captain gave an order to fire the engines.
@@ -43,7 +43,7 @@ The teacher asked us to number the items in order.
 The teacher asked us to number the items in arrangement.
 The teacher asked us to number the items in sequence.
 
-2. Capital: 11048 ([metropolis: 367, city: 48281] and [assets: 5141, wealth: 5396])
+6. Capital ([metropolis: 367, city: 48281] and [assets: 5141, wealth: 5396])
 Meaning 1: Main city of a country or region (metropolis/city)
 
 Paris is the capital of France.
@@ -88,7 +88,7 @@ Foreign capital plays a major role in local growth.
 Foreign assets play a major role in local growth.
 Foreign wealth plays a major role in local growth.
 
-3. Sentence: 2385 ([judgment: 179, decision: 12107] vs [clause: 722, phrase: 2772])
+7. Sentence ([judgment: 179, decision: 12107] vs [clause: 722, phrase: 2772])
 Meaning 1: Judicial punishment (judgment/decision)
 
 The judge delivered a harsh sentence after the trial.
@@ -134,7 +134,7 @@ She wrote a long clause full of descriptive words.
 She wrote a long phrase full of descriptive words.
 
 
-4. Fit: 12829 ([healthy: 13340, athletic: 2329] and [appropriate: 5421, suited: 1886])
+8. Fit ([healthy: 13340, athletic: 2329] and [appropriate: 5421, suited: 1886])
 Meaning 1: Physically healthy or strong (healthy/athletic)
 
 She goes to the gym every day to stay fit.
@@ -179,7 +179,7 @@ Only candidates fit for leadership will be considered.
 Only candidates appropriate for leadership will be considered.
 Only candidates suited for leadership will be considered.
 
-5. Dust: 6427 ([sweep: 1571, wipe: 1499] and [sprinkle: 3969, spray: 4567])
+9. Dust ([sweep: 1571, wipe: 1499] and [sprinkle: 3969, spray: 4567])
 Meaning 1: To clean by removing dust (sweep/wipe)
 
 I like to dust the shelves before guests arrive.
@@ -224,7 +224,7 @@ She loves to dust her clothes with perfume before going out.
 She loves to sprinkle her clothes with perfume before going out.
 She loves to spray her clothes with perfume before going out.
 
-6. Fan: 5668 ([ventilator: 166, blower: 225] and [supporter: 784, enthusiast: 424])
+10. Fan ([ventilator: 166, blower: 225] and [supporter: 784, enthusiast: 424])
 Meaning 1: Device for moving air (ventilator/blower)
 
 The fan kept the room cool during the summer.
@@ -269,7 +269,7 @@ She’s been a fan of that artist for years.
 She’s been a supporter of that artist for years.
 She’s been an enthusiast of that artist for years.
 
-7. Hard: 37982 ([solid: 7280, dense: 2526] and [difficult: 17469, strenuous: 366])
+11. Hard: 37982 ([solid: 7280, dense: 2526] and [difficult: 17469, strenuous: 366])
 Meaning 1: Firm or solid (solid/dense)
 
 The rock was too hard to break with a hammer.
@@ -316,7 +316,7 @@ Solving that problem was really strenuous for me.
 
 
 
-8. Cover: 9186 ([protect: 11197, shelter: 2957] vs [report: 20845, detail: 5552])
+12. Cover: 9186 ([protect: 11197, shelter: 2957] vs [report: 20845, detail: 5552])
 Meaning 1: To protect or shield (protect/shelter)
 
 She used an umbrella to cover herself from the rain.
@@ -362,7 +362,7 @@ The news team reported the accident live from the scene.
 The news team detailed the accident live from the scene
 
 
-9. Hack: 757 ([chop: 1475, slash: 742] vs [infiltrate: 178, invade: 593])
+2. Hack ([chop: 1475, slash: 742] vs [infiltrate: 178, invade: 593])
 Meaning 1: To cut roughly (hack/chop/slash)
 
 I hack through the thick vines with a machete.
@@ -407,7 +407,7 @@ They hack the network to steal sensitive data.
 They infiltrate the network to steal sensitive data.
 They invade the network to steal sensitive data.
 
-10. Cool: 15828 ([chilly: 728, freezing: 1548] and [stylish: 1269, fashionable: 992])
+10. Cool ([chilly: 728, freezing: 1548] and [stylish: 1269, fashionable: 992])
 Meaning 1: Moderately cold (chilly/freezing)
 
 The morning air felt cool after the rain.
@@ -453,7 +453,7 @@ Everyone thought his dance moves were super stylish.
 Everyone thought his dance moves were super fashionable.
 
 
-11. Race: 13451 ([contest: 2556, competition: 539] vs [ethnicity: 442, descent: 1279])
+6. Race: 13451 ([contest: 2556, competition: 539] vs [ethnicity: 442, descent: 1279])
 Meaning 1: A speed contest (contest/competition)
 
 He trained for months to win the race.
@@ -498,7 +498,7 @@ He spoke about his pride in his race and cultural heritage.
 He spoke about his pride in his ethnicity and cultural heritage.
 He spoke about his pride in his descent and cultural heritage.
 
-12. Party: 23048 ([alliance: 2960, affiliation: 7530] vs [carnival: 574, event: 12288])
+7. Party: 23048 ([alliance: 2960, affiliation: 7530] vs [carnival: 574, event: 12288])
 Meaning 1: Political group (alliance/affiliation)
 
 She has been a loyal member of the Democratic party for years.
@@ -543,7 +543,7 @@ Everyone dressed up for the holiday party.
 Everyone dressed up for the holiday carnival.
 Everyone dressed up for the holiday event.
 
-13. Sweet: 10054 ([loving: 2715, caring: 1990] and [sugary: 401, candied: 221])
+8. Sweet: 10054 ([loving: 2715, caring: 1990] and [sugary: 401, candied: 221])
 Meaning 1: Kind or affectionate (loving/caring)
 
 That was such a sweet thing to say to your friend.
@@ -589,7 +589,7 @@ The fruit was perfectly ripe and sugary.
 The fruit was perfectly ripe and candied.
 
 
-14. Note: 6012 ([tone: 4020, sound: 16529] and [memo: 1330, message: 10991])
+4. Note: 6012 ([tone: 4020, sound: 16529] and [memo: 1330, message: 10991])
 Meaning 1: Musical sound (tone/sound)
 
 The pianist hit a beautiful note that lingered in the hall.
@@ -633,4 +633,930 @@ She slipped a message under his office door before leaving.
 He received a note from his teacher about the homework.
 He received a memo from his teacher about the homework.
 He received a message from his teacher about the homework.
+
+
+1. Plain: ([simple, undecorated] and [obvious, apparent])
+
+Meaning 1: Simple or undecorated (simple/undecorated)
+
+The room was completely plain inside.
+The room was completely simple inside.
+The room was completely undecorated inside.
+
+Her dress was very plain but elegant.
+Her dress was very simple but elegant.
+Her dress was very undecorated but elegant.
+
+The walls looked plain without any paintings.
+The walls looked simple without any paintings.
+The walls looked undecorated without any paintings.
+
+The table was plain and functional.
+The table was simple and functional.
+The table was undecorated and functional.
+
+He chose a plain design for the invitation.
+He chose a simple design for the invitation.
+He chose an undecorated design for the invitation.
+
+Meaning 2: Obvious or apparent (obvious/apparent)
+
+It was plain that she was upset.
+It was obvious that she was upset.
+It was apparent that she was upset.
+
+The reason for the delay was plain to everyone.
+The reason for the delay was obvious to everyone.
+The reason for the delay was apparent to everyone.
+
+His disappointment was plain on his face.
+His disappointment was obvious on his face.
+His disappointment was apparent on his face.
+
+The mistake was plain after we reviewed the numbers.
+The mistake was obvious after we reviewed the numbers.
+The mistake was apparent after we reviewed the numbers.
+
+It became plain that the plan would not work.
+It became obvious that the plan would not work.
+It became apparent that the plan would not work.
+
+2. Lean: ([tilt, bend] and [rely, depend])
+
+Meaning 1: Tilt or bend (tilt/bend)
+
+The tower began to lean slightly to the east.
+The tower began to tilt slightly to the east.
+The tower began to bend slightly to the east.
+
+He watched the tree lean in the strong wind.
+He watched the tree tilt in the strong wind.
+He watched the tree bend in the strong wind.
+
+The pole would lean if not secured properly.
+The pole would tilt if not secured properly.
+The pole would bend if not secured properly.
+
+The picture started to lean on the wall.
+The picture started to tilt on the wall.
+The picture started to bend on the wall.
+
+The bike would lean when parked on uneven ground.
+The bike would tilt when parked on uneven ground.
+The bike would bend when parked on uneven ground.
+
+Meaning 2: Rely or depend (rely/depend)
+
+You can always lean on me for support.
+You can always rely on me for support.
+You can always depend on me for support.
+
+She had to lean on her friends during a difficult time.
+She had to rely on her friends during a difficult time.
+She had to depend on her friends during a difficult time.
+
+They continued to lean on donations to keep the program running.
+They continued to rely on donations to keep the program running.
+They continued to depend on donations to keep the program running.
+
+The team would lean on its captain for leadership.
+The team would rely on its captain for leadership.
+The team would depend on its captain for leadership.
+
+He didn’t want to lean on others for help.
+He didn’t want to rely on others for help.
+He didn’t want to depend on others for help.
+
+3. Buckle: ([clasp, secure] and [yield, crumple])
+
+Meaning 1: Clasp or secure (clasp/secure)
+
+She had to buckle her seatbelt before the car moved.
+She had to clasp her seatbelt before the car moved.
+She had to secure her seatbelt before the car moved.
+
+He quickly buckled the straps on his backpack.
+He quickly clasped the straps on his backpack.
+He quickly secured the straps on his backpack.
+
+The hiker stopped to buckle his boots.
+The hiker stopped to clasp his boots.
+The hiker stopped to secure his boots.
+
+The child struggled to buckle the belt on his coat.
+The child struggled to clasp the belt on his coat.
+The child struggled to secure the belt on his coat.
+
+She leaned down to buckle the dog's harness.
+She leaned down to clasp the dog's harness.
+She leaned down to secure the dog's harness.
+
+Meaning 2: Yield or crumple (yield/crumple)
+
+The old beam began to buckle under the weight.
+The old beam began to yield under the weight.
+The old beam began to crumple under the weight.
+
+The metal would buckle if overheated.
+The metal would yield if overheated.
+The metal would crumple if overheated.
+
+The floor started to buckle in the flood.
+The floor started to yield in the flood.
+The floor started to crumple in the flood.
+
+The frame might buckle during the pressure test.
+The frame might yield during the pressure test.
+The frame might crumple during the pressure test.
+
+The roof could buckle in a severe storm.
+The roof could yield in a severe storm.
+The roof could crumple in a severe storm.
+
+
+4. Tender: ([gentle, soft] and [sore, sensitive])
+
+Meaning 1: Gentle or soft (gentle/soft)
+
+The massage felt very tender on her shoulders.
+The massage felt very gentle on her shoulders.
+The massage felt very soft on her shoulders.
+
+He gave the dog a tender pat on the head.
+He gave the dog a gentle pat on the head.
+He gave the dog a soft pat on the head.
+
+She spoke in a tender voice during the ceremony.
+She spoke in a gentle voice during the ceremony.
+She spoke in a soft voice during the ceremony.
+
+The moment was tender and unforgettable.
+The moment was gentle and unforgettable.
+The moment was soft and unforgettable.
+
+He placed a tender hand on her back.
+He placed a gentle hand on her back.
+He placed a soft hand on her back.
+
+Meaning 2: Sore or sensitive (sore/sensitive)
+
+Her ankle was still tender after the fall.
+Her ankle was still sore after the fall.
+Her ankle was still sensitive after the fall.
+
+The area around the bruise felt tender.
+The area around the bruise felt sore.
+The area around the bruise felt sensitive.
+
+His muscles were tender from the workout.
+His muscles were sore from the workout.
+His muscles were sensitive from the workout.
+
+The tooth remained tender for days.
+The tooth remained sore for days.
+The tooth remained sensitive for days.
+
+The cut was too tender to touch.
+The cut was too sore to touch.
+The cut was too sensitive to touch.
+
+
+5. Flat: ([level, smooth] and [dull, bland])
+
+Meaning 1: Level or smooth (level/smooth)
+
+The field was perfectly flat after they cleared it.
+The field was perfectly level after they cleared it.
+The field was perfectly smooth after they cleared it.
+
+The countertop was flat and ready for use.
+The countertop was level and ready for use.
+The countertop was smooth and ready for use.
+
+The road stayed flat for miles.
+The road stayed level for miles.
+The road stayed smooth for miles.
+
+The surface felt completely flat to the touch.
+The surface felt completely level to the touch.
+The surface felt completely smooth to the touch.
+
+The midwest is very flat and full of fields.
+The midwest is very level and full of fields.
+The midwest is very smooth and full of fields.
+
+Meaning 2: Dull or bland (dull/bland)
+
+The speech was flat and unexciting.
+The speech was dull and unexciting.
+The speech was bland and unexciting.
+
+The performance felt flat despite the effort.
+The performance felt dull despite the effort.
+The performance felt bland despite the effort.
+
+The ending of the movie was flat.
+The ending of the movie was dull.
+The ending of the movie was bland.
+
+The drink tasted flat after sitting out.
+The drink tasted dull after sitting out.
+The drink tasted bland after sitting out.
+
+The conversation became flat very quickly.
+The conversation became dull very quickly.
+The conversation became bland very quickly.
+
+6. Draft: ([breeze, wind] and [outline, sketch])
+
+Meaning 1: Breeze or wind (breeze/wind)
+
+A cold draft came in through the window.
+A cold breeze came in through the window.
+A cold wind came in through the window.
+
+The hallway had a constant draft.
+The hallway had a constant breeze.
+The hallway had a constant wind.
+
+He felt a draft under the door.
+He felt a breeze under the door.
+He felt a wind under the door.
+
+The old house always had a draft in winter.
+The old house always had a breeze in winter.
+The old house always had a wind in winter.
+
+A sudden draft blew out the candle.
+A sudden breeze blew out the candle.
+A sudden wind blew out the candle.
+
+Meaning 2: Outline or sketch (outline/sketch)
+
+She prepared a draft of the proposal.
+She prepared an outline of the proposal.
+She prepared a sketch of the proposal.
+
+He completed a draft for his essay.
+He completed an outline for his essay.
+He completed a sketch for his essay.
+
+The architect shared a draft of the new design.
+The architect shared an outline of the new design.
+The architect shared a sketch of the new design.
+
+They reviewed a draft before the meeting.
+They reviewed an outline before the meeting.
+They reviewed a sketch before the meeting.
+
+The editor marked changes on the first draft.
+The editor marked changes on the first outline.
+The editor marked changes on the first sketch.
+
+7. Fine: ([excellent, great] and [thin, slender])
+
+Meaning 1: Excellent or great (excellent/great)
+
+The meal was truly fine.
+The meal was truly excellent.
+The meal was truly great.
+
+He did a fine job on the report.
+He did an excellent job on the report.
+He did a great job on the report.
+
+The weather was fine all weekend.
+The weather was excellent all weekend.
+The weather was great all weekend.
+
+She looked fine in her outfit.
+She looked excellent in her outfit.
+She looked great in her outfit.
+
+The concert sounded fine from where we sat.
+The concert sounded excellent from where we sat.
+The concert sounded great from where we sat.
+
+Meaning 2: Thin or slender (thin/slender)
+
+The thread was too fine for the needle.
+The thread was too thin for the needle.
+The thread was too slender for the needle.
+
+He chose a fine brush for the details.
+He chose a thin brush for the details.
+He chose a slender brush for the details.
+
+The fabric was extremely fine.
+The fabric was extremely thin.
+The fabric was extremely slender.
+
+The crack was so fine it was barely visible.
+The crack was so thin it was barely visible.
+The crack was so slender it was barely visible.
+
+The line on the map was very fine.
+The line on the map was very thin.
+The line on the map was very slender.
+
+8. Prime: ([excellent, great] and [primary, main])
+
+Meaning 1: Excellent or great (excellent/great)
+
+The meat was in prime condition.
+The meat was in excellent condition.
+The meat was in great condition.
+
+She delivered a prime performance last night.
+She delivered an excellent performance last night.
+She delivered a great performance last night.
+
+He found the painting in prime shape.
+He found the painting in excellent shape.
+He found the painting in great shape.
+
+The team was in prime form for the match.
+The team was in excellent form for the match.
+The team was in great form for the match.
+
+The produce looked prime at the market.
+The produce looked excellent at the market.
+The produce looked great at the market.
+
+Meaning 2: Primary or main (primary/main)
+
+The prime reason for the delay was traffic.
+The primary reason for the delay was traffic.
+The main reason for the delay was traffic.
+
+The prime goal is to finish on time.
+The primary goal is to finish on time.
+The main goal is to finish on time.
+
+Cost was the prime concern during planning.
+Cost was the primary concern during planning.
+Cost was the main concern during planning.
+
+The prime objective of the project was clarity.
+The primary objective of the project was clarity.
+The main objective of the project was clarity.
+
+The prime focus of the program was safety.
+The primary focus of the program was safety.
+The main focus of the program was safety.
+
+
+9. Clip: ([trim, snip] and [fasten, secure])
+
+Meaning 1: Trim or snip (trim/snip)
+
+She had to clip the loose threads.
+She had to trim the loose threads.
+She had to snip the loose threads.
+
+He decided to clip the edges of the photo.
+He decided to trim the edges of the photo.
+He decided to snip the edges of the photo.
+
+The gardener will clip the hedges today.
+The gardener will trim the hedges today.
+The gardener will snip the hedges today.
+
+They needed to clip a few branches.
+They needed to trim a few branches.
+They needed to snip a few branches.
+
+The stylist will clip his hair shorter.
+The stylist will trim his hair shorter.
+The stylist will snip his hair shorter.
+
+Meaning 2: Fasten or secure (fasten/secure)
+
+She had to clip the papers together.
+She had to fasten the papers together.
+She had to secure the papers together.
+
+He tried to clip the microphone to his shirt.
+He tried to fasten the microphone to his shirt.
+He tried to secure the microphone to his shirt.
+
+They will clip the badge onto the lanyard.
+They will fasten the badge onto the lanyard.
+They will secure the badge onto the lanyard.
+
+She needs to clip the key to her belt.
+She needs to fasten the key to her belt.
+She needs to secure the key to her belt.
+
+He forgot to clip the leash to the collar.
+He forgot to fasten the leash to the collar.
+He forgot to secure the leash to the collar.
+
+
+11. File: ([smooth, polish] and [record, document])
+Meaning 1: Smooth or polish (smooth/polish)
+
+She had to file the rough edges.
+She had to smooth the rough edges.
+She had to polish the rough edges.
+
+The jeweler will file the metal carefully.
+The jeweler will smooth the metal carefully.
+The jeweler will polish the metal carefully.
+
+He began to file the surface of the wood.
+He began to smooth the surface of the wood.
+He began to polish the surface of the wood.
+
+They used a tool to file the glass.
+They used a tool to smooth the glass.
+They used a tool to polish the glass.
+
+The mechanic had to file the bolt to make it fit.
+The mechanic had to smooth the bolt to make it fit.
+The mechanic had to polish the bolt to make it fit.
+
+Meaning 2: Record or document (record/document)
+
+She had to file the meeting details.
+She had to record the meeting details.
+She had to document the meeting details.
+
+They will file the results after the test.
+They will record the results after the test.
+They will document the results after the test.
+
+He began to file the information on his laptop.
+He began to record the information on his laptop.
+He began to document the information on his laptop.
+
+The assistant tried to file every change made during the project.
+The assistant tried to record every change made during the project.
+The assistant tried to document every change made during the project.
+
+She needed to file the updates before the deadline.
+She needed to record the updates before the deadline.
+She needed to document the updates before the deadline.
+
+
+12. Tip: ([advice, hint] and [apex, peak])
+
+Meaning 1: Advice or hint (advice/hint)
+
+He gave me a useful tip about studying.
+He gave me useful advice about studying.
+He gave me a useful hint about studying.
+
+She shared a helpful tip for cooking rice.
+She shared helpful advice for cooking rice.
+She shared a helpful hint for cooking rice.
+
+I need a tip for fixing this problem.
+I need advice for fixing this problem.
+I need a hint for fixing this problem.
+
+They offered a tip before we started the project.
+They offered advice before we started the project.
+They offered a hint before we started the project.
+
+She appreciated the tip from her coworker.
+She appreciated the advice from her coworker.
+She appreciated the hint from her coworker.
+
+Meaning 2: Apex or peak (apex/peak)
+
+The tip of the mountain was covered in snow.
+The apex of the mountain was covered in snow.
+The peak of the mountain was covered in snow.
+
+She touched the tip of the leaf.
+She touched the apex of the leaf.
+She touched the peak of the leaf.
+
+The tip of the tower was visible from far away.
+The apex of the tower was visible from far away.
+The peak of the tower was visible from far away.
+
+He painted the tip of the cone red.
+He painted the apex of the cone red.
+He painted the peak of the cone red.
+
+The tip of the knife was very sharp.
+The apex of the knife was very sharp.
+The peak of the knife was very sharp.
+
+
+
+26. Light
+
+Meaning 1: Not heavy (lightweight / insubstantial)
+
+The box was light enough to carry.
+The box was lightweight enough to carry.
+The box was insubstantial enough to carry.
+
+The suitcase felt light this time.
+The suitcase felt lightweight this time.
+The suitcase felt insubstantial this time.
+
+The backpack remained light despite the books.
+The backpack remained lightweight despite the books.
+The backpack remained insubstantial despite the books.
+
+His load was surprisingly light.
+His load was surprisingly lightweight.
+His load was surprisingly insubstantial.
+
+The package seemed light when she picked it up.
+The package seemed lightweight when she picked it up.
+The package seemed insubstantial when she picked it up.
+
+Meaning 2: Illumination (glow / shine)
+
+The lamp gave off a warm light.
+The lamp gave off a warm glow.
+The lamp gave off a warm shine.
+
+A soft light filled the room.
+A soft glow filled the room.
+A soft shine filled the room.
+
+The light reached every corner.
+The glow reached every corner.
+The shine reached every corner.
+
+The morning light woke him early.
+The morning glow woke him early.
+The morning shine woke him early.
+
+The light flickered once and went out.
+The glow flickered once and went out.
+The shine flickered once and went out.
+
+
+
+29. Scale
+
+Meaning 1: Climb or ascend (climb / ascend)
+
+They need to scale the wall.
+They need to climb the wall.
+They need to ascend the wall.
+
+He tried to scale the mountain.
+He tried to climb the mountain.
+He tried to ascend the mountain.
+
+The team will scale the cliff.
+The team will climb the cliff.
+The team will ascend the cliff.
+
+She began to scale the ladder.
+She began to climb the ladder.
+She began to ascend the ladder.
+
+They attempted to scale the structure.
+They attempted to climb the structure.
+They attempted to ascend the structure.
+
+Meaning 2: Measure or grade (measure / grade)
+
+They had to scale the results carefully.
+They had to measure the results carefully.
+They had to grade the results carefully.
+
+He will scale the response.
+He will measure the response.
+He will grade the response.
+
+She began to scale the data.
+She began to measure the data.
+She began to grade the data.
+
+They tried to scale each sample.
+They tried to measure each sample.
+They tried to grade each sample.
+
+The device can scale small values.
+The device can measure small values.
+The device can grade small values.
+
+30. Pitch
+
+Meaning 1: Throw (throw / toss)
+
+He will pitch the ball.
+He will throw the ball.
+He will toss the ball.
+
+She tried to pitch the stone.
+She tried to throw the stone.
+She tried to toss the stone.
+
+They watched him pitch the toy.
+They watched him throw the toy.
+They watched him toss the toy.
+
+He began to pitch the object.
+He began to throw the object.
+He began to toss the object.
+
+She will pitch it across the yard.
+She will throw it across the yard.
+She will toss it across the yard.
+
+Meaning 2: Promote or propose (propose / promote)
+
+She had to pitch her idea.
+She had to propose her idea.
+She had to promote her idea.
+
+He tried to pitch the concept.
+He tried to propose the concept.
+He tried to promote the concept.
+
+They began to pitch the strategy.
+They began to propose the strategy.
+They began to promote the strategy.
+
+She needs to pitch the plan today.
+She needs to propose the plan today.
+She needs to promote the plan today.
+
+He tried to pitch the project early.
+He tried to propose the project early.
+He tried to promote the project early.
+
+
+
+37. Bark (noun → tree covering / noun → dog sound)
+
+Meaning 1: Outer layer of a tree (rind / husk)
+
+The bark peeled off the old tree.
+The rind peeled off the old tree.
+The husk peeled off the old tree.
+
+He touched the rough bark.
+He touched the rough rind.
+He touched the rough husk.
+
+Birds hid insects beneath the bark.
+Birds hid insects beneath the rind.
+Birds hid insects beneath the husk.
+
+The bark protected the trunk.
+The rind protected the trunk.
+The husk protected the trunk.
+
+The bark felt dry after the heat.
+The rind felt dry after the heat.
+The husk felt dry after the heat.
+
+Meaning 2: Sound made by a dog (yelp / woof)
+
+The bark echoed through the yard.
+The yelp echoed through the yard.
+The woof echoed through the yard.
+
+She recognized her dog’s bark.
+She recognized her dog’s yelp.
+She recognized her dog’s woof.
+
+The bark woke everyone up.
+The yelp woke everyone up.
+The woof woke everyone up.
+
+He heard a bark at the door.
+He heard a yelp at the door.
+He heard a woof at the door.
+
+The bark sounded louder at night.
+The yelp sounded louder at night.
+The woof sounded louder at night.
+
+Rock (noun → stone / noun → music genre)
+
+Meaning 1: Stone (stone / boulder)
+
+He threw a rock into the water.
+He threw a stone into the water.
+He threw a boulder into the water.
+
+The rock felt smooth.
+The stone felt smooth.
+The boulder felt smooth.
+
+A rock rolled down the hill.
+A stone rolled down the hill.
+A boulder rolled down the hill.
+
+They sat on a large rock.
+They sat on a large stone.
+They sat on a large boulder.
+
+A rock blocked the path.
+A stone blocked the path.
+A boulder blocked the path.
+
+Meaning 2: Music genre (metal / punk)
+
+They listened to rock all afternoon.
+They listened to metal all afternoon.
+They listened to punk all afternoon.
+
+He loves old rock from the 70s.
+He loves old metal from the 70s.
+He loves old punk from the 70s.
+
+Rock filled the stadium.
+Metal filled the stadium.
+Punk filled the stadium.
+
+She prefers rock to pop.
+She prefers metal to pop.
+She prefers punk to pop.
+
+The band played classic rock.
+The band played classic metal.
+The band played classic punk.
+
+Yard (noun → unit of measure / noun → outdoor area)
+
+Meaning 1: Unit of length (meter / stride)
+
+He measured a yard of rope.
+He measured a meter of rope.
+He measured a stride of rope.
+
+The fabric is sold by the yard.
+The fabric is sold by the meter.
+The fabric is sold by the stride.
+
+A yard separated the markers.
+A meter separated the markers.
+A stride separated the markers.
+
+She cut a yard from the roll.
+She cut a meter from the roll.
+She cut a stride from the roll.
+
+The yard was easy to estimate.
+The meter was easy to estimate.
+The stride was easy to estimate.
+
+Meaning 2: Outdoor area (garden / lawn)
+
+They played in the yard.
+They played in the garden.
+They played in the lawn.
+
+The yard needed mowing.
+The garden needed mowing.
+The lawn needed mowing.
+
+She planted flowers in the yard.
+She planted flowers in the garden.
+She planted flowers in the lawn.
+
+The yard was full of leaves.
+The garden was full of leaves.
+The lawn was full of leaves.
+
+He sat quietly in the yard.
+He sat quietly in the garden.
+He sat quietly in the lawn.
+
+
+46. Coach (noun → instructor / noun → vehicle)
+
+Meaning 1: Instructor or trainer (mentor / tutor)
+
+The coach encouraged the team.
+The mentor encouraged the team.
+The tutor encouraged the team.
+
+She spoke with the coach after practice.
+She spoke with the mentor after practice.
+She spoke with the tutor after practice.
+
+The coach planned the strategy.
+The mentor planned the strategy.
+The tutor planned the strategy.
+
+They hired a new coach.
+They hired a new mentor.
+They hired a new tutor.
+
+The coach improved their skills.
+The mentor improved their skills.
+The tutor improved their skills.
+
+Meaning 2: Vehicle for travel (bus / carriage)
+
+The coach arrived late.
+The bus arrived late.
+The carriage arrived late.
+
+They boarded the coach quickly.
+They boarded the bus quickly.
+They boarded the carriage quickly.
+
+The coach stopped at the station.
+The bus stopped at the station.
+The carriage stopped at the station.
+
+He slept on the coach during the trip.
+He slept on the bus during the trip.
+He slept on the carriage during the trip.
+
+The coach carried a full load.
+The bus carried a full load.
+The carriage carried a full load.
+
+47. Chest (noun → storage box / noun → torso)
+
+Meaning 1: Storage container (box / trunk)
+
+He opened the wooden chest.
+He opened the wooden box.
+He opened the wooden trunk.
+
+The chest held old clothes.
+The box held old clothes.
+The trunk held old clothes.
+
+They moved the chest upstairs.
+They moved the box upstairs.
+They moved the trunk upstairs.
+
+The chest was painted red.
+The box was painted red.
+The trunk was painted red.
+
+She locked the chest securely.
+She locked the box securely.
+She locked the trunk securely.
+
+Meaning 2: Upper torso (torso / breast)
+
+He held his chest in pain.
+He held his torso in pain.
+He held his breast in pain.
+
+Her chest rose and fell slowly.
+Her torso rose and fell slowly.
+Her breast rose and fell slowly.
+
+The blow struck his chest.
+The blow struck his torso.
+The blow struck his breast.
+
+She pressed her hand to her chest.
+She pressed her hand to her torso.
+She pressed her hand to her breast.
+
+His chest felt tight.
+His torso felt tight.
+His breast felt tight.
+
+Seal (noun → official stamp / noun → closure)
+
+Meaning 1: Official stamp (stamp / emblem)
+
+The document bore a seal.
+The document bore a stamp.
+The document bore an emblem.
+
+They pressed the seal onto the wax.
+They pressed the stamp onto the wax.
+They pressed the emblem onto the wax.
+
+He kept the seal locked away.
+He kept the stamp locked away.
+He kept the emblem locked away.
+
+The seal marked the letter.
+The stamp marked the letter.
+The emblem marked the letter.
+
+The seal represented authority.
+The stamp represented authority.
+The emblem represented authority.
+
+Meaning 2: Closing device (closure / stopper)
+
+The jar needed a tighter seal.
+The jar needed a tighter closure.
+The jar needed a tighter stopper.
+
+He broke the seal on the bottle.
+He broke the closure on the bottle.
+He broke the stopper on the bottle.
+
+The seal prevented leaks.
+The closure prevented leaks.
+The stopper prevented leaks.
+
+
 
