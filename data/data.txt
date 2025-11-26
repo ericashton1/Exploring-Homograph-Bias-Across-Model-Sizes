@@ -359,7 +359,7 @@ She was asked to detail the conference for the magazine.
 
 The news team covered the accident live from the scene.
 The news team reported the accident live from the scene.
-The news team detailed the accident live from the scene
+The news team detailed the accident live from the scene.
 
 
 9. Hack: 757 ([chop: 1475, slash: 742] and [infiltrate: 178, invade: 593])
@@ -639,7 +639,7 @@ Meaning 1: Simple or undecorated (simple/undecorated)
 
 The room was completely plain inside.
 The room was completely simple inside.
-The room was completely ordinary inside.
+The room was completely undecorated inside.
 
 Her dress was very plain but elegant.
 Her dress was very simple but elegant.
@@ -1365,7 +1365,7 @@ The band played classic rock.
 The band played classic metal.
 The band played classic punk.
 
-31. Yard: 3623([meter: 1041, stride: 827] and [garden: 18433, lawn: 3142])
+31. Yard: 3623 ([meter: 1041, stride: 827] and [garden: 18433, lawn: 3142])
 Meaning 1: Unit of length (meter / stride)
 
 He measured a yard of rope.
