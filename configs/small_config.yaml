@@ -1,0 +1,17 @@
+exp: MinimalPair
+
+mode:
+    - evaluate
+    - analyze
+
+models:
+    hf_masked_model:
+      - google-bert/bert-base-cased
+
+datafpath: ../cosc426/final/minimal_pairs_tsvs/homonym_minimal_pairs.tsv
+
+predfpath: ../cosc426/final/predictions/small_homonym_minimal_pairs.tsv
+
+resultsfpath: ../cosc426/final/results/small_homonym_minimal_pairs.tsv
+
+save: by_word

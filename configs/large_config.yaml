@@ -1,0 +1,17 @@
+exp: MinimalPair
+
+mode:
+    - evaluate
+    - analyze
+
+models:
+    hf_masked_model:
+      - FacebookAI/roberta-base
+
+datafpath: ../cosc426/final/minimal_pairs_tsvs/homonym_minimal_pairs.tsv
+
+predfpath: ../cosc426/final/predictions/large_homonym_minimal_pairs.tsv
+
+resultsfpath: ../cosc426/final/results/large_homonym_minimal_pairs.tsv
+
+save: by_word
