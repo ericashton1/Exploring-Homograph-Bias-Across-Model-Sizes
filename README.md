@@ -1,4 +1,4 @@
-# NLP-Final-Project-Exploring-Homonym-Bias-in-LMs
+# NLP-Final-Project-Exploring-Homograph-Bias-Across-Model-Sizes
 
 
 ## Going from dataset to tsv format
