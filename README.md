@@ -5,9 +5,21 @@
 Homographs are words that are spelled the same with categorically different meanings. In this paper, we investigate if BERT and RoBERTa treat homographs differently from their non-homograph synonyms in a minimal pair experiment. Specifically, we look at frequency-adjusted surprisal to see if homographs tend to be more or less surprising than non-homographs and if this varies across model sizes. Both models showed significantly lower surprisal for homographs over their non-homograph synonyms, though this bias was smaller in RoBERTa, the model with a larger training size. These results suggest that as training size increases, models become more familiar with the more subtle contextual variance of non-homographs and thus exhibit a narrower surprisal difference between homographs and non-homographs. Thus, our study implies that models require less training to adequately learn the various contexts of a homograph than to adequately learn the more subtle varying contexts of a non-homograph.
 
 
-## Going from dataset to tsv format
+## Experimental setup
 
-First, we will create a list of 50 homonyms and 5 synonyms for each definition. We will then download the [open subtitles dataset](https://huggingface.co/datasets/sentence-transformers/parallel-sentences-opensubtitles) from HuggingFace. Once we have loaded the dataset into python, we can iterate through all the English subtitles, checking each word to see if it is in a set of all the synonyms. If it is, we will add it to our dataset with the ROI (index at which the word was found) and add 1 to a counter which we can use as textid. We will repeat this process until we have 30,000 sentences. Once we have these 30,000 sentences, we can use a dictionary lookup to find another synonym that will replace the word in its pair and the appropriate homonym which will replace the word in its other pair. Then we can format these into a pd dataframe and then a tsv.
+First, homographs with meanings in the same part of speech and their non-homographic synonyms were selected to create a minimal pair experiment. The following is an example of the homograph “run”, and two non-homograph synonyms for each meaning:
+
+Run: ([manage, direct] and [sprint, rush])
+
+For each meaning, 3 sets of sentences were created using generative AI and revised by our team to ensure all minimally different words made sense in the context. These were then used to create pairs like the following:
+
+She was hired to run the new marketing department.
+She was hired to manage the new marketing department.
+
+The final dataset consists of 34 homographs which yields 680 pairs being tested. With this data, we ran NLPScholar’s Minimal Pair mode with BERT and RoBERTa to get the surprisals of the minimally different words.
+
+An important consideration for the experiment was removing frequency bias, as a model is naturally less surprised by words that appear more frequently in its training data. To account for this, we calculated adjusted surprisal in two ways: one by fitting a linear regression line of surprisal against COCA frequency of each word in the data and another using GAMs, motivated by Smith & Levy et al. (2013) and Rezaii et al. (2023). In both cases, we subtracted the point on the fit line from the original surprisal to get surprisal adjusted for frequency.
+
 
 
 ## Going from output of NLPScholar to evaluation metrics, tables, and figures
