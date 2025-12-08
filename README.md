@@ -1,5 +1,9 @@
 # NLP-Final-Project-Exploring-Homograph-Bias-Across-Model-Sizes
 
+## Overview 
+
+Homographs are words that are spelled the same with categorically different meanings. In this paper, we investigate if BERT and RoBERTa treat homographs differently from their non-homograph synonyms in a minimal pair experiment. Specifically, we look at frequency-adjusted surprisal to see if homographs tend to be more or less surprising than non-homographs and if this varies across model sizes. Both models showed significantly lower surprisal for homographs over their non-homograph synonyms, though this bias was smaller in RoBERTa, the model with a larger training size. These results suggest that as training size increases, models become more familiar with the more subtle contextual variance of non-homographs and thus exhibit a narrower surprisal difference between homographs and non-homographs. Thus, our study implies that models require less training to adequately learn the various contexts of a homograph than to adequately learn the more subtle varying contexts of a non-homograph.
+
 
 ## Going from dataset to tsv format
 
