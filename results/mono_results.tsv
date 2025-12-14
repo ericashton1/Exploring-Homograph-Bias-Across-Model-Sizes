@@ -1,2 +1,0 @@
-	model	acc	diff	expected	unexpected	macrodiff
-0	distilbert/distilgpt2	0.4	-0.3884314807131893	11.355945130996407	11.744376611709594	-0.3884314807131872
