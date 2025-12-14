@@ -36,4 +36,14 @@ These results suggest that the vastly different contexts associated with a homog
 It is important to note that these conclusions are not absolute as our study is limited in scope. We only looked at two different masked models, meaning perhaps the trend of an increased training size resulting in a decreased bias towards homographs is not always true. Additionally, our assumptions on why this trend seems to exist are not definitive, though our results do suggest that at the very least the relationship between language models and homographs is an interesting area of study.
 
 
+## References
+
+Smith, N. J., & Levy, R. (2013). The effect of word predictability on reading time is logarithmic. Cognition, 128(3), 302–319. https://doi.org/10.1016/j.cognition.2013.02.013
+
+Rezaii, N., Michaelov, J., Josephy-Hernandez, S., Ren, B., et al. (2023). Measuring sentence information via surprisal: Theoretical and clinical implications in nonfluent aphasia. Annals of Neurology, 94(4), 647–657. DOI: 10.1002/ana.26744.
+
+Wilcox, E. G., et al. (2023). Testing the predictions of surprisal theory in 11 languages. Transactions of the Association for Computational Linguistics (TACL).
+
+
+
 Additionally, if we have time and are still interested in embeddings, we can use the output from NLPScholar to potentially show correlation to similarity between static and contextual embeddings. That is, we can plot each pair on a chart where one axis is the word's average difference between its static embedding and contextual embeddings, and the other axis is its bias towards/against contronyms, represented as the difference between the contronym and non-contronym probability for that word. Ideally, we would see a correlation such that as the difference between static and contextual embeddings increases, the bias against the homonym decreases. 
