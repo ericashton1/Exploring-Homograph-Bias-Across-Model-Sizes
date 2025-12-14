@@ -1,205 +1,1317 @@
 sentid	pairid	condition	comparison	sentence	ROI
-1	1	hard_meaning1_syn1	expected	The rock was too hard to break with a hammer.	4
-2	1	hard_meaning1_syn1	unexpected	The rock was too solid to break with a hammer.	4
-3	2	hard_meaning1_syn1	expected	The ground was hard after the long drought.	3
-4	2	hard_meaning1_syn1	unexpected	The ground was solid after the long drought.	3
-5	3	hard_meaning1_syn1	expected	The frozen soil felt hard underfoot.	4
-6	3	hard_meaning1_syn1	unexpected	The frozen soil felt solid underfoot.	4
-7	4	hard_meaning1_syn1	expected	The wood was hard and difficult to cut.	3
-8	4	hard_meaning1_syn1	unexpected	The wood was solid and difficult to cut.	3
-9	5	hard_meaning1_syn1	expected	Diamond is a really hard material.	4
-10	5	hard_meaning1_syn1	unexpected	Diamond is a really solid material.	4
-11	6	hard_meaning1_syn2	expected	The rock was too hard to break with a hammer.	4
-12	6	hard_meaning1_syn2	unexpected	The rock was too dense to break with a hammer.	4
-13	7	hard_meaning1_syn2	expected	The ground was hard after the long drought.	3
-14	7	hard_meaning1_syn2	unexpected	The ground was dense after the long drought.	3
-15	8	hard_meaning1_syn2	expected	The frozen soil felt hard underfoot.	4
-16	8	hard_meaning1_syn2	unexpected	The frozen soil felt dense underfoot.	4
-17	9	hard_meaning1_syn2	expected	The wood was hard and difficult to cut.	3
-18	9	hard_meaning1_syn2	unexpected	The wood was dense and difficult to cut.	3
-19	10	hard_meaning1_syn2	expected	Diamond is a really hard material.	4
-20	10	hard_meaning1_syn2	unexpected	Diamond is a really dense material.	4
-21	11	hard_meaning2_syn1	expected	It’s hard to learn a new language as an adult.	1
-22	11	hard_meaning2_syn1	unexpected	It’s difficult to learn a new language as an adult.	1
-23	12	hard_meaning2_syn1	expected	The hike was hard but rewarding.	3
-24	12	hard_meaning2_syn1	unexpected	The hike was difficult but rewarding.	3
-25	13	hard_meaning2_syn1	expected	Finishing the project on time was hard.	6
-26	13	hard_meaning2_syn1	unexpected	Finishing the project on time was difficult	6
-27	14	hard_meaning2_syn1	expected	Solving that problem was really hard for me.	5
-28	14	hard_meaning2_syn1	unexpected	Solving that problem was really difficult for me.	5
-29	15	hard_meaning2_syn2	expected	It’s hard to learn a new language as an adult.	1
-30	15	hard_meaning2_syn2	unexpected	It’s strenuous to learn a new language as an adult.	1
-31	16	hard_meaning2_syn2	expected	The hike was hard but rewarding.	3
-32	16	hard_meaning2_syn2	unexpected	The hike was strenuous but rewarding.	3
-33	17	hard_meaning2_syn2	expected	Finishing the project on time was hard.	6
-34	17	hard_meaning2_syn2	unexpected	Finishing the project on time was strenuous	6
-35	18	hard_meaning2_syn2	expected	Solving that problem was really hard for me.	5
-36	18	hard_meaning2_syn2	unexpected	Solving that problem was really strenuous for me.	5
-37	19	cover_meaning1_syn1	expected	She used an umbrella to cover herself from the rain.	5
-38	19	cover_meaning1_syn1	unexpected	She used an umbrella to protect herself from the rain.	5
-39	20	cover_meaning1_syn1	expected	The wall was built to cover the garden from the wind.	5
-40	20	cover_meaning1_syn1	unexpected	The wall was built to protect the garden from the wind.	5
-41	21	cover_meaning1_syn2	expected	She used an umbrella to cover herself from the rain.	5
-42	21	cover_meaning1_syn2	unexpected	She used an umbrella to shelter herself from the rain.	5
-43	22	cover_meaning1_syn2	expected	The wall was built to cover the garden from the wind.	5
-44	22	cover_meaning1_syn2	unexpected	The wall was built to shelter the garden from the wind.	5
-45	23	cover_meaning2_syn1	expected	The journalist was sent to cover the election results.	5
-46	23	cover_meaning2_syn1	unexpected	The journalist was sent to report the election results.	5
-47	24	cover_meaning2_syn1	expected	She was asked to cover the conference for the magazine.	4
-48	24	cover_meaning2_syn1	unexpected	She was asked to report the conference for the magazine.	4
-49	25	cover_meaning2_syn2	expected	The journalist was sent to cover the election results.	5
-50	25	cover_meaning2_syn2	unexpected	The journalist was sent to detail the election results.	5
-51	26	cover_meaning2_syn2	expected	She was asked to cover the conference for the magazine.	4
-52	26	cover_meaning2_syn2	unexpected	She was asked to detail the conference for the magazine.	4
-53	27	race_meaning1_syn1	expected	He trained for months to win the race.	7
-54	27	race_meaning1_syn1	unexpected	He trained for months to win the contest	7
-55	28	race_meaning1_syn1	expected	The runners lined up for the start of the race.	9
-56	28	race_meaning1_syn1	unexpected	The runners lined up for the start of the contest	9
-57	29	race_meaning1_syn1	expected	She finished the race just a second behind the winner.	3
-58	29	race_meaning1_syn1	unexpected	She finished the contest just a second behind the winner.	3
-59	30	race_meaning1_syn1	expected	The annual charity race raised thousands of dollars.	3
-60	30	race_meaning1_syn1	unexpected	The annual charity contest raised thousands of dollars.	3
-61	31	race_meaning1_syn1	expected	He entered the race hoping to beat his personal best.	3
-62	31	race_meaning1_syn1	unexpected	He entered the contest hoping to beat his personal best.	3
-63	32	race_meaning1_syn2	expected	He trained for months to win the race.	7
-64	32	race_meaning1_syn2	unexpected	He trained for months to win the competition	7
-65	33	race_meaning1_syn2	expected	The runners lined up for the start of the race.	9
-66	33	race_meaning1_syn2	unexpected	The runners lined up for the start of the competition	9
-67	34	race_meaning1_syn2	expected	She finished the race just a second behind the winner.	3
-68	34	race_meaning1_syn2	unexpected	She finished the competition just a second behind the winner.	3
-69	35	race_meaning1_syn2	expected	The annual charity race raised thousands of dollars.	3
-70	35	race_meaning1_syn2	unexpected	The annual charity competition raised thousands of dollars.	3
-71	36	race_meaning1_syn2	expected	He entered the race hoping to beat his personal best.	3
-72	36	race_meaning1_syn2	unexpected	He entered the competition hoping to beat his personal best.	3
-73	37	race_meaning2_syn1	expected	The census asked respondents to identify their race.	7
-74	37	race_meaning2_syn1	unexpected	The census asked respondents to identify their ethnicity	7
-75	38	race_meaning2_syn1	expected	Discussions about race are important for social understanding.	2
-76	38	race_meaning2_syn1	unexpected	Discussions about ethnicity are important for social understanding.	2
-77	39	race_meaning2_syn1	expected	The study examined how race influences access to education.	4
-78	39	race_meaning2_syn1	unexpected	The study examined how ethnicity influences access to education.	4
-79	40	race_meaning2_syn1	expected	He spoke about his pride in his race and cultural heritage.	7
-80	40	race_meaning2_syn1	unexpected	He spoke about his pride in his ethnicity and cultural heritage.	7
-81	41	race_meaning2_syn2	expected	The census asked respondents to identify their race.	7
-82	41	race_meaning2_syn2	unexpected	The census asked respondents to identify their descent	7
-83	42	race_meaning2_syn2	expected	Discussions about race are important for social understanding.	2
-84	42	race_meaning2_syn2	unexpected	Discussions about descent are important for social understanding.	2
-85	43	race_meaning2_syn2	expected	The study examined how race influences access to education.	4
-86	43	race_meaning2_syn2	unexpected	The study examined how descent influences access to education.	4
-87	44	race_meaning2_syn2	expected	He spoke about his pride in his race and cultural heritage.	7
-88	44	race_meaning2_syn2	unexpected	He spoke about his pride in his descent and cultural heritage.	7
-89	45	party_meaning1_syn1	expected	She has been a loyal member of the Democratic party for years.	9
-90	45	party_meaning1_syn1	unexpected	She has been a loyal member of the Democratic alliance for years.	9
-91	46	party_meaning1_syn1	expected	The new party gained several seats in parliament.	2
-92	46	party_meaning1_syn1	unexpected	The new alliance gained several seats in parliament.	2
-93	47	party_meaning1_syn1	expected	The party announced its new platform on climate change.	1
-94	47	party_meaning1_syn1	unexpected	The alliance announced its new platform on climate change.	1
-95	48	party_meaning1_syn1	expected	He decided to leave his old party and join another one.	6
-96	48	party_meaning1_syn1	unexpected	He decided to leave his old alliance and join another one.	6
-97	49	party_meaning1_syn2	expected	She has been a loyal member of the Democratic party for years.	9
-98	49	party_meaning1_syn2	unexpected	She has been a loyal member of the Democratic affiliation for years.	9
-99	50	party_meaning1_syn2	expected	The new party gained several seats in parliament.	2
-100	50	party_meaning1_syn2	unexpected	The new affiliation gained several seats in parliament.	2
-101	51	party_meaning1_syn2	expected	The party announced its new platform on climate change.	1
-102	51	party_meaning1_syn2	unexpected	The affiliation announced its new platform on climate change.	1
-103	52	party_meaning1_syn2	expected	He decided to leave his old party and join another one.	6
-104	52	party_meaning1_syn2	unexpected	He decided to leave his old affiliation and join another one.	6
-105	53	party_meaning2_syn1	expected	They threw a huge party to celebrate the end of exams.	4
-106	53	party_meaning2_syn1	unexpected	They threw a huge carnival to celebrate the end of exams.	4
-107	54	party_meaning2_syn1	expected	She hosted a surprise party for her best friend.	4
-108	54	party_meaning2_syn1	unexpected	She hosted a surprise carnival for her best friend.	4
-109	55	party_meaning2_syn1	expected	The party lasted late into the night with music and dancing.	1
-110	55	party_meaning2_syn1	unexpected	The carnival lasted late into the night with music and dancing.	1
-111	56	party_meaning2_syn1	expected	We decorated the house for the birthday party.	7
-112	56	party_meaning2_syn1	unexpected	We decorated the house for the birthday carnival	7
-113	57	party_meaning2_syn1	expected	Everyone dressed up for the holiday party.	6
-114	57	party_meaning2_syn1	unexpected	Everyone dressed up for the holiday carnival	6
-115	58	party_meaning2_syn2	expected	They threw a huge party to celebrate the end of exams.	4
-116	58	party_meaning2_syn2	unexpected	They threw a huge event to celebrate the end of exams.	4
-117	59	party_meaning2_syn2	expected	She hosted a surprise party for her best friend.	4
-118	59	party_meaning2_syn2	unexpected	She hosted a surprise event for her best friend.	4
-119	60	party_meaning2_syn2	expected	The party lasted late into the night with music and dancing.	1
-120	60	party_meaning2_syn2	unexpected	The event lasted late into the night with music and dancing.	1
-121	61	party_meaning2_syn2	expected	We decorated the house for the birthday party.	7
-122	61	party_meaning2_syn2	unexpected	We decorated the house for the birthday event	7
-123	62	party_meaning2_syn2	expected	Everyone dressed up for the holiday party.	6
-124	62	party_meaning2_syn2	unexpected	Everyone dressed up for the holiday event	6
-125	63	sweet_meaning1_syn1	expected	That was such a sweet thing to say to your friend.	4
-126	63	sweet_meaning1_syn1	unexpected	That was such a loving thing to say to your friend.	4
-127	64	sweet_meaning1_syn1	expected	He gave her a sweet smile when she walked in.	4
-128	64	sweet_meaning1_syn1	unexpected	He gave her a loving smile when she walked in.	4
-129	65	sweet_meaning1_syn1	expected	She wrote a sweet note to thank her teacher.	3
-130	65	sweet_meaning1_syn1	unexpected	She wrote a loving note to thank her teacher.	3
-131	66	sweet_meaning1_syn1	expected	Their sweet gesture made everyone in the room smile.	1
-132	66	sweet_meaning1_syn1	unexpected	Their loving gesture made everyone in the room smile.	1
-133	67	sweet_meaning1_syn1	expected	It was sweet of you to help carry the groceries.	2
-134	67	sweet_meaning1_syn1	unexpected	It was loving of you to help carry the groceries.	2
-135	68	sweet_meaning1_syn2	expected	That was such a sweet thing to say to your friend.	4
-136	68	sweet_meaning1_syn2	unexpected	That was such a caring thing to say to your friend.	4
-137	69	sweet_meaning1_syn2	expected	He gave her a sweet smile when she walked in.	4
-138	69	sweet_meaning1_syn2	unexpected	He gave her a caring smile when she walked in.	4
-139	70	sweet_meaning1_syn2	expected	She wrote a sweet note to thank her teacher.	3
-140	70	sweet_meaning1_syn2	unexpected	She wrote a caring note to thank her teacher.	3
-141	71	sweet_meaning1_syn2	expected	Their sweet gesture made everyone in the room smile.	1
-142	71	sweet_meaning1_syn2	unexpected	Their caring gesture made everyone in the room smile.	1
-143	72	sweet_meaning1_syn2	expected	It was sweet of you to help carry the groceries.	2
-144	72	sweet_meaning1_syn2	unexpected	It was caring of you to help carry the groceries.	2
-145	73	sweet_meaning2_syn1	expected	The dessert was too sweet for my taste.	4
-146	73	sweet_meaning2_syn1	unexpected	The dessert was too sugary for my taste.	4
-147	74	sweet_meaning2_syn1	expected	She prefers sweet coffee over bitter tea.	2
-148	74	sweet_meaning2_syn1	unexpected	She prefers sugary coffee over bitter tea.	2
-149	75	sweet_meaning2_syn1	expected	The sweet aroma of chocolate filled the kitchen.	1
-150	75	sweet_meaning2_syn1	unexpected	The sugary aroma of chocolate filled the kitchen.	1
-151	76	sweet_meaning2_syn1	expected	He made a sweet sauce to drizzle over the pancakes.	3
-152	76	sweet_meaning2_syn1	unexpected	He made a sugary sauce to drizzle over the pancakes.	3
-153	77	sweet_meaning2_syn1	expected	The fruit was perfectly ripe and sweet.	6
-154	77	sweet_meaning2_syn1	unexpected	The fruit was perfectly ripe and sugary	6
-155	78	sweet_meaning2_syn2	expected	The dessert was too sweet for my taste.	4
-156	78	sweet_meaning2_syn2	unexpected	The dessert was too candied for my taste.	4
-157	79	sweet_meaning2_syn2	expected	She prefers sweet coffee over bitter tea.	2
-158	79	sweet_meaning2_syn2	unexpected	She prefers candied coffee over bitter tea.	2
-159	80	sweet_meaning2_syn2	expected	The sweet aroma of chocolate filled the kitchen.	1
-160	80	sweet_meaning2_syn2	unexpected	The candied aroma of chocolate filled the kitchen.	1
-161	81	sweet_meaning2_syn2	expected	He made a sweet sauce to drizzle over the pancakes.	3
-162	81	sweet_meaning2_syn2	unexpected	He made a candied sauce to drizzle over the pancakes.	3
-163	82	sweet_meaning2_syn2	expected	The fruit was perfectly ripe and sweet.	6
-164	82	sweet_meaning2_syn2	unexpected	The fruit was perfectly ripe and candied	6
-165	83	note_meaning1_syn1	expected	The pianist hit a beautiful note that lingered in the hall.	5
-166	83	note_meaning1_syn1	unexpected	The pianist hit a beautiful tone that lingered in the hall.	5
-167	84	note_meaning1_syn1	expected	She played every note of the song perfectly.	3
-168	84	note_meaning1_syn1	unexpected	She played every tone of the song perfectly.	3
-169	85	note_meaning1_syn1	expected	The violinist held the final note for several seconds.	5
-170	85	note_meaning1_syn1	unexpected	The violinist held the final tone for several seconds.	5
-171	86	note_meaning1_syn1	expected	He missed one note during his solo performance.	3
-172	86	note_meaning1_syn1	unexpected	He missed one tone during his solo performance.	3
-173	87	note_meaning1_syn1	expected	The singer struggled to reach the highest note in the piece.	7
-174	87	note_meaning1_syn1	unexpected	The singer struggled to reach the highest tone in the piece.	7
-175	88	note_meaning1_syn2	expected	The pianist hit a beautiful note that lingered in the hall.	5
-176	88	note_meaning1_syn2	unexpected	The pianist hit a beautiful sound that lingered in the hall.	5
-177	89	note_meaning1_syn2	expected	She played every note of the song perfectly.	3
-178	89	note_meaning1_syn2	unexpected	She played every sound of the song perfectly.	3
-179	90	note_meaning1_syn2	expected	The violinist held the final note for several seconds.	5
-180	90	note_meaning1_syn2	unexpected	The violinist held the final sound for several seconds.	5
-181	91	note_meaning1_syn2	expected	He missed one note during his solo performance.	3
-182	91	note_meaning1_syn2	unexpected	He missed one sound during his solo performance.	3
-183	92	note_meaning1_syn2	expected	The singer struggled to reach the highest note in the piece.	7
-184	92	note_meaning1_syn2	unexpected	The singer struggled to reach the highest sound in the piece.	7
-185	93	note_meaning2_syn1	expected	She left a note on the table to remind him about the meeting.	3
-186	93	note_meaning2_syn1	unexpected	She left a memo on the table to remind him about the meeting.	3
-187	94	note_meaning2_syn1	expected	He wrote a short note to apologize for being late.	4
-188	94	note_meaning2_syn1	unexpected	He wrote a short memo to apologize for being late.	4
-189	95	note_meaning2_syn1	expected	There was a handwritten note waiting for her at the door.	4
-190	95	note_meaning2_syn1	unexpected	There was a handwritten memo waiting for her at the door.	4
-191	96	note_meaning2_syn1	expected	She slipped a note under his office door before leaving.	3
-192	96	note_meaning2_syn1	unexpected	She slipped a memo under his office door before leaving.	3
-193	97	note_meaning2_syn1	expected	He received a note from his teacher about the homework.	3
-194	97	note_meaning2_syn1	unexpected	He received a memo from his teacher about the homework.	3
-195	98	note_meaning2_syn2	expected	She left a note on the table to remind him about the meeting.	3
-196	98	note_meaning2_syn2	unexpected	She left a message on the table to remind him about the meeting.	3
-197	99	note_meaning2_syn2	expected	He wrote a short note to apologize for being late.	4
-198	99	note_meaning2_syn2	unexpected	He wrote a short message to apologize for being late.	4
-199	100	note_meaning2_syn2	expected	There was a handwritten note waiting for her at the door.	4
-200	100	note_meaning2_syn2	unexpected	There was a handwritten message waiting for her at the door.	4
-201	101	note_meaning2_syn2	expected	She slipped a note under his office door before leaving.	3
-202	101	note_meaning2_syn2	unexpected	She slipped a message under his office door before leaving.	3
-203	102	note_meaning2_syn2	expected	He received a note from his teacher about the homework.	3
-204	102	note_meaning2_syn2	unexpected	He received a message from his teacher about the homework.	3
+1	1	order_meaning1_syn1	expected	The captain gave an order to fire the engines.	4
+2	1	order_meaning1_syn1	unexpected	The captain gave an command to fire the engines.	4
+3	2	order_meaning1_syn1	expected	He followed the order without hesitation.	3
+4	2	order_meaning1_syn1	unexpected	He followed the command without hesitation.	3
+5	3	order_meaning1_syn1	expected	The general issued an order to move forward.	4
+6	3	order_meaning1_syn1	unexpected	The general issued an command to move forward.	4
+7	4	order_meaning1_syn1	expected	She refused to obey the order.	5
+8	4	order_meaning1_syn1	unexpected	She refused to obey the command	5
+9	5	order_meaning1_syn1	expected	The manager gave an order to stop production.	4
+10	5	order_meaning1_syn1	unexpected	The manager gave an command to stop production.	4
+11	6	order_meaning1_syn2	expected	The captain gave an order to fire the engines.	4
+12	6	order_meaning1_syn2	unexpected	The captain gave an instruction to fire the engines.	4
+13	7	order_meaning1_syn2	expected	He followed the order without hesitation.	3
+14	7	order_meaning1_syn2	unexpected	He followed the instruction without hesitation.	3
+15	8	order_meaning1_syn2	expected	The general issued an order to move forward.	4
+16	8	order_meaning1_syn2	unexpected	The general issued an instruction to move forward.	4
+17	9	order_meaning1_syn2	expected	She refused to obey the order.	5
+18	9	order_meaning1_syn2	unexpected	She refused to obey the instruction	5
+19	10	order_meaning1_syn2	expected	The manager gave an order to stop production.	4
+20	10	order_meaning1_syn2	unexpected	The manager gave an instruction to stop production.	4
+21	11	order_meaning2_syn1	expected	The files were organized in alphabetical order.	6
+22	11	order_meaning2_syn1	unexpected	The files were organized in alphabetical arrangement	6
+23	12	order_meaning2_syn1	expected	Please keep the documents in the right order.	7
+24	12	order_meaning2_syn1	unexpected	Please keep the documents in the right arrangement	7
+25	13	order_meaning2_syn1	expected	The books were lined up in a neat order.	8
+26	13	order_meaning2_syn1	unexpected	The books were lined up in a neat arrangement	8
+27	14	order_meaning2_syn1	expected	He listed the steps in the correct order.	7
+28	14	order_meaning2_syn1	unexpected	He listed the steps in the correct arrangement	7
+29	15	order_meaning2_syn1	expected	The teacher asked us to number the items in order.	9
+30	15	order_meaning2_syn1	unexpected	The teacher asked us to number the items in arrangement	9
+31	16	order_meaning2_syn2	expected	The files were organized in alphabetical order.	6
+32	16	order_meaning2_syn2	unexpected	The files were organized in alphabetical sequence	6
+33	17	order_meaning2_syn2	expected	Please keep the documents in the right order.	7
+34	17	order_meaning2_syn2	unexpected	Please keep the documents in the right sequence	7
+35	18	order_meaning2_syn2	expected	The books were lined up in a neat order.	8
+36	18	order_meaning2_syn2	unexpected	The books were lined up in a neat sequence	8
+37	19	order_meaning2_syn2	expected	He listed the steps in the correct order.	7
+38	19	order_meaning2_syn2	unexpected	He listed the steps in the correct sequence	7
+39	20	order_meaning2_syn2	expected	The teacher asked us to number the items in order.	9
+40	20	order_meaning2_syn2	unexpected	The teacher asked us to number the items in sequence	9
+41	21	capital_meaning1_syn1	expected	Paris is the capital of France.	3
+42	21	capital_meaning1_syn1	unexpected	Paris is the metropolis of France.	3
+43	22	capital_meaning1_syn1	expected	The capital is home to the country’s government.	1
+44	22	capital_meaning1_syn1	unexpected	The metropolis is home to the country’s government.	1
+45	23	capital_meaning1_syn1	expected	We spent two days exploring the capital.	6
+46	23	capital_meaning1_syn1	unexpected	We spent two days exploring the metropolis	6
+47	24	capital_meaning1_syn1	expected	London is the most well known capital in the United Kingdom.	6
+48	24	capital_meaning1_syn1	unexpected	London is the most well known metropolis in the United Kingdom.	6
+49	25	capital_meaning1_syn1	expected	The capital attracts millions of tourists each year.	1
+50	25	capital_meaning1_syn1	unexpected	The metropolis attracts millions of tourists each year.	1
+51	26	capital_meaning1_syn2	expected	Paris is the capital of France.	3
+52	26	capital_meaning1_syn2	unexpected	Paris is the city of France.	3
+53	27	capital_meaning1_syn2	expected	The capital is home to the country’s government.	1
+54	27	capital_meaning1_syn2	unexpected	The city is home to the country’s government.	1
+55	28	capital_meaning1_syn2	expected	We spent two days exploring the capital.	6
+56	28	capital_meaning1_syn2	unexpected	We spent two days exploring the city	6
+57	29	capital_meaning1_syn2	expected	London is the most well known capital in the United Kingdom.	6
+58	29	capital_meaning1_syn2	unexpected	London is the most well known city in the United Kingdom.	6
+59	30	capital_meaning1_syn2	expected	The capital attracts millions of tourists each year.	1
+60	30	capital_meaning1_syn2	unexpected	The city attracts millions of tourists each year.	1
+61	31	capital_meaning2_syn1	expected	He invested all his capital in the new company.	4
+62	31	capital_meaning2_syn1	unexpected	He invested all his assets in the new company.	4
+63	32	capital_meaning2_syn1	expected	The firm raised capital to expand its operations.	3
+64	32	capital_meaning2_syn1	unexpected	The firm raised assets to expand its operations.	3
+65	33	capital_meaning2_syn1	expected	They lost a large amount of capital during the crisis.	6
+66	33	capital_meaning2_syn1	unexpected	They lost a large amount of assets during the crisis.	6
+67	34	capital_meaning2_syn1	expected	The entrepreneur used his capital to start the business.	4
+68	34	capital_meaning2_syn1	unexpected	The entrepreneur used his assets to start the business.	4
+69	35	capital_meaning2_syn1	expected	Foreign capital plays a major role in local growth.	1
+70	35	capital_meaning2_syn1	unexpected	Foreign assets plays a major role in local growth.	1
+71	36	capital_meaning2_syn2	expected	He invested all his capital in the new company.	4
+72	36	capital_meaning2_syn2	unexpected	He invested all his wealth in the new company.	4
+73	37	capital_meaning2_syn2	expected	The firm raised capital to expand its operations.	3
+74	37	capital_meaning2_syn2	unexpected	The firm raised wealth to expand its operations.	3
+75	38	capital_meaning2_syn2	expected	They lost a large amount of capital during the crisis.	6
+76	38	capital_meaning2_syn2	unexpected	They lost a large amount of wealth during the crisis.	6
+77	39	capital_meaning2_syn2	expected	The entrepreneur used his capital to start the business.	4
+78	39	capital_meaning2_syn2	unexpected	The entrepreneur used his wealth to start the business.	4
+79	40	capital_meaning2_syn2	expected	Foreign capital plays a major role in local growth.	1
+80	40	capital_meaning2_syn2	unexpected	Foreign wealth plays a major role in local growth.	1
+81	41	sentence_meaning1_syn1	expected	The judge delivered a harsh sentence after the trial.	5
+82	41	sentence_meaning1_syn1	unexpected	The judge delivered a harsh judgment after the trial.	5
+83	42	sentence_meaning1_syn1	expected	He appealed the sentence given by the court.	3
+84	42	sentence_meaning1_syn1	unexpected	He appealed the judgment given by the court.	3
+85	43	sentence_meaning1_syn1	expected	The sentence was reduced due to good behavior.	1
+86	43	sentence_meaning1_syn1	unexpected	The judgment was reduced due to good behavior.	1
+87	44	sentence_meaning1_syn1	expected	The jury’s verdict influenced the final sentence.	6
+88	44	sentence_meaning1_syn1	unexpected	The jury’s verdict influenced the final judgment	6
+89	45	sentence_meaning1_syn1	expected	The sentence reflected the seriousness of the crime.	1
+90	45	sentence_meaning1_syn1	unexpected	The judgment reflected the seriousness of the crime.	1
+91	46	sentence_meaning1_syn2	expected	The judge delivered a harsh sentence after the trial.	5
+92	46	sentence_meaning1_syn2	unexpected	The judge delivered a harsh decision after the trial.	5
+93	47	sentence_meaning1_syn2	expected	He appealed the sentence given by the court.	3
+94	47	sentence_meaning1_syn2	unexpected	He appealed the decision given by the court.	3
+95	48	sentence_meaning1_syn2	expected	The sentence was reduced due to good behavior.	1
+96	48	sentence_meaning1_syn2	unexpected	The decision was reduced due to good behavior.	1
+97	49	sentence_meaning1_syn2	expected	The jury’s verdict influenced the final sentence.	6
+98	49	sentence_meaning1_syn2	unexpected	The jury’s verdict influenced the final decision	6
+99	50	sentence_meaning1_syn2	expected	The sentence reflected the seriousness of the crime.	1
+100	50	sentence_meaning1_syn2	unexpected	The decision reflected the seriousness of the crime.	1
+101	51	sentence_meaning2_syn1	expected	Each student had to write a complete sentence on the board.	7
+102	51	sentence_meaning2_syn1	unexpected	Each student had to write a complete clause on the board.	7
+103	52	sentence_meaning2_syn1	expected	That sentence doesn’t have a subject or a verb.	1
+104	52	sentence_meaning2_syn1	unexpected	That clause doesn’t have a subject or a verb.	1
+105	53	sentence_meaning2_syn1	expected	Please correct the grammar in this sentence.	6
+106	53	sentence_meaning2_syn1	unexpected	Please correct the grammar in this clause	6
+107	54	sentence_meaning2_syn1	expected	The sentence ended with an exclamation mark.	1
+108	54	sentence_meaning2_syn1	unexpected	The clause ended with an exclamation mark.	1
+109	55	sentence_meaning2_syn1	expected	She wrote a long sentence full of descriptive words.	4
+110	55	sentence_meaning2_syn1	unexpected	She wrote a long clause full of descriptive words.	4
+111	56	sentence_meaning2_syn2	expected	Each student had to write a complete sentence on the board.	7
+112	56	sentence_meaning2_syn2	unexpected	Each student had to write a complete phrase on the board.	7
+113	57	sentence_meaning2_syn2	expected	That sentence doesn’t have a subject or a verb.	1
+114	57	sentence_meaning2_syn2	unexpected	That phrase doesn’t have a subject or a verb.	1
+115	58	sentence_meaning2_syn2	expected	Please correct the grammar in this sentence.	6
+116	58	sentence_meaning2_syn2	unexpected	Please correct the grammar in this phrase	6
+117	59	sentence_meaning2_syn2	expected	The sentence ended with an exclamation mark.	1
+118	59	sentence_meaning2_syn2	unexpected	The phrase ended with an exclamation mark.	1
+119	60	sentence_meaning2_syn2	expected	She wrote a long sentence full of descriptive words.	4
+120	60	sentence_meaning2_syn2	unexpected	She wrote a long phrase full of descriptive words.	4
+121	61	fit_meaning1_syn1	expected	She goes to the gym every day to stay fit.	9
+122	61	fit_meaning1_syn1	unexpected	She goes to the gym every day to stay healthy	9
+123	62	fit_meaning1_syn1	expected	After months of training, he finally felt fit again.	7
+124	62	fit_meaning1_syn1	unexpected	After months of training, he finally felt healthy again.	7
+125	63	fit_meaning1_syn1	expected	The coach said she was fit enough to compete.	5
+126	63	fit_meaning1_syn1	unexpected	The coach said she was healthy enough to compete.	5
+127	64	fit_meaning1_syn1	expected	He eats well to keep his body fit.	7
+128	64	fit_meaning1_syn1	unexpected	He eats well to keep his body healthy	7
+129	65	fit_meaning1_syn1	expected	They admire people who are strong and fit.	7
+130	65	fit_meaning1_syn1	unexpected	They admire people who are strong and healthy	7
+131	66	fit_meaning1_syn2	expected	She goes to the gym every day to stay fit.	9
+132	66	fit_meaning1_syn2	unexpected	She goes to the gym every day to stay athletic	9
+133	67	fit_meaning1_syn2	expected	After months of training, he finally felt fit again.	7
+134	67	fit_meaning1_syn2	unexpected	After months of training, he finally felt athletic again.	7
+135	68	fit_meaning1_syn2	expected	The coach said she was fit enough to compete.	5
+136	68	fit_meaning1_syn2	unexpected	The coach said she was athletic enough to compete.	5
+137	69	fit_meaning1_syn2	expected	He eats well to keep his body fit.	7
+138	69	fit_meaning1_syn2	unexpected	He eats well to keep his body athletic	7
+139	70	fit_meaning1_syn2	expected	They admire people who are strong and fit.	7
+140	70	fit_meaning1_syn2	unexpected	They admire people who are strong and athletic	7
+141	71	fit_meaning2_syn1	expected	That dress is not fit for a formal dinner.	4
+142	71	fit_meaning2_syn1	unexpected	That dress is not appropriate for a formal dinner.	4
+143	72	fit_meaning2_syn1	expected	The movie is not fit for young children.	4
+144	72	fit_meaning2_syn1	unexpected	The movie is not appropriate for young children.	4
+145	73	fit_meaning2_syn1	expected	This tool is fit for heavy construction work.	3
+146	73	fit_meaning2_syn1	unexpected	This tool is appropriate for heavy construction work.	3
+147	74	fit_meaning2_syn1	expected	Her remarks were not fit for a public event.	4
+148	74	fit_meaning2_syn1	unexpected	Her remarks were not appropriate for a public event.	4
+149	75	fit_meaning2_syn1	expected	Only candidates fit for leadership will be considered.	2
+150	75	fit_meaning2_syn1	unexpected	Only candidates appropriate for leadership will be considered.	2
+151	76	fit_meaning2_syn2	expected	That dress is not fit for a formal dinner.	4
+152	76	fit_meaning2_syn2	unexpected	That dress is not suited for a formal dinner.	4
+153	77	fit_meaning2_syn2	expected	The movie is not fit for young children.	4
+154	77	fit_meaning2_syn2	unexpected	The movie is not suited for young children.	4
+155	78	fit_meaning2_syn2	expected	This tool is fit for heavy construction work.	3
+156	78	fit_meaning2_syn2	unexpected	This tool is suited for heavy construction work.	3
+157	79	fit_meaning2_syn2	expected	Her remarks were not fit for a public event.	4
+158	79	fit_meaning2_syn2	unexpected	Her remarks were not suited for a public event.	4
+159	80	fit_meaning2_syn2	expected	Only candidates fit for leadership will be considered.	2
+160	80	fit_meaning2_syn2	unexpected	Only candidates suited for leadership will be considered.	2
+161	81	dust_meaning1_syn1	expected	To clean by removing dust (sweep/wipe)	4
+162	81	dust_meaning1_syn1	unexpected	To clean by removing sweep (sweep/wipe)	4
+163	82	dust_meaning1_syn1	expected	I like to dust the shelves before guests arrive.	3
+164	82	dust_meaning1_syn1	unexpected	I like to sweep the shelves before guests arrive.	3
+165	83	dust_meaning1_syn1	expected	They always dust the furniture on weekends.	2
+166	83	dust_meaning1_syn1	unexpected	They always sweep the furniture on weekends.	2
+167	84	dust_meaning1_syn1	expected	We need to dust the old books before putting them back.	3
+168	84	dust_meaning1_syn1	unexpected	We need to sweep the old books before putting them back.	3
+169	85	dust_meaning1_syn1	expected	She prefers to dust the windowsills every morning.	3
+170	85	dust_meaning1_syn1	unexpected	She prefers to sweep the windowsills every morning.	3
+171	86	dust_meaning1_syn1	expected	He likes to dust the table before dinner.	3
+172	86	dust_meaning1_syn1	unexpected	He likes to sweep the table before dinner.	3
+173	87	dust_meaning1_syn2	expected	To clean by removing dust (sweep/wipe)	4
+174	87	dust_meaning1_syn2	unexpected	To clean by removing wipe (sweep/wipe)	4
+175	88	dust_meaning1_syn2	expected	I like to dust the shelves before guests arrive.	3
+176	88	dust_meaning1_syn2	unexpected	I like to wipe the shelves before guests arrive.	3
+177	89	dust_meaning1_syn2	expected	They always dust the furniture on weekends.	2
+178	89	dust_meaning1_syn2	unexpected	They always wipe the furniture on weekends.	2
+179	90	dust_meaning1_syn2	expected	We need to dust the old books before putting them back.	3
+180	90	dust_meaning1_syn2	unexpected	We need to wipe the old books before putting them back.	3
+181	91	dust_meaning1_syn2	expected	She prefers to dust the windowsills every morning.	3
+182	91	dust_meaning1_syn2	unexpected	She prefers to wipe the windowsills every morning.	3
+183	92	dust_meaning1_syn2	expected	He likes to dust the table before dinner.	3
+184	92	dust_meaning1_syn2	unexpected	He likes to wipe the table before dinner.	3
+185	93	dust_meaning2_syn1	expected	I like to dust the cake with powdered sugar.	3
+186	93	dust_meaning2_syn1	unexpected	I like to sprinkle the cake with powdered sugar.	3
+187	94	dust_meaning2_syn1	expected	She likes to dust the cookies with cocoa before serving them.	3
+188	94	dust_meaning2_syn1	unexpected	She likes to sprinkle the cookies with cocoa before serving them.	3
+189	95	dust_meaning2_syn1	expected	The chef likes to dust the plate with herbs for decoration.	4
+190	95	dust_meaning2_syn1	unexpected	The chef likes to sprinkle the plate with herbs for decoration.	4
+191	96	dust_meaning2_syn1	expected	We often dust the brownies with sugar before packaging them.	2
+192	96	dust_meaning2_syn1	unexpected	We often sprinkle the brownies with sugar before packaging them.	2
+193	97	dust_meaning2_syn1	expected	She loves to dust her clothes with perfume before going out.	3
+194	97	dust_meaning2_syn1	unexpected	She loves to sprinkle her clothes with perfume before going out.	3
+195	98	dust_meaning2_syn2	expected	I like to dust the cake with powdered sugar.	3
+196	98	dust_meaning2_syn2	unexpected	I like to spray the cake with powdered sugar.	3
+197	99	dust_meaning2_syn2	expected	She likes to dust the cookies with cocoa before serving them.	3
+198	99	dust_meaning2_syn2	unexpected	She likes to spray the cookies with cocoa before serving them.	3
+199	100	dust_meaning2_syn2	expected	The chef likes to dust the plate with herbs for decoration.	4
+200	100	dust_meaning2_syn2	unexpected	The chef likes to spray the plate with herbs for decoration.	4
+201	101	dust_meaning2_syn2	expected	We often dust the brownies with sugar before packaging them.	2
+202	101	dust_meaning2_syn2	unexpected	We often spray the brownies with sugar before packaging them.	2
+203	102	dust_meaning2_syn2	expected	She loves to dust her clothes with perfume before going out.	3
+204	102	dust_meaning2_syn2	unexpected	She loves to spray her clothes with perfume before going out.	3
+205	103	fan_meaning1_syn1	expected	The fan kept the room cool during the summer.	1
+206	103	fan_meaning1_syn1	unexpected	The ventilator kept the room cool during the summer.	1
+207	104	fan_meaning1_syn1	expected	He switched on the fan to circulate the air.	4
+208	104	fan_meaning1_syn1	unexpected	He switched on the ventilator to circulate the air.	4
+209	105	fan_meaning1_syn1	expected	The fan made a quiet humming sound.	1
+210	105	fan_meaning1_syn1	unexpected	The ventilator made a quiet humming sound.	1
+211	106	fan_meaning1_syn1	expected	They installed a new fan in the ceiling.	4
+212	106	fan_meaning1_syn1	unexpected	They installed a new ventilator in the ceiling.	4
+213	107	fan_meaning1_syn1	expected	She cleaned the fan blades to improve airflow.	3
+214	107	fan_meaning1_syn1	unexpected	She cleaned the ventilator blades to improve airflow.	3
+215	108	fan_meaning1_syn2	expected	The fan kept the room cool during the summer.	1
+216	108	fan_meaning1_syn2	unexpected	The blower kept the room cool during the summer.	1
+217	109	fan_meaning1_syn2	expected	He switched on the fan to circulate the air.	4
+218	109	fan_meaning1_syn2	unexpected	He switched on the blower to circulate the air.	4
+219	110	fan_meaning1_syn2	expected	The fan made a quiet humming sound.	1
+220	110	fan_meaning1_syn2	unexpected	The blower made a quiet humming sound.	1
+221	111	fan_meaning1_syn2	expected	They installed a new fan in the ceiling.	4
+222	111	fan_meaning1_syn2	unexpected	They installed a new blower in the ceiling.	4
+223	112	fan_meaning1_syn2	expected	She cleaned the fan blades to improve airflow.	3
+224	112	fan_meaning1_syn2	unexpected	She cleaned the blower blades to improve airflow.	3
+225	113	fan_meaning2_syn1	expected	She’s a huge fan of classical music.	3
+226	113	fan_meaning2_syn1	unexpected	She’s a huge supporter of classical music.	3
+227	114	fan_meaning2_syn1	expected	He’s a loyal fan of the local football team.	3
+228	114	fan_meaning2_syn1	unexpected	He’s a loyal supporter of the local football team.	3
+229	115	fan_meaning2_syn1	expected	The fan cheered loudly during the concert.	1
+230	115	fan_meaning2_syn1	unexpected	The supporter cheered loudly during the concert.	1
+231	116	fan_meaning2_syn1	expected	Every fan in the stadium wore team colors.	1
+232	116	fan_meaning2_syn1	unexpected	Every supporter in the stadium wore team colors.	1
+233	117	fan_meaning2_syn1	expected	She’s been a fan of that artist for years.	3
+234	117	fan_meaning2_syn1	unexpected	She’s been a supporter of that artist for years.	3
+235	118	fan_meaning2_syn2	expected	She’s a huge fan of classical music.	3
+236	118	fan_meaning2_syn2	unexpected	She’s a huge enthusiast of classical music.	3
+237	119	fan_meaning2_syn2	expected	He’s a loyal fan of the local football team.	3
+238	119	fan_meaning2_syn2	unexpected	He’s a loyal enthusiast of the local football team.	3
+239	120	fan_meaning2_syn2	expected	The fan cheered loudly during the concert.	1
+240	120	fan_meaning2_syn2	unexpected	The enthusiast cheered loudly during the concert.	1
+241	121	fan_meaning2_syn2	expected	Every fan in the stadium wore team colors.	1
+242	121	fan_meaning2_syn2	unexpected	Every enthusiast in the stadium wore team colors.	1
+243	122	fan_meaning2_syn2	expected	She’s been a fan of that artist for years.	3
+244	122	fan_meaning2_syn2	unexpected	She’s been a enthusiast of that artist for years.	3
+245	123	hard_meaning1_syn1	expected	The rock was too hard to break with a hammer.	4
+246	123	hard_meaning1_syn1	unexpected	The rock was too solid to break with a hammer.	4
+247	124	hard_meaning1_syn1	expected	The ground was hard after the long drought.	3
+248	124	hard_meaning1_syn1	unexpected	The ground was solid after the long drought.	3
+249	125	hard_meaning1_syn1	expected	The frozen soil felt hard underfoot.	4
+250	125	hard_meaning1_syn1	unexpected	The frozen soil felt solid underfoot.	4
+251	126	hard_meaning1_syn1	expected	The wood was hard and difficult to cut.	3
+252	126	hard_meaning1_syn1	unexpected	The wood was solid and difficult to cut.	3
+253	127	hard_meaning1_syn1	expected	Diamond is a really hard material.	4
+254	127	hard_meaning1_syn1	unexpected	Diamond is a really solid material.	4
+255	128	hard_meaning1_syn2	expected	The rock was too hard to break with a hammer.	4
+256	128	hard_meaning1_syn2	unexpected	The rock was too dense to break with a hammer.	4
+257	129	hard_meaning1_syn2	expected	The ground was hard after the long drought.	3
+258	129	hard_meaning1_syn2	unexpected	The ground was dense after the long drought.	3
+259	130	hard_meaning1_syn2	expected	The frozen soil felt hard underfoot.	4
+260	130	hard_meaning1_syn2	unexpected	The frozen soil felt dense underfoot.	4
+261	131	hard_meaning1_syn2	expected	The wood was hard and difficult to cut.	3
+262	131	hard_meaning1_syn2	unexpected	The wood was dense and difficult to cut.	3
+263	132	hard_meaning1_syn2	expected	Diamond is a really hard material.	4
+264	132	hard_meaning1_syn2	unexpected	Diamond is a really dense material.	4
+265	133	hard_meaning2_syn1	expected	It’s hard to learn a new language as an adult.	1
+266	133	hard_meaning2_syn1	unexpected	It’s difficult to learn a new language as an adult.	1
+267	134	hard_meaning2_syn1	expected	The hike was hard but rewarding.	3
+268	134	hard_meaning2_syn1	unexpected	The hike was difficult but rewarding.	3
+269	135	hard_meaning2_syn1	expected	Finishing the project on time was hard.	6
+270	135	hard_meaning2_syn1	unexpected	Finishing the project on time was difficult	6
+271	136	hard_meaning2_syn1	expected	Solving that problem was really hard for me.	5
+272	136	hard_meaning2_syn1	unexpected	Solving that problem was really difficult for me.	5
+273	137	hard_meaning2_syn2	expected	It’s hard to learn a new language as an adult.	1
+274	137	hard_meaning2_syn2	unexpected	It’s strenuous to learn a new language as an adult.	1
+275	138	hard_meaning2_syn2	expected	The hike was hard but rewarding.	3
+276	138	hard_meaning2_syn2	unexpected	The hike was strenuous but rewarding.	3
+277	139	hard_meaning2_syn2	expected	Finishing the project on time was hard.	6
+278	139	hard_meaning2_syn2	unexpected	Finishing the project on time was strenuous	6
+279	140	hard_meaning2_syn2	expected	Solving that problem was really hard for me.	5
+280	140	hard_meaning2_syn2	unexpected	Solving that problem was really strenuous for me.	5
+281	141	cover_meaning1_syn1	expected	She used an umbrella to cover herself from the rain.	5
+282	141	cover_meaning1_syn1	unexpected	She used an umbrella to protect herself from the rain.	5
+283	142	cover_meaning1_syn1	expected	The wall was built to cover the garden from the wind.	5
+284	142	cover_meaning1_syn1	unexpected	The wall was built to protect the garden from the wind.	5
+285	143	cover_meaning1_syn2	expected	She used an umbrella to cover herself from the rain.	5
+286	143	cover_meaning1_syn2	unexpected	She used an umbrella to shelter herself from the rain.	5
+287	144	cover_meaning1_syn2	expected	The wall was built to cover the garden from the wind.	5
+288	144	cover_meaning1_syn2	unexpected	The wall was built to shelter the garden from the wind.	5
+289	145	cover_meaning2_syn1	expected	The journalist was sent to cover the election results.	5
+290	145	cover_meaning2_syn1	unexpected	The journalist was sent to report the election results.	5
+291	146	cover_meaning2_syn1	expected	She was asked to cover the conference for the magazine.	4
+292	146	cover_meaning2_syn1	unexpected	She was asked to report the conference for the magazine.	4
+293	147	cover_meaning2_syn2	expected	The journalist was sent to cover the election results.	5
+294	147	cover_meaning2_syn2	unexpected	The journalist was sent to detail the election results.	5
+295	148	cover_meaning2_syn2	expected	She was asked to cover the conference for the magazine.	4
+296	148	cover_meaning2_syn2	unexpected	She was asked to detail the conference for the magazine.	4
+297	149	hack_meaning1_syn1	expected	I hack through the thick vines with a machete.	1
+298	149	hack_meaning1_syn1	unexpected	I chop through the thick vines with a machete.	1
+299	150	hack_meaning1_syn1	expected	The butchers hack the meat into smaller pieces.	2
+300	150	hack_meaning1_syn1	unexpected	The butchers chop the meat into smaller pieces.	2
+301	151	hack_meaning1_syn1	expected	They hack away at the branches until the path is clear.	1
+302	151	hack_meaning1_syn1	unexpected	They chop away at the branches until the path is clear.	1
+303	152	hack_meaning1_syn1	expected	They hack a rough trail through the forest.	1
+304	152	hack_meaning1_syn1	unexpected	They chop a rough trail through the forest.	1
+305	153	hack_meaning1_syn1	expected	He and his family hack the wood to make kindling for the fire.	4
+306	153	hack_meaning1_syn1	unexpected	He and his family chop the wood to make kindling for the fire.	4
+307	154	hack_meaning1_syn2	expected	I hack through the thick vines with a machete.	1
+308	154	hack_meaning1_syn2	unexpected	I slash through the thick vines with a machete.	1
+309	155	hack_meaning1_syn2	expected	The butchers hack the meat into smaller pieces.	2
+310	155	hack_meaning1_syn2	unexpected	The butchers slash the meat into smaller pieces.	2
+311	156	hack_meaning1_syn2	expected	They hack away at the branches until the path is clear.	1
+312	156	hack_meaning1_syn2	unexpected	They slash away at the branches until the path is clear.	1
+313	157	hack_meaning1_syn2	expected	They hack a rough trail through the forest.	1
+314	157	hack_meaning1_syn2	unexpected	They slash a rough trail through the forest.	1
+315	158	hack_meaning1_syn2	expected	He and his family hack the wood to make kindling for the fire.	4
+316	158	hack_meaning1_syn2	unexpected	He and his family slash the wood to make kindling for the fire.	4
+317	159	hack_meaning2_syn1	expected	They hack the company’s server.	1
+318	159	hack_meaning2_syn1	unexpected	They infiltrate the company’s server.	1
+319	160	hack_meaning2_syn1	expected	Some evil people hack his email account.	3
+320	160	hack_meaning2_syn1	unexpected	Some evil people infiltrate his email account.	3
+321	161	hack_meaning2_syn1	expected	The group named Anonymous hack the system to expose security flaws.	4
+322	161	hack_meaning2_syn1	unexpected	The group named Anonymous infiltrate the system to expose security flaws.	4
+323	162	hack_meaning2_syn1	expected	Hackers hack the government database.	1
+324	162	hack_meaning2_syn1	unexpected	Hackers infiltrate the government database.	1
+325	163	hack_meaning2_syn1	expected	They hack the network to steal sensitive data.	1
+326	163	hack_meaning2_syn1	unexpected	They infiltrate the network to steal sensitive data.	1
+327	164	hack_meaning2_syn2	expected	They hack the company’s server.	1
+328	164	hack_meaning2_syn2	unexpected	They invade the company’s server.	1
+329	165	hack_meaning2_syn2	expected	Some evil people hack his email account.	3
+330	165	hack_meaning2_syn2	unexpected	Some evil people invade his email account.	3
+331	166	hack_meaning2_syn2	expected	The group named Anonymous hack the system to expose security flaws.	4
+332	166	hack_meaning2_syn2	unexpected	The group named Anonymous invade the system to expose security flaws.	4
+333	167	hack_meaning2_syn2	expected	Hackers hack the government database.	1
+334	167	hack_meaning2_syn2	unexpected	Hackers invade the government database.	1
+335	168	hack_meaning2_syn2	expected	They hack the network to steal sensitive data.	1
+336	168	hack_meaning2_syn2	unexpected	They invade the network to steal sensitive data.	1
+337	169	cool_meaning1_syn1	expected	The morning air felt cool after the rain.	4
+338	169	cool_meaning1_syn1	unexpected	The morning air felt chilly after the rain.	4
+339	170	cool_meaning1_syn1	expected	It’s getting cool now that the sun has gone down.	2
+340	170	cool_meaning1_syn1	unexpected	It’s getting chilly now that the sun has gone down.	2
+341	171	cool_meaning1_syn1	expected	The breeze from the ocean was cool and refreshing.	6
+342	171	cool_meaning1_syn1	unexpected	The breeze from the ocean was chilly and refreshing.	6
+343	172	cool_meaning1_syn1	expected	She put on a jacket to stay warm in the cool evening.	10
+344	172	cool_meaning1_syn1	unexpected	She put on a jacket to stay warm in the chilly evening.	10
+345	173	cool_meaning1_syn1	expected	The water in the pool was cool to the touch.	6
+346	173	cool_meaning1_syn1	unexpected	The water in the pool was chilly to the touch.	6
+347	174	cool_meaning1_syn2	expected	The morning air felt cool after the rain.	4
+348	174	cool_meaning1_syn2	unexpected	The morning air felt freezing after the rain.	4
+349	175	cool_meaning1_syn2	expected	It’s getting cool now that the sun has gone down.	2
+350	175	cool_meaning1_syn2	unexpected	It’s getting freezing now that the sun has gone down.	2
+351	176	cool_meaning1_syn2	expected	The breeze from the ocean was cool and refreshing.	6
+352	176	cool_meaning1_syn2	unexpected	The breeze from the ocean was freezing and refreshing.	6
+353	177	cool_meaning1_syn2	expected	She put on a jacket to stay warm in the cool evening.	10
+354	177	cool_meaning1_syn2	unexpected	She put on a jacket to stay warm in the freezing evening.	10
+355	178	cool_meaning1_syn2	expected	The water in the pool was cool to the touch.	6
+356	178	cool_meaning1_syn2	unexpected	The water in the pool was freezing to the touch.	6
+357	179	cool_meaning2_syn1	expected	That jacket looks really cool on you.	4
+358	179	cool_meaning2_syn1	unexpected	That jacket looks really stylish on you.	4
+359	180	cool_meaning2_syn1	expected	He always wears cool sunglasses wherever he goes.	3
+360	180	cool_meaning2_syn1	unexpected	He always wears stylish sunglasses wherever he goes.	3
+361	181	cool_meaning2_syn1	expected	Her haircut is so cool and modern.	4
+362	181	cool_meaning2_syn1	unexpected	Her haircut is so stylish and modern.	4
+363	182	cool_meaning2_syn1	expected	The new phone design looks sleek and cool.	7
+364	182	cool_meaning2_syn1	unexpected	The new phone design looks sleek and stylish	7
+365	183	cool_meaning2_syn1	expected	Everyone thought his dance moves were super cool.	7
+366	183	cool_meaning2_syn1	unexpected	Everyone thought his dance moves were super stylish	7
+367	184	cool_meaning2_syn2	expected	That jacket looks really cool on you.	4
+368	184	cool_meaning2_syn2	unexpected	That jacket looks really fashionable on you.	4
+369	185	cool_meaning2_syn2	expected	He always wears cool sunglasses wherever he goes.	3
+370	185	cool_meaning2_syn2	unexpected	He always wears fashionable sunglasses wherever he goes.	3
+371	186	cool_meaning2_syn2	expected	Her haircut is so cool and modern.	4
+372	186	cool_meaning2_syn2	unexpected	Her haircut is so fashionable and modern.	4
+373	187	cool_meaning2_syn2	expected	The new phone design looks sleek and cool.	7
+374	187	cool_meaning2_syn2	unexpected	The new phone design looks sleek and fashionable	7
+375	188	cool_meaning2_syn2	expected	Everyone thought his dance moves were super cool.	7
+376	188	cool_meaning2_syn2	unexpected	Everyone thought his dance moves were super fashionable	7
+377	189	race_meaning1_syn1	expected	He trained for months to win the race.	7
+378	189	race_meaning1_syn1	unexpected	He trained for months to win the contest	7
+379	190	race_meaning1_syn1	expected	The runners lined up for the start of the race.	9
+380	190	race_meaning1_syn1	unexpected	The runners lined up for the start of the contest	9
+381	191	race_meaning1_syn1	expected	She finished the race just a second behind the winner.	3
+382	191	race_meaning1_syn1	unexpected	She finished the contest just a second behind the winner.	3
+383	192	race_meaning1_syn1	expected	The annual charity race raised thousands of dollars.	3
+384	192	race_meaning1_syn1	unexpected	The annual charity contest raised thousands of dollars.	3
+385	193	race_meaning1_syn1	expected	He entered the race hoping to beat his personal best.	3
+386	193	race_meaning1_syn1	unexpected	He entered the contest hoping to beat his personal best.	3
+387	194	race_meaning1_syn2	expected	He trained for months to win the race.	7
+388	194	race_meaning1_syn2	unexpected	He trained for months to win the competition	7
+389	195	race_meaning1_syn2	expected	The runners lined up for the start of the race.	9
+390	195	race_meaning1_syn2	unexpected	The runners lined up for the start of the competition	9
+391	196	race_meaning1_syn2	expected	She finished the race just a second behind the winner.	3
+392	196	race_meaning1_syn2	unexpected	She finished the competition just a second behind the winner.	3
+393	197	race_meaning1_syn2	expected	The annual charity race raised thousands of dollars.	3
+394	197	race_meaning1_syn2	unexpected	The annual charity competition raised thousands of dollars.	3
+395	198	race_meaning1_syn2	expected	He entered the race hoping to beat his personal best.	3
+396	198	race_meaning1_syn2	unexpected	He entered the competition hoping to beat his personal best.	3
+397	199	race_meaning2_syn1	expected	The census asked respondents to identify their race.	7
+398	199	race_meaning2_syn1	unexpected	The census asked respondents to identify their ethnicity	7
+399	200	race_meaning2_syn1	expected	Discussions about race are important for social understanding.	2
+400	200	race_meaning2_syn1	unexpected	Discussions about ethnicity are important for social understanding.	2
+401	201	race_meaning2_syn1	expected	The study examined how race influences access to education.	4
+402	201	race_meaning2_syn1	unexpected	The study examined how ethnicity influences access to education.	4
+403	202	race_meaning2_syn1	expected	He spoke about his pride in his race and cultural heritage.	7
+404	202	race_meaning2_syn1	unexpected	He spoke about his pride in his ethnicity and cultural heritage.	7
+405	203	race_meaning2_syn2	expected	The census asked respondents to identify their race.	7
+406	203	race_meaning2_syn2	unexpected	The census asked respondents to identify their descent	7
+407	204	race_meaning2_syn2	expected	Discussions about race are important for social understanding.	2
+408	204	race_meaning2_syn2	unexpected	Discussions about descent are important for social understanding.	2
+409	205	race_meaning2_syn2	expected	The study examined how race influences access to education.	4
+410	205	race_meaning2_syn2	unexpected	The study examined how descent influences access to education.	4
+411	206	race_meaning2_syn2	expected	He spoke about his pride in his race and cultural heritage.	7
+412	206	race_meaning2_syn2	unexpected	He spoke about his pride in his descent and cultural heritage.	7
+413	207	party_meaning1_syn1	expected	She has been a loyal member of the Democratic party for years.	9
+414	207	party_meaning1_syn1	unexpected	She has been a loyal member of the Democratic alliance for years.	9
+415	208	party_meaning1_syn1	expected	The new party gained several seats in parliament.	2
+416	208	party_meaning1_syn1	unexpected	The new alliance gained several seats in parliament.	2
+417	209	party_meaning1_syn1	expected	The party announced its new platform on climate change.	1
+418	209	party_meaning1_syn1	unexpected	The alliance announced its new platform on climate change.	1
+419	210	party_meaning1_syn1	expected	He decided to leave his old party and join another one.	6
+420	210	party_meaning1_syn1	unexpected	He decided to leave his old alliance and join another one.	6
+421	211	party_meaning1_syn2	expected	She has been a loyal member of the Democratic party for years.	9
+422	211	party_meaning1_syn2	unexpected	She has been a loyal member of the Democratic affiliation for years.	9
+423	212	party_meaning1_syn2	expected	The new party gained several seats in parliament.	2
+424	212	party_meaning1_syn2	unexpected	The new affiliation gained several seats in parliament.	2
+425	213	party_meaning1_syn2	expected	The party announced its new platform on climate change.	1
+426	213	party_meaning1_syn2	unexpected	The affiliation announced its new platform on climate change.	1
+427	214	party_meaning1_syn2	expected	He decided to leave his old party and join another one.	6
+428	214	party_meaning1_syn2	unexpected	He decided to leave his old affiliation and join another one.	6
+429	215	party_meaning2_syn1	expected	They threw a huge party to celebrate the end of exams.	4
+430	215	party_meaning2_syn1	unexpected	They threw a huge carnival to celebrate the end of exams.	4
+431	216	party_meaning2_syn1	expected	She hosted a surprise party for her best friend.	4
+432	216	party_meaning2_syn1	unexpected	She hosted a surprise carnival for her best friend.	4
+433	217	party_meaning2_syn1	expected	The party lasted late into the night with music and dancing.	1
+434	217	party_meaning2_syn1	unexpected	The carnival lasted late into the night with music and dancing.	1
+435	218	party_meaning2_syn1	expected	We decorated the house for the birthday party.	7
+436	218	party_meaning2_syn1	unexpected	We decorated the house for the birthday carnival	7
+437	219	party_meaning2_syn1	expected	Everyone dressed up for the holiday party.	6
+438	219	party_meaning2_syn1	unexpected	Everyone dressed up for the holiday carnival	6
+439	220	party_meaning2_syn2	expected	They threw a huge party to celebrate the end of exams.	4
+440	220	party_meaning2_syn2	unexpected	They threw a huge event to celebrate the end of exams.	4
+441	221	party_meaning2_syn2	expected	She hosted a surprise party for her best friend.	4
+442	221	party_meaning2_syn2	unexpected	She hosted a surprise event for her best friend.	4
+443	222	party_meaning2_syn2	expected	The party lasted late into the night with music and dancing.	1
+444	222	party_meaning2_syn2	unexpected	The event lasted late into the night with music and dancing.	1
+445	223	party_meaning2_syn2	expected	We decorated the house for the birthday party.	7
+446	223	party_meaning2_syn2	unexpected	We decorated the house for the birthday event	7
+447	224	party_meaning2_syn2	expected	Everyone dressed up for the holiday party.	6
+448	224	party_meaning2_syn2	unexpected	Everyone dressed up for the holiday event	6
+449	225	sweet_meaning1_syn1	expected	That was such a sweet thing to say to your friend.	4
+450	225	sweet_meaning1_syn1	unexpected	That was such a loving thing to say to your friend.	4
+451	226	sweet_meaning1_syn1	expected	He gave her a sweet smile when she walked in.	4
+452	226	sweet_meaning1_syn1	unexpected	He gave her a loving smile when she walked in.	4
+453	227	sweet_meaning1_syn1	expected	She wrote a sweet note to thank her teacher.	3
+454	227	sweet_meaning1_syn1	unexpected	She wrote a loving note to thank her teacher.	3
+455	228	sweet_meaning1_syn1	expected	Their sweet gesture made everyone in the room smile.	1
+456	228	sweet_meaning1_syn1	unexpected	Their loving gesture made everyone in the room smile.	1
+457	229	sweet_meaning1_syn1	expected	It was sweet of you to help carry the groceries.	2
+458	229	sweet_meaning1_syn1	unexpected	It was loving of you to help carry the groceries.	2
+459	230	sweet_meaning1_syn2	expected	That was such a sweet thing to say to your friend.	4
+460	230	sweet_meaning1_syn2	unexpected	That was such a caring thing to say to your friend.	4
+461	231	sweet_meaning1_syn2	expected	He gave her a sweet smile when she walked in.	4
+462	231	sweet_meaning1_syn2	unexpected	He gave her a caring smile when she walked in.	4
+463	232	sweet_meaning1_syn2	expected	She wrote a sweet note to thank her teacher.	3
+464	232	sweet_meaning1_syn2	unexpected	She wrote a caring note to thank her teacher.	3
+465	233	sweet_meaning1_syn2	expected	Their sweet gesture made everyone in the room smile.	1
+466	233	sweet_meaning1_syn2	unexpected	Their caring gesture made everyone in the room smile.	1
+467	234	sweet_meaning1_syn2	expected	It was sweet of you to help carry the groceries.	2
+468	234	sweet_meaning1_syn2	unexpected	It was caring of you to help carry the groceries.	2
+469	235	sweet_meaning2_syn1	expected	The dessert was too sweet for my taste.	4
+470	235	sweet_meaning2_syn1	unexpected	The dessert was too sugary for my taste.	4
+471	236	sweet_meaning2_syn1	expected	She prefers sweet coffee over bitter tea.	2
+472	236	sweet_meaning2_syn1	unexpected	She prefers sugary coffee over bitter tea.	2
+473	237	sweet_meaning2_syn1	expected	The sweet aroma of chocolate filled the kitchen.	1
+474	237	sweet_meaning2_syn1	unexpected	The sugary aroma of chocolate filled the kitchen.	1
+475	238	sweet_meaning2_syn1	expected	He made a sweet sauce to drizzle over the pancakes.	3
+476	238	sweet_meaning2_syn1	unexpected	He made a sugary sauce to drizzle over the pancakes.	3
+477	239	sweet_meaning2_syn1	expected	The fruit was perfectly ripe and sweet.	6
+478	239	sweet_meaning2_syn1	unexpected	The fruit was perfectly ripe and sugary	6
+479	240	sweet_meaning2_syn2	expected	The dessert was too sweet for my taste.	4
+480	240	sweet_meaning2_syn2	unexpected	The dessert was too candied for my taste.	4
+481	241	sweet_meaning2_syn2	expected	She prefers sweet coffee over bitter tea.	2
+482	241	sweet_meaning2_syn2	unexpected	She prefers candied coffee over bitter tea.	2
+483	242	sweet_meaning2_syn2	expected	The sweet aroma of chocolate filled the kitchen.	1
+484	242	sweet_meaning2_syn2	unexpected	The candied aroma of chocolate filled the kitchen.	1
+485	243	sweet_meaning2_syn2	expected	He made a sweet sauce to drizzle over the pancakes.	3
+486	243	sweet_meaning2_syn2	unexpected	He made a candied sauce to drizzle over the pancakes.	3
+487	244	sweet_meaning2_syn2	expected	The fruit was perfectly ripe and sweet.	6
+488	244	sweet_meaning2_syn2	unexpected	The fruit was perfectly ripe and candied	6
+489	245	note_meaning1_syn1	expected	The pianist hit a beautiful note that lingered in the hall.	5
+490	245	note_meaning1_syn1	unexpected	The pianist hit a beautiful tone that lingered in the hall.	5
+491	246	note_meaning1_syn1	expected	She played every note of the song perfectly.	3
+492	246	note_meaning1_syn1	unexpected	She played every tone of the song perfectly.	3
+493	247	note_meaning1_syn1	expected	The violinist held the final note for several seconds.	5
+494	247	note_meaning1_syn1	unexpected	The violinist held the final tone for several seconds.	5
+495	248	note_meaning1_syn1	expected	He missed one note during his solo performance.	3
+496	248	note_meaning1_syn1	unexpected	He missed one tone during his solo performance.	3
+497	249	note_meaning1_syn1	expected	The singer struggled to reach the highest note in the piece.	7
+498	249	note_meaning1_syn1	unexpected	The singer struggled to reach the highest tone in the piece.	7
+499	250	note_meaning1_syn2	expected	The pianist hit a beautiful note that lingered in the hall.	5
+500	250	note_meaning1_syn2	unexpected	The pianist hit a beautiful sound that lingered in the hall.	5
+501	251	note_meaning1_syn2	expected	She played every note of the song perfectly.	3
+502	251	note_meaning1_syn2	unexpected	She played every sound of the song perfectly.	3
+503	252	note_meaning1_syn2	expected	The violinist held the final note for several seconds.	5
+504	252	note_meaning1_syn2	unexpected	The violinist held the final sound for several seconds.	5
+505	253	note_meaning1_syn2	expected	He missed one note during his solo performance.	3
+506	253	note_meaning1_syn2	unexpected	He missed one sound during his solo performance.	3
+507	254	note_meaning1_syn2	expected	The singer struggled to reach the highest note in the piece.	7
+508	254	note_meaning1_syn2	unexpected	The singer struggled to reach the highest sound in the piece.	7
+509	255	note_meaning2_syn1	expected	She left a note on the table to remind him about the meeting.	3
+510	255	note_meaning2_syn1	unexpected	She left a memo on the table to remind him about the meeting.	3
+511	256	note_meaning2_syn1	expected	He wrote a short note to apologize for being late.	4
+512	256	note_meaning2_syn1	unexpected	He wrote a short memo to apologize for being late.	4
+513	257	note_meaning2_syn1	expected	There was a handwritten note waiting for her at the door.	4
+514	257	note_meaning2_syn1	unexpected	There was a handwritten memo waiting for her at the door.	4
+515	258	note_meaning2_syn1	expected	She slipped a note under his office door before leaving.	3
+516	258	note_meaning2_syn1	unexpected	She slipped a memo under his office door before leaving.	3
+517	259	note_meaning2_syn1	expected	He received a note from his teacher about the homework.	3
+518	259	note_meaning2_syn1	unexpected	He received a memo from his teacher about the homework.	3
+519	260	note_meaning2_syn2	expected	She left a note on the table to remind him about the meeting.	3
+520	260	note_meaning2_syn2	unexpected	She left a message on the table to remind him about the meeting.	3
+521	261	note_meaning2_syn2	expected	He wrote a short note to apologize for being late.	4
+522	261	note_meaning2_syn2	unexpected	He wrote a short message to apologize for being late.	4
+523	262	note_meaning2_syn2	expected	There was a handwritten note waiting for her at the door.	4
+524	262	note_meaning2_syn2	unexpected	There was a handwritten message waiting for her at the door.	4
+525	263	note_meaning2_syn2	expected	She slipped a note under his office door before leaving.	3
+526	263	note_meaning2_syn2	unexpected	She slipped a message under his office door before leaving.	3
+527	264	note_meaning2_syn2	expected	He received a note from his teacher about the homework.	3
+528	264	note_meaning2_syn2	unexpected	He received a message from his teacher about the homework.	3
+529	265	plain_meaning1_syn1	expected	The room was completely plain inside.	4
+530	265	plain_meaning1_syn1	unexpected	The room was completely simple inside.	4
+531	266	plain_meaning1_syn1	expected	Her dress was very plain but elegant.	4
+532	266	plain_meaning1_syn1	unexpected	Her dress was very simple but elegant.	4
+533	267	plain_meaning1_syn1	expected	The walls looked plain without any paintings.	3
+534	267	plain_meaning1_syn1	unexpected	The walls looked simple without any paintings.	3
+535	268	plain_meaning1_syn1	expected	The table was plain and functional.	3
+536	268	plain_meaning1_syn1	unexpected	The table was simple and functional.	3
+537	269	plain_meaning1_syn1	expected	He chose a plain design for the invitation.	3
+538	269	plain_meaning1_syn1	unexpected	He chose a simple design for the invitation.	3
+539	270	plain_meaning1_syn2	expected	The room was completely plain inside.	4
+540	270	plain_meaning1_syn2	unexpected	The room was completely undecorated inside.	4
+541	271	plain_meaning1_syn2	expected	Her dress was very plain but elegant.	4
+542	271	plain_meaning1_syn2	unexpected	Her dress was very undecorated but elegant.	4
+543	272	plain_meaning1_syn2	expected	The walls looked plain without any paintings.	3
+544	272	plain_meaning1_syn2	unexpected	The walls looked undecorated without any paintings.	3
+545	273	plain_meaning1_syn2	expected	The table was plain and functional.	3
+546	273	plain_meaning1_syn2	unexpected	The table was undecorated and functional.	3
+547	274	plain_meaning1_syn2	expected	He chose a plain design for the invitation.	3
+548	274	plain_meaning1_syn2	unexpected	He chose a undecorated design for the invitation.	3
+549	275	plain_meaning2_syn1	expected	It was plain that she was upset.	2
+550	275	plain_meaning2_syn1	unexpected	It was obvious that she was upset.	2
+551	276	plain_meaning2_syn1	expected	The reason for the delay was plain to everyone.	6
+552	276	plain_meaning2_syn1	unexpected	The reason for the delay was obvious to everyone.	6
+553	277	plain_meaning2_syn1	expected	His disappointment was plain on his face.	3
+554	277	plain_meaning2_syn1	unexpected	His disappointment was obvious on his face.	3
+555	278	plain_meaning2_syn1	expected	The mistake was plain after we reviewed the numbers.	3
+556	278	plain_meaning2_syn1	unexpected	The mistake was obvious after we reviewed the numbers.	3
+557	279	plain_meaning2_syn1	expected	It became plain that the plan would not work.	2
+558	279	plain_meaning2_syn1	unexpected	It became obvious that the plan would not work.	2
+559	280	plain_meaning2_syn2	expected	It was plain that she was upset.	2
+560	280	plain_meaning2_syn2	unexpected	It was apparent that she was upset.	2
+561	281	plain_meaning2_syn2	expected	The reason for the delay was plain to everyone.	6
+562	281	plain_meaning2_syn2	unexpected	The reason for the delay was apparent to everyone.	6
+563	282	plain_meaning2_syn2	expected	His disappointment was plain on his face.	3
+564	282	plain_meaning2_syn2	unexpected	His disappointment was apparent on his face.	3
+565	283	plain_meaning2_syn2	expected	The mistake was plain after we reviewed the numbers.	3
+566	283	plain_meaning2_syn2	unexpected	The mistake was apparent after we reviewed the numbers.	3
+567	284	plain_meaning2_syn2	expected	It became plain that the plan would not work.	2
+568	284	plain_meaning2_syn2	unexpected	It became apparent that the plan would not work.	2
+569	285	lean_meaning1_syn1	expected	The tower began to lean slightly to the east.	4
+570	285	lean_meaning1_syn1	unexpected	The tower began to tilt slightly to the east.	4
+571	286	lean_meaning1_syn1	expected	He watched the tree lean in the strong wind.	4
+572	286	lean_meaning1_syn1	unexpected	He watched the tree tilt in the strong wind.	4
+573	287	lean_meaning1_syn1	expected	The pole would lean if not secured properly.	3
+574	287	lean_meaning1_syn1	unexpected	The pole would tilt if not secured properly.	3
+575	288	lean_meaning1_syn1	expected	The picture started to lean on the wall.	4
+576	288	lean_meaning1_syn1	unexpected	The picture started to tilt on the wall.	4
+577	289	lean_meaning1_syn1	expected	The bike would lean when parked on uneven ground.	3
+578	289	lean_meaning1_syn1	unexpected	The bike would tilt when parked on uneven ground.	3
+579	290	lean_meaning1_syn2	expected	The tower began to lean slightly to the east.	4
+580	290	lean_meaning1_syn2	unexpected	The tower began to bend slightly to the east.	4
+581	291	lean_meaning1_syn2	expected	He watched the tree lean in the strong wind.	4
+582	291	lean_meaning1_syn2	unexpected	He watched the tree bend in the strong wind.	4
+583	292	lean_meaning1_syn2	expected	The pole would lean if not secured properly.	3
+584	292	lean_meaning1_syn2	unexpected	The pole would bend if not secured properly.	3
+585	293	lean_meaning1_syn2	expected	The picture started to lean on the wall.	4
+586	293	lean_meaning1_syn2	unexpected	The picture started to bend on the wall.	4
+587	294	lean_meaning1_syn2	expected	The bike would lean when parked on uneven ground.	3
+588	294	lean_meaning1_syn2	unexpected	The bike would bend when parked on uneven ground.	3
+589	295	lean_meaning2_syn1	expected	You can always lean on me for support.	3
+590	295	lean_meaning2_syn1	unexpected	You can always rely on me for support.	3
+591	296	lean_meaning2_syn1	expected	She had to lean on her friends during a difficult time.	3
+592	296	lean_meaning2_syn1	unexpected	She had to rely on her friends during a difficult time.	3
+593	297	lean_meaning2_syn1	expected	They continued to lean on donations to keep the program running.	3
+594	297	lean_meaning2_syn1	unexpected	They continued to rely on donations to keep the program running.	3
+595	298	lean_meaning2_syn1	expected	The team would lean on its captain for leadership.	3
+596	298	lean_meaning2_syn1	unexpected	The team would rely on its captain for leadership.	3
+597	299	lean_meaning2_syn1	expected	He didn’t want to lean on others for help.	4
+598	299	lean_meaning2_syn1	unexpected	He didn’t want to rely on others for help.	4
+599	300	lean_meaning2_syn2	expected	You can always lean on me for support.	3
+600	300	lean_meaning2_syn2	unexpected	You can always depend on me for support.	3
+601	301	lean_meaning2_syn2	expected	She had to lean on her friends during a difficult time.	3
+602	301	lean_meaning2_syn2	unexpected	She had to depend on her friends during a difficult time.	3
+603	302	lean_meaning2_syn2	expected	They continued to lean on donations to keep the program running.	3
+604	302	lean_meaning2_syn2	unexpected	They continued to depend on donations to keep the program running.	3
+605	303	lean_meaning2_syn2	expected	The team would lean on its captain for leadership.	3
+606	303	lean_meaning2_syn2	unexpected	The team would depend on its captain for leadership.	3
+607	304	lean_meaning2_syn2	expected	He didn’t want to lean on others for help.	4
+608	304	lean_meaning2_syn2	unexpected	He didn’t want to depend on others for help.	4
+609	305	buckle_meaning1_syn1	expected	She had to buckle her seatbelt before the car moved.	3
+610	305	buckle_meaning1_syn1	unexpected	She had to clasp her seatbelt before the car moved.	3
+611	306	buckle_meaning1_syn1	expected	The hiker stopped to buckle his boots.	4
+612	306	buckle_meaning1_syn1	unexpected	The hiker stopped to clasp his boots.	4
+613	307	buckle_meaning1_syn1	expected	The child struggled to buckle the belt on his coat.	4
+614	307	buckle_meaning1_syn1	unexpected	The child struggled to clasp the belt on his coat.	4
+615	308	buckle_meaning1_syn1	expected	She leaned down to buckle the dog's harness.	4
+616	308	buckle_meaning1_syn1	unexpected	She leaned down to clasp the dog's harness.	4
+617	309	buckle_meaning1_syn2	expected	She had to buckle her seatbelt before the car moved.	3
+618	309	buckle_meaning1_syn2	unexpected	She had to secure her seatbelt before the car moved.	3
+619	310	buckle_meaning1_syn2	expected	The hiker stopped to buckle his boots.	4
+620	310	buckle_meaning1_syn2	unexpected	The hiker stopped to secure his boots.	4
+621	311	buckle_meaning1_syn2	expected	The child struggled to buckle the belt on his coat.	4
+622	311	buckle_meaning1_syn2	unexpected	The child struggled to secure the belt on his coat.	4
+623	312	buckle_meaning1_syn2	expected	She leaned down to buckle the dog's harness.	4
+624	312	buckle_meaning1_syn2	unexpected	She leaned down to secure the dog's harness.	4
+625	313	buckle_meaning2_syn1	expected	The old beam began to buckle under the weight.	5
+626	313	buckle_meaning2_syn1	unexpected	The old beam began to yield under the weight.	5
+627	314	buckle_meaning2_syn1	expected	The metal would buckle if overheated.	3
+628	314	buckle_meaning2_syn1	unexpected	The metal would yield if overheated.	3
+629	315	buckle_meaning2_syn1	expected	The floor started to buckle in the flood.	4
+630	315	buckle_meaning2_syn1	unexpected	The floor started to yield in the flood.	4
+631	316	buckle_meaning2_syn1	expected	The frame might buckle during the pressure test.	3
+632	316	buckle_meaning2_syn1	unexpected	The frame might yield during the pressure test.	3
+633	317	buckle_meaning2_syn1	expected	The roof could buckle in a severe storm.	3
+634	317	buckle_meaning2_syn1	unexpected	The roof could yield in a severe storm.	3
+635	318	buckle_meaning2_syn2	expected	The old beam began to buckle under the weight.	5
+636	318	buckle_meaning2_syn2	unexpected	The old beam began to crumple under the weight.	5
+637	319	buckle_meaning2_syn2	expected	The metal would buckle if overheated.	3
+638	319	buckle_meaning2_syn2	unexpected	The metal would crumple if overheated.	3
+639	320	buckle_meaning2_syn2	expected	The floor started to buckle in the flood.	4
+640	320	buckle_meaning2_syn2	unexpected	The floor started to crumple in the flood.	4
+641	321	buckle_meaning2_syn2	expected	The frame might buckle during the pressure test.	3
+642	321	buckle_meaning2_syn2	unexpected	The frame might crumple during the pressure test.	3
+643	322	buckle_meaning2_syn2	expected	The roof could buckle in a severe storm.	3
+644	322	buckle_meaning2_syn2	unexpected	The roof could crumple in a severe storm.	3
+645	323	tender_meaning1_syn1	expected	The massage felt very tender on her shoulders.	4
+646	323	tender_meaning1_syn1	unexpected	The massage felt very gentle on her shoulders.	4
+647	324	tender_meaning1_syn1	expected	He gave the dog a tender pat on the head.	5
+648	324	tender_meaning1_syn1	unexpected	He gave the dog a gentle pat on the head.	5
+649	325	tender_meaning1_syn1	expected	She spoke in a tender voice during the ceremony.	4
+650	325	tender_meaning1_syn1	unexpected	She spoke in a gentle voice during the ceremony.	4
+651	326	tender_meaning1_syn1	expected	The moment was tender and unforgettable.	3
+652	326	tender_meaning1_syn1	unexpected	The moment was gentle and unforgettable.	3
+653	327	tender_meaning1_syn1	expected	He placed a tender hand on her back.	3
+654	327	tender_meaning1_syn1	unexpected	He placed a gentle hand on her back.	3
+655	328	tender_meaning1_syn2	expected	The massage felt very tender on her shoulders.	4
+656	328	tender_meaning1_syn2	unexpected	The massage felt very soft on her shoulders.	4
+657	329	tender_meaning1_syn2	expected	He gave the dog a tender pat on the head.	5
+658	329	tender_meaning1_syn2	unexpected	He gave the dog a soft pat on the head.	5
+659	330	tender_meaning1_syn2	expected	She spoke in a tender voice during the ceremony.	4
+660	330	tender_meaning1_syn2	unexpected	She spoke in a soft voice during the ceremony.	4
+661	331	tender_meaning1_syn2	expected	The moment was tender and unforgettable.	3
+662	331	tender_meaning1_syn2	unexpected	The moment was soft and unforgettable.	3
+663	332	tender_meaning1_syn2	expected	He placed a tender hand on her back.	3
+664	332	tender_meaning1_syn2	unexpected	He placed a soft hand on her back.	3
+665	333	tender_meaning2_syn1	expected	Her ankle was still tender after the fall.	4
+666	333	tender_meaning2_syn1	unexpected	Her ankle was still sore after the fall.	4
+667	334	tender_meaning2_syn1	expected	The area around the bruise felt tender.	6
+668	334	tender_meaning2_syn1	unexpected	The area around the bruise felt sore	6
+669	335	tender_meaning2_syn1	expected	His muscles were tender from the workout.	3
+670	335	tender_meaning2_syn1	unexpected	His muscles were sore from the workout.	3
+671	336	tender_meaning2_syn1	expected	The tooth remained tender for days.	3
+672	336	tender_meaning2_syn1	unexpected	The tooth remained sore for days.	3
+673	337	tender_meaning2_syn1	expected	The cut was too tender to touch.	4
+674	337	tender_meaning2_syn1	unexpected	The cut was too sore to touch.	4
+675	338	tender_meaning2_syn2	expected	Her ankle was still tender after the fall.	4
+676	338	tender_meaning2_syn2	unexpected	Her ankle was still sensitive after the fall.	4
+677	339	tender_meaning2_syn2	expected	The area around the bruise felt tender.	6
+678	339	tender_meaning2_syn2	unexpected	The area around the bruise felt sensitive	6
+679	340	tender_meaning2_syn2	expected	His muscles were tender from the workout.	3
+680	340	tender_meaning2_syn2	unexpected	His muscles were sensitive from the workout.	3
+681	341	tender_meaning2_syn2	expected	The tooth remained tender for days.	3
+682	341	tender_meaning2_syn2	unexpected	The tooth remained sensitive for days.	3
+683	342	tender_meaning2_syn2	expected	The cut was too tender to touch.	4
+684	342	tender_meaning2_syn2	unexpected	The cut was too sensitive to touch.	4
+685	343	flat_meaning1_syn1	expected	The field was perfectly flat after they cleared it.	4
+686	343	flat_meaning1_syn1	unexpected	The field was perfectly level after they cleared it.	4
+687	344	flat_meaning1_syn1	expected	The countertop was flat and ready for use.	3
+688	344	flat_meaning1_syn1	unexpected	The countertop was level and ready for use.	3
+689	345	flat_meaning1_syn1	expected	The road stayed flat for miles.	3
+690	345	flat_meaning1_syn1	unexpected	The road stayed level for miles.	3
+691	346	flat_meaning1_syn1	expected	The surface felt completely flat to the touch.	4
+692	346	flat_meaning1_syn1	unexpected	The surface felt completely level to the touch.	4
+693	347	flat_meaning1_syn1	expected	The midwest is very flat and full of fields.	4
+694	347	flat_meaning1_syn1	unexpected	The midwest is very level and full of fields.	4
+695	348	flat_meaning1_syn2	expected	The field was perfectly flat after they cleared it.	4
+696	348	flat_meaning1_syn2	unexpected	The field was perfectly smooth after they cleared it.	4
+697	349	flat_meaning1_syn2	expected	The countertop was flat and ready for use.	3
+698	349	flat_meaning1_syn2	unexpected	The countertop was smooth and ready for use.	3
+699	350	flat_meaning1_syn2	expected	The road stayed flat for miles.	3
+700	350	flat_meaning1_syn2	unexpected	The road stayed smooth for miles.	3
+701	351	flat_meaning1_syn2	expected	The surface felt completely flat to the touch.	4
+702	351	flat_meaning1_syn2	unexpected	The surface felt completely smooth to the touch.	4
+703	352	flat_meaning1_syn2	expected	The midwest is very flat and full of fields.	4
+704	352	flat_meaning1_syn2	unexpected	The midwest is very smooth and full of fields.	4
+705	353	flat_meaning2_syn1	expected	The speech was flat and unexciting.	3
+706	353	flat_meaning2_syn1	unexpected	The speech was dull and unexciting.	3
+707	354	flat_meaning2_syn1	expected	The performance felt flat despite the effort.	3
+708	354	flat_meaning2_syn1	unexpected	The performance felt dull despite the effort.	3
+709	355	flat_meaning2_syn1	expected	The ending of the movie was flat.	6
+710	355	flat_meaning2_syn1	unexpected	The ending of the movie was dull	6
+711	356	flat_meaning2_syn1	expected	The drink tasted flat after sitting out.	3
+712	356	flat_meaning2_syn1	unexpected	The drink tasted dull after sitting out.	3
+713	357	flat_meaning2_syn1	expected	The conversation became flat very quickly.	3
+714	357	flat_meaning2_syn1	unexpected	The conversation became dull very quickly.	3
+715	358	flat_meaning2_syn2	expected	The speech was flat and unexciting.	3
+716	358	flat_meaning2_syn2	unexpected	The speech was bland and unexciting.	3
+717	359	flat_meaning2_syn2	expected	The performance felt flat despite the effort.	3
+718	359	flat_meaning2_syn2	unexpected	The performance felt bland despite the effort.	3
+719	360	flat_meaning2_syn2	expected	The ending of the movie was flat.	6
+720	360	flat_meaning2_syn2	unexpected	The ending of the movie was bland	6
+721	361	flat_meaning2_syn2	expected	The drink tasted flat after sitting out.	3
+722	361	flat_meaning2_syn2	unexpected	The drink tasted bland after sitting out.	3
+723	362	flat_meaning2_syn2	expected	The conversation became flat very quickly.	3
+724	362	flat_meaning2_syn2	unexpected	The conversation became bland very quickly.	3
+725	363	draft_meaning1_syn1	expected	A cold draft came in through the window.	2
+726	363	draft_meaning1_syn1	unexpected	A cold breeze came in through the window.	2
+727	364	draft_meaning1_syn1	expected	The hallway had a constant draft.	5
+728	364	draft_meaning1_syn1	unexpected	The hallway had a constant breeze	5
+729	365	draft_meaning1_syn1	expected	He felt a draft under the door.	3
+730	365	draft_meaning1_syn1	unexpected	He felt a breeze under the door.	3
+731	366	draft_meaning1_syn1	expected	The old house always had a draft in winter.	6
+732	366	draft_meaning1_syn1	unexpected	The old house always had a breeze in winter.	6
+733	367	draft_meaning1_syn1	expected	A sudden draft blew out the candle.	2
+734	367	draft_meaning1_syn1	unexpected	A sudden breeze blew out the candle.	2
+735	368	draft_meaning1_syn2	expected	A cold draft came in through the window.	2
+736	368	draft_meaning1_syn2	unexpected	A cold wind came in through the window.	2
+737	369	draft_meaning1_syn2	expected	The hallway had a constant draft.	5
+738	369	draft_meaning1_syn2	unexpected	The hallway had a constant wind	5
+739	370	draft_meaning1_syn2	expected	He felt a draft under the door.	3
+740	370	draft_meaning1_syn2	unexpected	He felt a wind under the door.	3
+741	371	draft_meaning1_syn2	expected	The old house always had a draft in winter.	6
+742	371	draft_meaning1_syn2	unexpected	The old house always had a wind in winter.	6
+743	372	draft_meaning1_syn2	expected	A sudden draft blew out the candle.	2
+744	372	draft_meaning1_syn2	unexpected	A sudden wind blew out the candle.	2
+745	373	draft_meaning2_syn1	expected	She prepared a draft of the proposal.	3
+746	373	draft_meaning2_syn1	unexpected	She prepared a outline of the proposal.	3
+747	374	draft_meaning2_syn1	expected	He completed a draft for his essay.	3
+748	374	draft_meaning2_syn1	unexpected	He completed a outline for his essay.	3
+749	375	draft_meaning2_syn1	expected	The architect shared a draft of the new design.	4
+750	375	draft_meaning2_syn1	unexpected	The architect shared a outline of the new design.	4
+751	376	draft_meaning2_syn1	expected	They reviewed a draft before the meeting.	3
+752	376	draft_meaning2_syn1	unexpected	They reviewed a outline before the meeting.	3
+753	377	draft_meaning2_syn1	expected	The editor marked changes on the first draft.	7
+754	377	draft_meaning2_syn1	unexpected	The editor marked changes on the first outline	7
+755	378	draft_meaning2_syn2	expected	She prepared a draft of the proposal.	3
+756	378	draft_meaning2_syn2	unexpected	She prepared a sketch of the proposal.	3
+757	379	draft_meaning2_syn2	expected	He completed a draft for his essay.	3
+758	379	draft_meaning2_syn2	unexpected	He completed a sketch for his essay.	3
+759	380	draft_meaning2_syn2	expected	The architect shared a draft of the new design.	4
+760	380	draft_meaning2_syn2	unexpected	The architect shared a sketch of the new design.	4
+761	381	draft_meaning2_syn2	expected	They reviewed a draft before the meeting.	3
+762	381	draft_meaning2_syn2	unexpected	They reviewed a sketch before the meeting.	3
+763	382	draft_meaning2_syn2	expected	The editor marked changes on the first draft.	7
+764	382	draft_meaning2_syn2	unexpected	The editor marked changes on the first sketch	7
+765	383	fine_meaning1_syn1	expected	The meal was truly fine.	4
+766	383	fine_meaning1_syn1	unexpected	The meal was truly excellent	4
+767	384	fine_meaning1_syn1	expected	He did a fine job on the report.	3
+768	384	fine_meaning1_syn1	unexpected	He did a excellent job on the report.	3
+769	385	fine_meaning1_syn1	expected	The weather was fine all weekend.	3
+770	385	fine_meaning1_syn1	unexpected	The weather was excellent all weekend.	3
+771	386	fine_meaning1_syn1	expected	She looked fine in her outfit.	2
+772	386	fine_meaning1_syn1	unexpected	She looked excellent in her outfit.	2
+773	387	fine_meaning1_syn1	expected	The concert sounded fine from where we sat.	3
+774	387	fine_meaning1_syn1	unexpected	The concert sounded excellent from where we sat.	3
+775	388	fine_meaning1_syn2	expected	The meal was truly fine.	4
+776	388	fine_meaning1_syn2	unexpected	The meal was truly great	4
+777	389	fine_meaning1_syn2	expected	He did a fine job on the report.	3
+778	389	fine_meaning1_syn2	unexpected	He did a great job on the report.	3
+779	390	fine_meaning1_syn2	expected	The weather was fine all weekend.	3
+780	390	fine_meaning1_syn2	unexpected	The weather was great all weekend.	3
+781	391	fine_meaning1_syn2	expected	She looked fine in her outfit.	2
+782	391	fine_meaning1_syn2	unexpected	She looked great in her outfit.	2
+783	392	fine_meaning1_syn2	expected	The concert sounded fine from where we sat.	3
+784	392	fine_meaning1_syn2	unexpected	The concert sounded great from where we sat.	3
+785	393	fine_meaning2_syn1	expected	The thread was too fine for the needle.	4
+786	393	fine_meaning2_syn1	unexpected	The thread was too thin for the needle.	4
+787	394	fine_meaning2_syn1	expected	He chose a fine brush for the details.	3
+788	394	fine_meaning2_syn1	unexpected	He chose a thin brush for the details.	3
+789	395	fine_meaning2_syn1	expected	The fabric was extremely fine.	4
+790	395	fine_meaning2_syn1	unexpected	The fabric was extremely thin	4
+791	396	fine_meaning2_syn1	expected	The crack was so fine it was barely visible.	4
+792	396	fine_meaning2_syn1	unexpected	The crack was so thin it was barely visible.	4
+793	397	fine_meaning2_syn1	expected	The line on the map was very fine.	7
+794	397	fine_meaning2_syn1	unexpected	The line on the map was very thin	7
+795	398	fine_meaning2_syn2	expected	The thread was too fine for the needle.	4
+796	398	fine_meaning2_syn2	unexpected	The thread was too slender for the needle.	4
+797	399	fine_meaning2_syn2	expected	He chose a fine brush for the details.	3
+798	399	fine_meaning2_syn2	unexpected	He chose a slender brush for the details.	3
+799	400	fine_meaning2_syn2	expected	The fabric was extremely fine.	4
+800	400	fine_meaning2_syn2	unexpected	The fabric was extremely slender	4
+801	401	fine_meaning2_syn2	expected	The crack was so fine it was barely visible.	4
+802	401	fine_meaning2_syn2	unexpected	The crack was so slender it was barely visible.	4
+803	402	fine_meaning2_syn2	expected	The line on the map was very fine.	7
+804	402	fine_meaning2_syn2	unexpected	The line on the map was very slender	7
+805	403	prime_meaning1_syn1	expected	The meat was in prime condition.	4
+806	403	prime_meaning1_syn1	unexpected	The meat was in excellent condition.	4
+807	404	prime_meaning1_syn1	expected	She delivered a prime performance last night.	3
+808	404	prime_meaning1_syn1	unexpected	She delivered a excellent performance last night.	3
+809	405	prime_meaning1_syn1	expected	He found the painting in prime shape.	5
+810	405	prime_meaning1_syn1	unexpected	He found the painting in excellent shape.	5
+811	406	prime_meaning1_syn1	expected	The team was in prime form for the match.	4
+812	406	prime_meaning1_syn1	unexpected	The team was in excellent form for the match.	4
+813	407	prime_meaning1_syn1	expected	The produce looked prime at the market.	3
+814	407	prime_meaning1_syn1	unexpected	The produce looked excellent at the market.	3
+815	408	prime_meaning1_syn2	expected	The meat was in prime condition.	4
+816	408	prime_meaning1_syn2	unexpected	The meat was in great condition.	4
+817	409	prime_meaning1_syn2	expected	She delivered a prime performance last night.	3
+818	409	prime_meaning1_syn2	unexpected	She delivered a great performance last night.	3
+819	410	prime_meaning1_syn2	expected	He found the painting in prime shape.	5
+820	410	prime_meaning1_syn2	unexpected	He found the painting in great shape.	5
+821	411	prime_meaning1_syn2	expected	The team was in prime form for the match.	4
+822	411	prime_meaning1_syn2	unexpected	The team was in great form for the match.	4
+823	412	prime_meaning1_syn2	expected	The produce looked prime at the market.	3
+824	412	prime_meaning1_syn2	unexpected	The produce looked great at the market.	3
+825	413	prime_meaning2_syn1	expected	The prime reason for the delay was traffic.	1
+826	413	prime_meaning2_syn1	unexpected	The primary reason for the delay was traffic.	1
+827	414	prime_meaning2_syn1	expected	The prime goal is to finish on time.	1
+828	414	prime_meaning2_syn1	unexpected	The primary goal is to finish on time.	1
+829	415	prime_meaning2_syn1	expected	Cost was the prime concern during planning.	3
+830	415	prime_meaning2_syn1	unexpected	Cost was the primary concern during planning.	3
+831	416	prime_meaning2_syn1	expected	The prime objective of the project was clarity.	1
+832	416	prime_meaning2_syn1	unexpected	The primary objective of the project was clarity.	1
+833	417	prime_meaning2_syn1	expected	The prime focus of the program was safety.	1
+834	417	prime_meaning2_syn1	unexpected	The primary focus of the program was safety.	1
+835	418	prime_meaning2_syn2	expected	The prime reason for the delay was traffic.	1
+836	418	prime_meaning2_syn2	unexpected	The main reason for the delay was traffic.	1
+837	419	prime_meaning2_syn2	expected	The prime goal is to finish on time.	1
+838	419	prime_meaning2_syn2	unexpected	The main goal is to finish on time.	1
+839	420	prime_meaning2_syn2	expected	Cost was the prime concern during planning.	3
+840	420	prime_meaning2_syn2	unexpected	Cost was the main concern during planning.	3
+841	421	prime_meaning2_syn2	expected	The prime objective of the project was clarity.	1
+842	421	prime_meaning2_syn2	unexpected	The main objective of the project was clarity.	1
+843	422	prime_meaning2_syn2	expected	The prime focus of the program was safety.	1
+844	422	prime_meaning2_syn2	unexpected	The main focus of the program was safety.	1
+845	423	clip_meaning1_syn1	expected	She had to clip the loose threads.	3
+846	423	clip_meaning1_syn1	unexpected	She had to trim the loose threads.	3
+847	424	clip_meaning1_syn1	expected	He decided to clip the edges of the photo.	3
+848	424	clip_meaning1_syn1	unexpected	He decided to trim the edges of the photo.	3
+849	425	clip_meaning1_syn1	expected	The gardener will clip the hedges today.	3
+850	425	clip_meaning1_syn1	unexpected	The gardener will trim the hedges today.	3
+851	426	clip_meaning1_syn1	expected	They needed to clip a few branches.	3
+852	426	clip_meaning1_syn1	unexpected	They needed to trim a few branches.	3
+853	427	clip_meaning1_syn1	expected	The stylist will clip his hair shorter.	3
+854	427	clip_meaning1_syn1	unexpected	The stylist will trim his hair shorter.	3
+855	428	clip_meaning1_syn2	expected	She had to clip the loose threads.	3
+856	428	clip_meaning1_syn2	unexpected	She had to snip the loose threads.	3
+857	429	clip_meaning1_syn2	expected	He decided to clip the edges of the photo.	3
+858	429	clip_meaning1_syn2	unexpected	He decided to snip the edges of the photo.	3
+859	430	clip_meaning1_syn2	expected	The gardener will clip the hedges today.	3
+860	430	clip_meaning1_syn2	unexpected	The gardener will snip the hedges today.	3
+861	431	clip_meaning1_syn2	expected	They needed to clip a few branches.	3
+862	431	clip_meaning1_syn2	unexpected	They needed to snip a few branches.	3
+863	432	clip_meaning1_syn2	expected	The stylist will clip his hair shorter.	3
+864	432	clip_meaning1_syn2	unexpected	The stylist will snip his hair shorter.	3
+865	433	clip_meaning2_syn1	expected	She had to clip the papers together.	3
+866	433	clip_meaning2_syn1	unexpected	She had to fasten the papers together.	3
+867	434	clip_meaning2_syn1	expected	He tried to clip the microphone to his shirt.	3
+868	434	clip_meaning2_syn1	unexpected	He tried to fasten the microphone to his shirt.	3
+869	435	clip_meaning2_syn1	expected	They will clip the badge onto the lanyard.	2
+870	435	clip_meaning2_syn1	unexpected	They will fasten the badge onto the lanyard.	2
+871	436	clip_meaning2_syn1	expected	She needs to clip the key to her belt.	3
+872	436	clip_meaning2_syn1	unexpected	She needs to fasten the key to her belt.	3
+873	437	clip_meaning2_syn1	expected	He forgot to clip the leash to the collar.	3
+874	437	clip_meaning2_syn1	unexpected	He forgot to fasten the leash to the collar.	3
+875	438	clip_meaning2_syn2	expected	She had to clip the papers together.	3
+876	438	clip_meaning2_syn2	unexpected	She had to secure the papers together.	3
+877	439	clip_meaning2_syn2	expected	He tried to clip the microphone to his shirt.	3
+878	439	clip_meaning2_syn2	unexpected	He tried to secure the microphone to his shirt.	3
+879	440	clip_meaning2_syn2	expected	They will clip the badge onto the lanyard.	2
+880	440	clip_meaning2_syn2	unexpected	They will secure the badge onto the lanyard.	2
+881	441	clip_meaning2_syn2	expected	She needs to clip the key to her belt.	3
+882	441	clip_meaning2_syn2	unexpected	She needs to secure the key to her belt.	3
+883	442	clip_meaning2_syn2	expected	He forgot to clip the leash to the collar.	3
+884	442	clip_meaning2_syn2	unexpected	He forgot to secure the leash to the collar.	3
+885	443	file_meaning1_syn1	expected	She had to file the rough edges.	3
+886	443	file_meaning1_syn1	unexpected	She had to smooth the rough edges.	3
+887	444	file_meaning1_syn1	expected	The jeweler will file the metal carefully.	3
+888	444	file_meaning1_syn1	unexpected	The jeweler will smooth the metal carefully.	3
+889	445	file_meaning1_syn1	expected	He began to file the surface of the wood.	3
+890	445	file_meaning1_syn1	unexpected	He began to smooth the surface of the wood.	3
+891	446	file_meaning1_syn1	expected	They used a tool to file the glass.	5
+892	446	file_meaning1_syn1	unexpected	They used a tool to smooth the glass.	5
+893	447	file_meaning1_syn1	expected	The mechanic had to file the bolt to make it fit.	4
+894	447	file_meaning1_syn1	unexpected	The mechanic had to smooth the bolt to make it fit.	4
+895	448	file_meaning1_syn2	expected	She had to file the rough edges.	3
+896	448	file_meaning1_syn2	unexpected	She had to polish the rough edges.	3
+897	449	file_meaning1_syn2	expected	The jeweler will file the metal carefully.	3
+898	449	file_meaning1_syn2	unexpected	The jeweler will polish the metal carefully.	3
+899	450	file_meaning1_syn2	expected	He began to file the surface of the wood.	3
+900	450	file_meaning1_syn2	unexpected	He began to polish the surface of the wood.	3
+901	451	file_meaning1_syn2	expected	They used a tool to file the glass.	5
+902	451	file_meaning1_syn2	unexpected	They used a tool to polish the glass.	5
+903	452	file_meaning1_syn2	expected	The mechanic had to file the bolt to make it fit.	4
+904	452	file_meaning1_syn2	unexpected	The mechanic had to polish the bolt to make it fit.	4
+905	453	file_meaning2_syn1	expected	She had to file the meeting details.	3
+906	453	file_meaning2_syn1	unexpected	She had to record the meeting details.	3
+907	454	file_meaning2_syn1	expected	They will file the results after the test.	2
+908	454	file_meaning2_syn1	unexpected	They will record the results after the test.	2
+909	455	file_meaning2_syn1	expected	He began to file the information on his laptop.	3
+910	455	file_meaning2_syn1	unexpected	He began to record the information on his laptop.	3
+911	456	file_meaning2_syn1	expected	The assistant tried to file every change made during the project.	4
+912	456	file_meaning2_syn1	unexpected	The assistant tried to record every change made during the project.	4
+913	457	file_meaning2_syn1	expected	She needed to file the updates before the deadline.	3
+914	457	file_meaning2_syn1	unexpected	She needed to record the updates before the deadline.	3
+915	458	file_meaning2_syn2	expected	She had to file the meeting details.	3
+916	458	file_meaning2_syn2	unexpected	She had to document the meeting details.	3
+917	459	file_meaning2_syn2	expected	They will file the results after the test.	2
+918	459	file_meaning2_syn2	unexpected	They will document the results after the test.	2
+919	460	file_meaning2_syn2	expected	He began to file the information on his laptop.	3
+920	460	file_meaning2_syn2	unexpected	He began to document the information on his laptop.	3
+921	461	file_meaning2_syn2	expected	The assistant tried to file every change made during the project.	4
+922	461	file_meaning2_syn2	unexpected	The assistant tried to document every change made during the project.	4
+923	462	file_meaning2_syn2	expected	She needed to file the updates before the deadline.	3
+924	462	file_meaning2_syn2	unexpected	She needed to document the updates before the deadline.	3
+925	463	tip_meaning1_syn1	expected	He gave me a useful tip about studying.	5
+926	463	tip_meaning1_syn1	unexpected	He gave me a useful advice about studying.	5
+927	464	tip_meaning1_syn1	expected	She shared a helpful tip for cooking rice.	4
+928	464	tip_meaning1_syn1	unexpected	She shared a helpful advice for cooking rice.	4
+929	465	tip_meaning1_syn1	expected	I need a tip for fixing this problem.	3
+930	465	tip_meaning1_syn1	unexpected	I need a advice for fixing this problem.	3
+931	466	tip_meaning1_syn1	expected	They offered a tip before we started the project.	3
+932	466	tip_meaning1_syn1	unexpected	They offered a advice before we started the project.	3
+933	467	tip_meaning1_syn1	expected	She appreciated the tip from her coworker.	3
+934	467	tip_meaning1_syn1	unexpected	She appreciated the advice from her coworker.	3
+935	468	tip_meaning1_syn2	expected	He gave me a useful tip about studying.	5
+936	468	tip_meaning1_syn2	unexpected	He gave me a useful hint about studying.	5
+937	469	tip_meaning1_syn2	expected	She shared a helpful tip for cooking rice.	4
+938	469	tip_meaning1_syn2	unexpected	She shared a helpful hint for cooking rice.	4
+939	470	tip_meaning1_syn2	expected	I need a tip for fixing this problem.	3
+940	470	tip_meaning1_syn2	unexpected	I need a hint for fixing this problem.	3
+941	471	tip_meaning1_syn2	expected	They offered a tip before we started the project.	3
+942	471	tip_meaning1_syn2	unexpected	They offered a hint before we started the project.	3
+943	472	tip_meaning1_syn2	expected	She appreciated the tip from her coworker.	3
+944	472	tip_meaning1_syn2	unexpected	She appreciated the hint from her coworker.	3
+945	473	tip_meaning2_syn1	expected	The tip of the mountain was covered in snow.	1
+946	473	tip_meaning2_syn1	unexpected	The apex of the mountain was covered in snow.	1
+947	474	tip_meaning2_syn1	expected	She touched the tip of the leaf.	3
+948	474	tip_meaning2_syn1	unexpected	She touched the apex of the leaf.	3
+949	475	tip_meaning2_syn1	expected	The tip of the tower was visible from far away.	1
+950	475	tip_meaning2_syn1	unexpected	The apex of the tower was visible from far away.	1
+951	476	tip_meaning2_syn1	expected	He painted the tip of the cone red.	3
+952	476	tip_meaning2_syn1	unexpected	He painted the apex of the cone red.	3
+953	477	tip_meaning2_syn1	expected	The tip of the knife was very sharp.	1
+954	477	tip_meaning2_syn1	unexpected	The apex of the knife was very sharp.	1
+955	478	tip_meaning2_syn2	expected	The tip of the mountain was covered in snow.	1
+956	478	tip_meaning2_syn2	unexpected	The peak of the mountain was covered in snow.	1
+957	479	tip_meaning2_syn2	expected	She touched the tip of the leaf.	3
+958	479	tip_meaning2_syn2	unexpected	She touched the peak of the leaf.	3
+959	480	tip_meaning2_syn2	expected	The tip of the tower was visible from far away.	1
+960	480	tip_meaning2_syn2	unexpected	The peak of the tower was visible from far away.	1
+961	481	tip_meaning2_syn2	expected	He painted the tip of the cone red.	3
+962	481	tip_meaning2_syn2	unexpected	He painted the peak of the cone red.	3
+963	482	tip_meaning2_syn2	expected	The tip of the knife was very sharp.	1
+964	482	tip_meaning2_syn2	unexpected	The peak of the knife was very sharp.	1
+965	483	light_meaning1_syn1	expected	The box was light enough to carry.	3
+966	483	light_meaning1_syn1	unexpected	The box was lightweight enough to carry.	3
+967	484	light_meaning1_syn1	expected	The suitcase felt light this time.	3
+968	484	light_meaning1_syn1	unexpected	The suitcase felt lightweight this time.	3
+969	485	light_meaning1_syn1	expected	The backpack remained light despite the books.	3
+970	485	light_meaning1_syn1	unexpected	The backpack remained lightweight despite the books.	3
+971	486	light_meaning1_syn1	expected	His load was surprisingly light.	4
+972	486	light_meaning1_syn1	unexpected	His load was surprisingly lightweight	4
+973	487	light_meaning1_syn1	expected	The package seemed light when she picked it up.	3
+974	487	light_meaning1_syn1	unexpected	The package seemed lightweight when she picked it up.	3
+975	488	light_meaning1_syn2	expected	The box was light enough to carry.	3
+976	488	light_meaning1_syn2	unexpected	The box was insubstantial enough to carry.	3
+977	489	light_meaning1_syn2	expected	The suitcase felt light this time.	3
+978	489	light_meaning1_syn2	unexpected	The suitcase felt insubstantial this time.	3
+979	490	light_meaning1_syn2	expected	The backpack remained light despite the books.	3
+980	490	light_meaning1_syn2	unexpected	The backpack remained insubstantial despite the books.	3
+981	491	light_meaning1_syn2	expected	His load was surprisingly light.	4
+982	491	light_meaning1_syn2	unexpected	His load was surprisingly insubstantial	4
+983	492	light_meaning1_syn2	expected	The package seemed light when she picked it up.	3
+984	492	light_meaning1_syn2	unexpected	The package seemed insubstantial when she picked it up.	3
+985	493	light_meaning2_syn1	expected	The lamp gave off a warm light.	6
+986	493	light_meaning2_syn1	unexpected	The lamp gave off a warm glow	6
+987	494	light_meaning2_syn1	expected	A soft light filled the room.	2
+988	494	light_meaning2_syn1	unexpected	A soft glow filled the room.	2
+989	495	light_meaning2_syn1	expected	The light reached every corner.	1
+990	495	light_meaning2_syn1	unexpected	The glow reached every corner.	1
+991	496	light_meaning2_syn1	expected	The morning light woke him early.	2
+992	496	light_meaning2_syn1	unexpected	The morning glow woke him early.	2
+993	497	light_meaning2_syn1	expected	The light flickered once and went out.	1
+994	497	light_meaning2_syn1	unexpected	The glow flickered once and went out.	1
+995	498	light_meaning2_syn2	expected	The lamp gave off a warm light.	6
+996	498	light_meaning2_syn2	unexpected	The lamp gave off a warm shine	6
+997	499	light_meaning2_syn2	expected	A soft light filled the room.	2
+998	499	light_meaning2_syn2	unexpected	A soft shine filled the room.	2
+999	500	light_meaning2_syn2	expected	The light reached every corner.	1
+1000	500	light_meaning2_syn2	unexpected	The shine reached every corner.	1
+1001	501	light_meaning2_syn2	expected	The morning light woke him early.	2
+1002	501	light_meaning2_syn2	unexpected	The morning shine woke him early.	2
+1003	502	light_meaning2_syn2	expected	The light flickered once and went out.	1
+1004	502	light_meaning2_syn2	unexpected	The shine flickered once and went out.	1
+1005	503	scale_meaning1_syn1	expected	They need to scale the wall.	3
+1006	503	scale_meaning1_syn1	unexpected	They need to climb the wall.	3
+1007	504	scale_meaning1_syn1	expected	He tried to scale the mountain.	3
+1008	504	scale_meaning1_syn1	unexpected	He tried to climb the mountain.	3
+1009	505	scale_meaning1_syn1	expected	The team will scale the cliff.	3
+1010	505	scale_meaning1_syn1	unexpected	The team will climb the cliff.	3
+1011	506	scale_meaning1_syn1	expected	She began to scale the ladder.	3
+1012	506	scale_meaning1_syn1	unexpected	She began to climb the ladder.	3
+1013	507	scale_meaning1_syn1	expected	They attempted to scale the structure.	3
+1014	507	scale_meaning1_syn1	unexpected	They attempted to climb the structure.	3
+1015	508	scale_meaning1_syn2	expected	They need to scale the wall.	3
+1016	508	scale_meaning1_syn2	unexpected	They need to ascend the wall.	3
+1017	509	scale_meaning1_syn2	expected	He tried to scale the mountain.	3
+1018	509	scale_meaning1_syn2	unexpected	He tried to ascend the mountain.	3
+1019	510	scale_meaning1_syn2	expected	The team will scale the cliff.	3
+1020	510	scale_meaning1_syn2	unexpected	The team will ascend the cliff.	3
+1021	511	scale_meaning1_syn2	expected	She began to scale the ladder.	3
+1022	511	scale_meaning1_syn2	unexpected	She began to ascend the ladder.	3
+1023	512	scale_meaning1_syn2	expected	They attempted to scale the structure.	3
+1024	512	scale_meaning1_syn2	unexpected	They attempted to ascend the structure.	3
+1025	513	scale_meaning2_syn1	expected	They had to scale the results carefully.	3
+1026	513	scale_meaning2_syn1	unexpected	They had to measure the results carefully.	3
+1027	514	scale_meaning2_syn1	expected	He will scale the response.	2
+1028	514	scale_meaning2_syn1	unexpected	He will measure the response.	2
+1029	515	scale_meaning2_syn1	expected	She began to scale the data.	3
+1030	515	scale_meaning2_syn1	unexpected	She began to measure the data.	3
+1031	516	scale_meaning2_syn1	expected	They tried to scale each sample.	3
+1032	516	scale_meaning2_syn1	unexpected	They tried to measure each sample.	3
+1033	517	scale_meaning2_syn1	expected	The device can scale small values.	3
+1034	517	scale_meaning2_syn1	unexpected	The device can measure small values.	3
+1035	518	scale_meaning2_syn2	expected	They had to scale the results carefully.	3
+1036	518	scale_meaning2_syn2	unexpected	They had to grade the results carefully.	3
+1037	519	scale_meaning2_syn2	expected	He will scale the response.	2
+1038	519	scale_meaning2_syn2	unexpected	He will grade the response.	2
+1039	520	scale_meaning2_syn2	expected	She began to scale the data.	3
+1040	520	scale_meaning2_syn2	unexpected	She began to grade the data.	3
+1041	521	scale_meaning2_syn2	expected	They tried to scale each sample.	3
+1042	521	scale_meaning2_syn2	unexpected	They tried to grade each sample.	3
+1043	522	scale_meaning2_syn2	expected	The device can scale small values.	3
+1044	522	scale_meaning2_syn2	unexpected	The device can grade small values.	3
+1045	523	pitch_meaning1_syn1	expected	He will pitch the ball.	2
+1046	523	pitch_meaning1_syn1	unexpected	He will throw the ball.	2
+1047	524	pitch_meaning1_syn1	expected	She tried to pitch the stone.	3
+1048	524	pitch_meaning1_syn1	unexpected	She tried to throw the stone.	3
+1049	525	pitch_meaning1_syn1	expected	They watched him pitch the toy.	3
+1050	525	pitch_meaning1_syn1	unexpected	They watched him throw the toy.	3
+1051	526	pitch_meaning1_syn1	expected	He began to pitch the object.	3
+1052	526	pitch_meaning1_syn1	unexpected	He began to throw the object.	3
+1053	527	pitch_meaning1_syn1	expected	She will pitch it across the yard.	2
+1054	527	pitch_meaning1_syn1	unexpected	She will throw it across the yard.	2
+1055	528	pitch_meaning1_syn2	expected	He will pitch the ball.	2
+1056	528	pitch_meaning1_syn2	unexpected	He will toss the ball.	2
+1057	529	pitch_meaning1_syn2	expected	She tried to pitch the stone.	3
+1058	529	pitch_meaning1_syn2	unexpected	She tried to toss the stone.	3
+1059	530	pitch_meaning1_syn2	expected	They watched him pitch the toy.	3
+1060	530	pitch_meaning1_syn2	unexpected	They watched him toss the toy.	3
+1061	531	pitch_meaning1_syn2	expected	He began to pitch the object.	3
+1062	531	pitch_meaning1_syn2	unexpected	He began to toss the object.	3
+1063	532	pitch_meaning1_syn2	expected	She will pitch it across the yard.	2
+1064	532	pitch_meaning1_syn2	unexpected	She will toss it across the yard.	2
+1065	533	pitch_meaning2_syn1	expected	She had to pitch her idea.	3
+1066	533	pitch_meaning2_syn1	unexpected	She had to propose her idea.	3
+1067	534	pitch_meaning2_syn1	expected	He tried to pitch the concept.	3
+1068	534	pitch_meaning2_syn1	unexpected	He tried to propose the concept.	3
+1069	535	pitch_meaning2_syn1	expected	They began to pitch the strategy.	3
+1070	535	pitch_meaning2_syn1	unexpected	They began to propose the strategy.	3
+1071	536	pitch_meaning2_syn1	expected	She needs to pitch the plan today.	3
+1072	536	pitch_meaning2_syn1	unexpected	She needs to propose the plan today.	3
+1073	537	pitch_meaning2_syn1	expected	He tried to pitch the project early.	3
+1074	537	pitch_meaning2_syn1	unexpected	He tried to propose the project early.	3
+1075	538	pitch_meaning2_syn2	expected	She had to pitch her idea.	3
+1076	538	pitch_meaning2_syn2	unexpected	She had to promote her idea.	3
+1077	539	pitch_meaning2_syn2	expected	He tried to pitch the concept.	3
+1078	539	pitch_meaning2_syn2	unexpected	He tried to promote the concept.	3
+1079	540	pitch_meaning2_syn2	expected	They began to pitch the strategy.	3
+1080	540	pitch_meaning2_syn2	unexpected	They began to promote the strategy.	3
+1081	541	pitch_meaning2_syn2	expected	She needs to pitch the plan today.	3
+1082	541	pitch_meaning2_syn2	unexpected	She needs to promote the plan today.	3
+1083	542	pitch_meaning2_syn2	expected	He tried to pitch the project early.	3
+1084	542	pitch_meaning2_syn2	unexpected	He tried to promote the project early.	3
+1085	543	bark_meaning1_syn1	expected	The bark peeled off the old tree.	1
+1086	543	bark_meaning1_syn1	unexpected	The rind peeled off the old tree.	1
+1087	544	bark_meaning1_syn1	expected	He touched the rough bark.	4
+1088	544	bark_meaning1_syn1	unexpected	He touched the rough rind	4
+1089	545	bark_meaning1_syn1	expected	Birds hid insects beneath the bark.	5
+1090	545	bark_meaning1_syn1	unexpected	Birds hid insects beneath the rind	5
+1091	546	bark_meaning1_syn1	expected	The bark protected the trunk.	1
+1092	546	bark_meaning1_syn1	unexpected	The rind protected the trunk.	1
+1093	547	bark_meaning1_syn1	expected	The bark felt dry after the heat.	1
+1094	547	bark_meaning1_syn1	unexpected	The rind felt dry after the heat.	1
+1095	548	bark_meaning1_syn2	expected	The bark peeled off the old tree.	1
+1096	548	bark_meaning1_syn2	unexpected	The husk peeled off the old tree.	1
+1097	549	bark_meaning1_syn2	expected	He touched the rough bark.	4
+1098	549	bark_meaning1_syn2	unexpected	He touched the rough husk	4
+1099	550	bark_meaning1_syn2	expected	Birds hid insects beneath the bark.	5
+1100	550	bark_meaning1_syn2	unexpected	Birds hid insects beneath the husk	5
+1101	551	bark_meaning1_syn2	expected	The bark protected the trunk.	1
+1102	551	bark_meaning1_syn2	unexpected	The husk protected the trunk.	1
+1103	552	bark_meaning1_syn2	expected	The bark felt dry after the heat.	1
+1104	552	bark_meaning1_syn2	unexpected	The husk felt dry after the heat.	1
+1105	553	bark_meaning2_syn1	expected	The bark echoed through the yard.	1
+1106	553	bark_meaning2_syn1	unexpected	The yelp echoed through the yard.	1
+1107	554	bark_meaning2_syn1	expected	She recognized her dog’s bark.	4
+1108	554	bark_meaning2_syn1	unexpected	She recognized her dog’s yelp	4
+1109	555	bark_meaning2_syn1	expected	The bark woke everyone up.	1
+1110	555	bark_meaning2_syn1	unexpected	The yelp woke everyone up.	1
+1111	556	bark_meaning2_syn1	expected	He heard a bark at the door.	3
+1112	556	bark_meaning2_syn1	unexpected	He heard a yelp at the door.	3
+1113	557	bark_meaning2_syn1	expected	The bark sounded louder at night.	1
+1114	557	bark_meaning2_syn1	unexpected	The yelp sounded louder at night.	1
+1115	558	bark_meaning2_syn2	expected	The bark echoed through the yard.	1
+1116	558	bark_meaning2_syn2	unexpected	The woof echoed through the yard.	1
+1117	559	bark_meaning2_syn2	expected	She recognized her dog’s bark.	4
+1118	559	bark_meaning2_syn2	unexpected	She recognized her dog’s woof	4
+1119	560	bark_meaning2_syn2	expected	The bark woke everyone up.	1
+1120	560	bark_meaning2_syn2	unexpected	The woof woke everyone up.	1
+1121	561	bark_meaning2_syn2	expected	He heard a bark at the door.	3
+1122	561	bark_meaning2_syn2	unexpected	He heard a woof at the door.	3
+1123	562	bark_meaning2_syn2	expected	The bark sounded louder at night.	1
+1124	562	bark_meaning2_syn2	unexpected	The woof sounded louder at night.	1
+1125	563	rock_meaning1_syn1	expected	He threw a rock into the water.	3
+1126	563	rock_meaning1_syn1	unexpected	He threw a stone into the water.	3
+1127	564	rock_meaning1_syn1	expected	The rock felt smooth.	1
+1128	564	rock_meaning1_syn1	unexpected	The stone felt smooth.	1
+1129	565	rock_meaning1_syn1	expected	A rock rolled down the hill.	1
+1130	565	rock_meaning1_syn1	unexpected	A stone rolled down the hill.	1
+1131	566	rock_meaning1_syn1	expected	They sat on a large rock.	5
+1132	566	rock_meaning1_syn1	unexpected	They sat on a large stone	5
+1133	567	rock_meaning1_syn1	expected	A rock blocked the path.	1
+1134	567	rock_meaning1_syn1	unexpected	A stone blocked the path.	1
+1135	568	rock_meaning1_syn2	expected	He threw a rock into the water.	3
+1136	568	rock_meaning1_syn2	unexpected	He threw a boulder into the water.	3
+1137	569	rock_meaning1_syn2	expected	The rock felt smooth.	1
+1138	569	rock_meaning1_syn2	unexpected	The boulder felt smooth.	1
+1139	570	rock_meaning1_syn2	expected	A rock rolled down the hill.	1
+1140	570	rock_meaning1_syn2	unexpected	A boulder rolled down the hill.	1
+1141	571	rock_meaning1_syn2	expected	They sat on a large rock.	5
+1142	571	rock_meaning1_syn2	unexpected	They sat on a large boulder	5
+1143	572	rock_meaning1_syn2	expected	A rock blocked the path.	1
+1144	572	rock_meaning1_syn2	unexpected	A boulder blocked the path.	1
+1145	573	rock_meaning2_syn1	expected	They listened to rock all afternoon.	3
+1146	573	rock_meaning2_syn1	unexpected	They listened to metal all afternoon.	3
+1147	574	rock_meaning2_syn1	expected	He loves old rock from the 70s.	3
+1148	574	rock_meaning2_syn1	unexpected	He loves old metal from the 70s.	3
+1149	575	rock_meaning2_syn1	expected	Rock filled the stadium.	0
+1150	575	rock_meaning2_syn1	unexpected	metal filled the stadium.	0
+1151	576	rock_meaning2_syn1	expected	She prefers rock to pop.	2
+1152	576	rock_meaning2_syn1	unexpected	She prefers metal to pop.	2
+1153	577	rock_meaning2_syn1	expected	The band played classic rock.	4
+1154	577	rock_meaning2_syn1	unexpected	The band played classic metal	4
+1155	578	rock_meaning2_syn2	expected	They listened to rock all afternoon.	3
+1156	578	rock_meaning2_syn2	unexpected	They listened to punk all afternoon.	3
+1157	579	rock_meaning2_syn2	expected	He loves old rock from the 70s.	3
+1158	579	rock_meaning2_syn2	unexpected	He loves old punk from the 70s.	3
+1159	580	rock_meaning2_syn2	expected	Rock filled the stadium.	0
+1160	580	rock_meaning2_syn2	unexpected	punk filled the stadium.	0
+1161	581	rock_meaning2_syn2	expected	She prefers rock to pop.	2
+1162	581	rock_meaning2_syn2	unexpected	She prefers punk to pop.	2
+1163	582	rock_meaning2_syn2	expected	The band played classic rock.	4
+1164	582	rock_meaning2_syn2	unexpected	The band played classic punk	4
+1165	583	yard_meaning1_syn1	expected	He measured a yard of rope.	3
+1166	583	yard_meaning1_syn1	unexpected	He measured a meter of rope.	3
+1167	584	yard_meaning1_syn1	expected	The fabric is sold by the yard.	6
+1168	584	yard_meaning1_syn1	unexpected	The fabric is sold by the meter	6
+1169	585	yard_meaning1_syn1	expected	A yard separated the markers.	1
+1170	585	yard_meaning1_syn1	unexpected	A meter separated the markers.	1
+1171	586	yard_meaning1_syn1	expected	She cut a yard from the roll.	3
+1172	586	yard_meaning1_syn1	unexpected	She cut a meter from the roll.	3
+1173	587	yard_meaning1_syn1	expected	The yard was easy to estimate.	1
+1174	587	yard_meaning1_syn1	unexpected	The meter was easy to estimate.	1
+1175	588	yard_meaning1_syn2	expected	He measured a yard of rope.	3
+1176	588	yard_meaning1_syn2	unexpected	He measured a stride of rope.	3
+1177	589	yard_meaning1_syn2	expected	The fabric is sold by the yard.	6
+1178	589	yard_meaning1_syn2	unexpected	The fabric is sold by the stride	6
+1179	590	yard_meaning1_syn2	expected	A yard separated the markers.	1
+1180	590	yard_meaning1_syn2	unexpected	A stride separated the markers.	1
+1181	591	yard_meaning1_syn2	expected	She cut a yard from the roll.	3
+1182	591	yard_meaning1_syn2	unexpected	She cut a stride from the roll.	3
+1183	592	yard_meaning1_syn2	expected	The yard was easy to estimate.	1
+1184	592	yard_meaning1_syn2	unexpected	The stride was easy to estimate.	1
+1185	593	yard_meaning2_syn1	expected	They played in the yard.	4
+1186	593	yard_meaning2_syn1	unexpected	They played in the garden	4
+1187	594	yard_meaning2_syn1	expected	The yard needed mowing.	1
+1188	594	yard_meaning2_syn1	unexpected	The garden needed mowing.	1
+1189	595	yard_meaning2_syn1	expected	She planted flowers in the yard.	5
+1190	595	yard_meaning2_syn1	unexpected	She planted flowers in the garden	5
+1191	596	yard_meaning2_syn1	expected	The yard was full of leaves.	1
+1192	596	yard_meaning2_syn1	unexpected	The garden was full of leaves.	1
+1193	597	yard_meaning2_syn1	expected	He sat quietly in the yard.	5
+1194	597	yard_meaning2_syn1	unexpected	He sat quietly in the garden	5
+1195	598	yard_meaning2_syn2	expected	They played in the yard.	4
+1196	598	yard_meaning2_syn2	unexpected	They played in the lawn	4
+1197	599	yard_meaning2_syn2	expected	The yard needed mowing.	1
+1198	599	yard_meaning2_syn2	unexpected	The lawn needed mowing.	1
+1199	600	yard_meaning2_syn2	expected	She planted flowers in the yard.	5
+1200	600	yard_meaning2_syn2	unexpected	She planted flowers in the lawn	5
+1201	601	yard_meaning2_syn2	expected	The yard was full of leaves.	1
+1202	601	yard_meaning2_syn2	unexpected	The lawn was full of leaves.	1
+1203	602	yard_meaning2_syn2	expected	He sat quietly in the yard.	5
+1204	602	yard_meaning2_syn2	unexpected	He sat quietly in the lawn	5
+1205	603	coach_meaning1_syn1	expected	The coach encouraged the team.	1
+1206	603	coach_meaning1_syn1	unexpected	The mentor encouraged the team.	1
+1207	604	coach_meaning1_syn1	expected	She spoke with the coach after practice.	4
+1208	604	coach_meaning1_syn1	unexpected	She spoke with the mentor after practice.	4
+1209	605	coach_meaning1_syn1	expected	The coach planned the strategy.	1
+1210	605	coach_meaning1_syn1	unexpected	The mentor planned the strategy.	1
+1211	606	coach_meaning1_syn1	expected	They hired a new coach.	4
+1212	606	coach_meaning1_syn1	unexpected	They hired a new mentor	4
+1213	607	coach_meaning1_syn1	expected	The coach improved their skills.	1
+1214	607	coach_meaning1_syn1	unexpected	The mentor improved their skills.	1
+1215	608	coach_meaning1_syn2	expected	The coach encouraged the team.	1
+1216	608	coach_meaning1_syn2	unexpected	The tutor encouraged the team.	1
+1217	609	coach_meaning1_syn2	expected	She spoke with the coach after practice.	4
+1218	609	coach_meaning1_syn2	unexpected	She spoke with the tutor after practice.	4
+1219	610	coach_meaning1_syn2	expected	The coach planned the strategy.	1
+1220	610	coach_meaning1_syn2	unexpected	The tutor planned the strategy.	1
+1221	611	coach_meaning1_syn2	expected	They hired a new coach.	4
+1222	611	coach_meaning1_syn2	unexpected	They hired a new tutor	4
+1223	612	coach_meaning1_syn2	expected	The coach improved their skills.	1
+1224	612	coach_meaning1_syn2	unexpected	The tutor improved their skills.	1
+1225	613	coach_meaning2_syn1	expected	The coach arrived late.	1
+1226	613	coach_meaning2_syn1	unexpected	The bus arrived late.	1
+1227	614	coach_meaning2_syn1	expected	They boarded the coach quickly.	3
+1228	614	coach_meaning2_syn1	unexpected	They boarded the bus quickly.	3
+1229	615	coach_meaning2_syn1	expected	The coach stopped at the station.	1
+1230	615	coach_meaning2_syn1	unexpected	The bus stopped at the station.	1
+1231	616	coach_meaning2_syn1	expected	He slept on the coach during the trip.	4
+1232	616	coach_meaning2_syn1	unexpected	He slept on the bus during the trip.	4
+1233	617	coach_meaning2_syn1	expected	The coach carried a full load.	1
+1234	617	coach_meaning2_syn1	unexpected	The bus carried a full load.	1
+1235	618	coach_meaning2_syn2	expected	The coach arrived late.	1
+1236	618	coach_meaning2_syn2	unexpected	The carriage arrived late.	1
+1237	619	coach_meaning2_syn2	expected	They boarded the coach quickly.	3
+1238	619	coach_meaning2_syn2	unexpected	They boarded the carriage quickly.	3
+1239	620	coach_meaning2_syn2	expected	The coach stopped at the station.	1
+1240	620	coach_meaning2_syn2	unexpected	The carriage stopped at the station.	1
+1241	621	coach_meaning2_syn2	expected	He slept on the coach during the trip.	4
+1242	621	coach_meaning2_syn2	unexpected	He slept on the carriage during the trip.	4
+1243	622	coach_meaning2_syn2	expected	The coach carried a full load.	1
+1244	622	coach_meaning2_syn2	unexpected	The carriage carried a full load.	1
+1245	623	chest_meaning1_syn1	expected	He opened the wooden chest.	4
+1246	623	chest_meaning1_syn1	unexpected	He opened the wooden box	4
+1247	624	chest_meaning1_syn1	expected	The chest held old clothes.	1
+1248	624	chest_meaning1_syn1	unexpected	The box held old clothes.	1
+1249	625	chest_meaning1_syn1	expected	They moved the chest upstairs.	3
+1250	625	chest_meaning1_syn1	unexpected	They moved the box upstairs.	3
+1251	626	chest_meaning1_syn1	expected	The chest was painted red.	1
+1252	626	chest_meaning1_syn1	unexpected	The box was painted red.	1
+1253	627	chest_meaning1_syn1	expected	She locked the chest securely.	3
+1254	627	chest_meaning1_syn1	unexpected	She locked the box securely.	3
+1255	628	chest_meaning1_syn2	expected	He opened the wooden chest.	4
+1256	628	chest_meaning1_syn2	unexpected	He opened the wooden trunk	4
+1257	629	chest_meaning1_syn2	expected	The chest held old clothes.	1
+1258	629	chest_meaning1_syn2	unexpected	The trunk held old clothes.	1
+1259	630	chest_meaning1_syn2	expected	They moved the chest upstairs.	3
+1260	630	chest_meaning1_syn2	unexpected	They moved the trunk upstairs.	3
+1261	631	chest_meaning1_syn2	expected	The chest was painted red.	1
+1262	631	chest_meaning1_syn2	unexpected	The trunk was painted red.	1
+1263	632	chest_meaning1_syn2	expected	She locked the chest securely.	3
+1264	632	chest_meaning1_syn2	unexpected	She locked the trunk securely.	3
+1265	633	chest_meaning2_syn1	expected	He held his chest in pain.	3
+1266	633	chest_meaning2_syn1	unexpected	He held his torso in pain.	3
+1267	634	chest_meaning2_syn1	expected	Her chest rose and fell slowly.	1
+1268	634	chest_meaning2_syn1	unexpected	Her torso rose and fell slowly.	1
+1269	635	chest_meaning2_syn1	expected	The blow struck his chest.	4
+1270	635	chest_meaning2_syn1	unexpected	The blow struck his torso	4
+1271	636	chest_meaning2_syn1	expected	She pressed her hand to her chest.	6
+1272	636	chest_meaning2_syn1	unexpected	She pressed her hand to her torso	6
+1273	637	chest_meaning2_syn1	expected	His chest felt tight.	1
+1274	637	chest_meaning2_syn1	unexpected	His torso felt tight.	1
+1275	638	chest_meaning2_syn2	expected	He held his chest in pain.	3
+1276	638	chest_meaning2_syn2	unexpected	He held his breast in pain.	3
+1277	639	chest_meaning2_syn2	expected	Her chest rose and fell slowly.	1
+1278	639	chest_meaning2_syn2	unexpected	Her breast rose and fell slowly.	1
+1279	640	chest_meaning2_syn2	expected	The blow struck his chest.	4
+1280	640	chest_meaning2_syn2	unexpected	The blow struck his breast	4
+1281	641	chest_meaning2_syn2	expected	She pressed her hand to her chest.	6
+1282	641	chest_meaning2_syn2	unexpected	She pressed her hand to her breast	6
+1283	642	chest_meaning2_syn2	expected	His chest felt tight.	1
+1284	642	chest_meaning2_syn2	unexpected	His breast felt tight.	1
+1285	643	seal_meaning1_syn1	expected	The document bore a seal.	4
+1286	643	seal_meaning1_syn1	unexpected	The document bore a stamp	4
+1287	644	seal_meaning1_syn1	expected	They pressed the seal onto the wax.	3
+1288	644	seal_meaning1_syn1	unexpected	They pressed the stamp onto the wax.	3
+1289	645	seal_meaning1_syn1	expected	He kept the seal locked away.	3
+1290	645	seal_meaning1_syn1	unexpected	He kept the stamp locked away.	3
+1291	646	seal_meaning1_syn1	expected	The seal marked the letter.	1
+1292	646	seal_meaning1_syn1	unexpected	The stamp marked the letter.	1
+1293	647	seal_meaning1_syn1	expected	The seal represented authority.	1
+1294	647	seal_meaning1_syn1	unexpected	The stamp represented authority.	1
+1295	648	seal_meaning1_syn2	expected	The document bore a seal.	4
+1296	648	seal_meaning1_syn2	unexpected	The document bore a emblem	4
+1297	649	seal_meaning1_syn2	expected	They pressed the seal onto the wax.	3
+1298	649	seal_meaning1_syn2	unexpected	They pressed the emblem onto the wax.	3
+1299	650	seal_meaning1_syn2	expected	He kept the seal locked away.	3
+1300	650	seal_meaning1_syn2	unexpected	He kept the emblem locked away.	3
+1301	651	seal_meaning1_syn2	expected	The seal marked the letter.	1
+1302	651	seal_meaning1_syn2	unexpected	The emblem marked the letter.	1
+1303	652	seal_meaning1_syn2	expected	The seal represented authority.	1
+1304	652	seal_meaning1_syn2	unexpected	The emblem represented authority.	1
+1305	653	seal_meaning2_syn1	expected	The jar needed a tighter seal.	5
+1306	653	seal_meaning2_syn1	unexpected	The jar needed a tighter closure	5
+1307	654	seal_meaning2_syn1	expected	He broke the seal on the bottle.	3
+1308	654	seal_meaning2_syn1	unexpected	He broke the closure on the bottle.	3
+1309	655	seal_meaning2_syn1	expected	The seal prevented leaks.	1
+1310	655	seal_meaning2_syn1	unexpected	The closure prevented leaks.	1
+1311	656	seal_meaning2_syn2	expected	The jar needed a tighter seal.	5
+1312	656	seal_meaning2_syn2	unexpected	The jar needed a tighter stopper	5
+1313	657	seal_meaning2_syn2	expected	He broke the seal on the bottle.	3
+1314	657	seal_meaning2_syn2	unexpected	He broke the stopper on the bottle.	3
+1315	658	seal_meaning2_syn2	expected	The seal prevented leaks.	1
+1316	658	seal_meaning2_syn2	unexpected	The stopper prevented leaks.	1
