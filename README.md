@@ -44,6 +44,3 @@ Rezaii, N., Michaelov, J., Josephy-Hernandez, S., Ren, B., et al. (2023). Measur
 
 Wilcox, E. G., et al. (2023). Testing the predictions of surprisal theory in 11 languages. Transactions of the Association for Computational Linguistics (TACL).
 
-
-
-Additionally, if we have time and are still interested in embeddings, we can use the output from NLPScholar to potentially show correlation to similarity between static and contextual embeddings. That is, we can plot each pair on a chart where one axis is the word's average difference between its static embedding and contextual embeddings, and the other axis is its bias towards/against contronyms, represented as the difference between the contronym and non-contronym probability for that word. Ideally, we would see a correlation such that as the difference between static and contextual embeddings increases, the bias against the homonym decreases. 
