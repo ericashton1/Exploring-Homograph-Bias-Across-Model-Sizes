@@ -16,7 +16,7 @@ For each meaning, 3 sets of sentences were created using generative AI and revis
 She was hired to run the new marketing department.
 She was hired to manage the new marketing department.
 
-The final dataset consists of 34 homographs which yields 680 pairs being tested. With this data, we ran NLPScholar’s Minimal Pair mode with BERT and RoBERTa to get the surprisals of the minimally different words.
+The final dataset consists of 34 homographs which yields 680 pairs being tested. With this data, we ran [NLPScholar’s] (https://github.com/forrestdavis/NLPScholar/tree/main) Minimal Pair mode with BERT and RoBERTa to get the surprisals of the minimally different words.
 
 An important consideration for the experiment was removing frequency bias, as a model is naturally less surprised by words that appear more frequently in its training data. To account for this, we calculated adjusted surprisal in two ways: one by fitting a linear regression line of surprisal against COCA frequency of each word in the data and another using GAMs, motivated by Smith & Levy et al. (2013) and Rezaii et al. (2023). In both cases, we subtracted the point on the fit line from the original surprisal to get surprisal adjusted for frequency.
 
