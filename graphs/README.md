@@ -1,0 +1,4 @@
+**Low-frequency Low-surprisal tokens in GAM fit explanation**
+You may notice there are some unintuitive values in our GAM regression for the large model. We believe this is likely due to low frequency sub-word tokens, special characters, or punctuation. For example words like These tokens have low frequency in the vocab, and low surprisal in context. 
+*The next question of course is, do these problematic tokens significantly skew our homograph - non-homograph difference calculation?*
+We reran the analysis after removing problematic low-frequency tokens (e.g., punctuation and subwords) from the regression fit. The homograph – non-homograph surprisal difference remained virtually unchanged (mean difference was 0.01 bit) because the low frequency tokens make up a negligable part of our dataset. This indicates that our results are robust to noise in the low-frequency region. Therefore, we can remain confident in the robustness of our data.
